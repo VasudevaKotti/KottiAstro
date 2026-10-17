@@ -1,6 +1,6 @@
 # Telugu -> English Transcript Translation: Handoff
 
-_Last updated 2026-10-17 08:50 UTC. This file is generated from the translation tracker; regenerate it rather than editing the tables by hand._
+_Last updated 2026-10-17 08:52 UTC. This file is generated from the translation tracker; regenerate it rather than editing the tables by hand._
 
 ## Goal
 
@@ -8,9 +8,9 @@ Translate the 117 Telugu YouTube auto-caption transcripts in the repo root (`<vi
 
 ## Status
 
-- Files: **23 of 117 done** (21 committed to `claude/wonderful-fermat-szzyo8`), 8 in progress, 86 not started.
-- Caption lines translated: 18,348 of 129,483 (14.2%).
-- Estimated completion: about 2026-10-17 14:35 UTC at the current rate (322 lines/min).
+- Files: **24 of 117 done** (23 committed to `claude/wonderful-fermat-szzyo8`), 7 in progress, 86 not started.
+- Caption lines translated: 18,495 of 129,483 (14.3%).
+- Estimated completion: about 2026-10-17 14:51 UTC at the current rate (310 lines/min).
 
 ## Pending
 
@@ -37,35 +37,35 @@ Translate the 117 Telugu YouTube auto-caption transcripts in the repo root (`<vi
 | # | Video ID | Original title | English file | Status | Queue |
 |---|----------|----------------|--------------|--------|-------|
 | 1 | `Nf_09LbAKyU` | Astrology Utility in Modern Life | `Astrology in Modern Life.txt` | Done (committed) | 3 |
-| 2 | `zMEp7ApMcVo` | Dynamic Natal Chart, Retrograde & Dasha Flow | `Dynamic Chart Dasha Flow.txt` | Done (committed) | 5 |
-| 3 | `wF7gxcR5Ii4` | Dynamic Natal Chart, Retro & Planet Scoring | `Dynamic Chart Planet Scoring.txt` | Done (committed) | 2 |
-| 4 | `O6ioSyDizWg` | Dynamic Natal Chart & Rule 4 Analysis | `Dynamic Chart Rule 4.txt` | Done (committed) | 6 |
-| 5 | `KYySjjrBNhk` | Foreign Travel with KP Horary & Birth Chart | `Foreign Travel KP Horary.txt` | Done (committed) | 6 |
-| 6 | `LPJBFQ5jO2o` | How KP Horary Confirms Birth Chart Prediction | `KP Horary Confirms Prediction.txt` | Done (committed) | 9 |
-| 7 | `fDHx24NWJSE` | KP Horary for Stock Market Predictions | `KP Horary Stock Market.txt` | Done (committed) | - |
-| 8 | `nM-LOi7ApsE` | KP Prashna for Stock Market Analysis | `KP Prashna Stock Market.txt` | Done (committed) | 1 |
-| 9 | `4H-YpdY4gmk` | KP Astrology & Rahu, Ketu, Vak Shuddhi | `KP Rahu Ketu Vakshuddhi.txt` | Done (committed) | - |
-| 10 | `Xk_ZKNnhvIk` | Interpreting Kundali Using Structural Method | `Kundali Structural Interpretation Method.txt` | Done (committed) | - |
-| 11 | `cunqWeMtS-o` | Argentine Footballer Lionel Messi Birth Chart Analysis | `Lionel Messi Birth Chart.txt` | Done (committed) | 0 |
-| 12 | `b25cZKmUtVg` | Medical Astrology & Disease Predictions | `Medical Astrology Disease Predictions.txt` | Done (committed) | - |
-| 13 | `PItot96_dMM` | Birth Time Rectification Using Pancha Tatwa | `Pancha Tatwa Birth Rectification.txt` | Done (committed) | 5 |
-| 14 | `JY3De2pTAKU` | Planets Capacity with Performance & Resource | `Planet Capacity Performance Resource.txt` | Done (committed) | 2 |
-| 15 | `p7T9GSuiqlw` | Q & A : Rule 4, Retrograde & Chart Analysis | `Q&A Rule 4 Retrograde.txt` | Done (committed) | - |
-| 16 | `zrOI9lcHdR0` | RVA Playground & Lagna, Planet Friendship | `RVA Playground Planet Friendship.txt` | Done (committed) | 9 |
-| 17 | `PgLi-AtRP7U` | Real-Time KP Astrology Chart Analysis | `Real-Time KP Chart Analysis.txt` | Done (committed) | 3 |
-| 18 | `XQEXup6y6QA` | Understanding the Role of Sign in Predictions | `Sign Role in Predictions.txt` | Done (committed) | - |
-| 19 | `RIk8bJcDg8Q` | Quiz: Reading Chart From Just Two Planets | `Two Planet Chart Quiz.txt` | Done (committed) | 1 |
-| 20 | `e1x6ZnSS-s8` | Q&A of Vignana Course Class Q&A 5, 6 | `Vignana Course Q&A 5-6.txt` | Done (committed) | - |
-| 21 | `fS2QLzKX9jw` | Q&A of Vignana Astrology Course - YouTube Comments | `YouTube Comments Q&A.txt` | Done (committed) | - |
-| 22 | `PIBb3OXMtrM` | Planet Strength & Bhava Scoring Methodology | `Bhava Scoring Methodology.txt` | Done (not yet committed) | 7 |
-| 23 | `6hLZ0Vi4kwU` | Interpretation Practice with One Planet Only | `Single Planet Interpretation Practice.txt` | Done (not yet committed) | 4 |
-| 24 | `wTfdyfZ105k` | Interpret Functional Malefics in 12 Houses | `Functional Malefics 12 Houses.txt` | In progress: 130/861 lines | 2 |
-| 25 | `yX41uXvgLfk` | Multiple Love Breakups, Family Responsibility | `Love Breakups Family Responsibility.txt` | In progress: 670/955 lines | 6 |
-| 26 | `SmeZp0Ugsm0` | Movie Dialogues into Planetary Positions | `Movie Dialogues Planetary Positions.txt` | In progress: 138/939 lines | 3 |
-| 27 | `p1RuLdqiaD4` | Planet Capacity Calculator & Dynamic Chart | `Planet Capacity Calculator.txt` | In progress: 405/942 lines | 1 |
-| 28 | `VIisiDz80ME` | Planet Performance & Capacity Explained | `Planet Performance Capacity Explained.txt` | In progress: 882/963 lines | 10 |
+| 2 | `PIBb3OXMtrM` | Planet Strength & Bhava Scoring Methodology | `Bhava Scoring Methodology.txt` | Done (committed) | 7 |
+| 3 | `zMEp7ApMcVo` | Dynamic Natal Chart, Retrograde & Dasha Flow | `Dynamic Chart Dasha Flow.txt` | Done (committed) | 5 |
+| 4 | `wF7gxcR5Ii4` | Dynamic Natal Chart, Retro & Planet Scoring | `Dynamic Chart Planet Scoring.txt` | Done (committed) | 2 |
+| 5 | `O6ioSyDizWg` | Dynamic Natal Chart & Rule 4 Analysis | `Dynamic Chart Rule 4.txt` | Done (committed) | 6 |
+| 6 | `KYySjjrBNhk` | Foreign Travel with KP Horary & Birth Chart | `Foreign Travel KP Horary.txt` | Done (committed) | 6 |
+| 7 | `LPJBFQ5jO2o` | How KP Horary Confirms Birth Chart Prediction | `KP Horary Confirms Prediction.txt` | Done (committed) | 9 |
+| 8 | `fDHx24NWJSE` | KP Horary for Stock Market Predictions | `KP Horary Stock Market.txt` | Done (committed) | - |
+| 9 | `nM-LOi7ApsE` | KP Prashna for Stock Market Analysis | `KP Prashna Stock Market.txt` | Done (committed) | 1 |
+| 10 | `4H-YpdY4gmk` | KP Astrology & Rahu, Ketu, Vak Shuddhi | `KP Rahu Ketu Vakshuddhi.txt` | Done (committed) | - |
+| 11 | `Xk_ZKNnhvIk` | Interpreting Kundali Using Structural Method | `Kundali Structural Interpretation Method.txt` | Done (committed) | - |
+| 12 | `cunqWeMtS-o` | Argentine Footballer Lionel Messi Birth Chart Analysis | `Lionel Messi Birth Chart.txt` | Done (committed) | 0 |
+| 13 | `b25cZKmUtVg` | Medical Astrology & Disease Predictions | `Medical Astrology Disease Predictions.txt` | Done (committed) | - |
+| 14 | `PItot96_dMM` | Birth Time Rectification Using Pancha Tatwa | `Pancha Tatwa Birth Rectification.txt` | Done (committed) | 5 |
+| 15 | `JY3De2pTAKU` | Planets Capacity with Performance & Resource | `Planet Capacity Performance Resource.txt` | Done (committed) | 2 |
+| 16 | `p7T9GSuiqlw` | Q & A : Rule 4, Retrograde & Chart Analysis | `Q&A Rule 4 Retrograde.txt` | Done (committed) | - |
+| 17 | `zrOI9lcHdR0` | RVA Playground & Lagna, Planet Friendship | `RVA Playground Planet Friendship.txt` | Done (committed) | 9 |
+| 18 | `PgLi-AtRP7U` | Real-Time KP Astrology Chart Analysis | `Real-Time KP Chart Analysis.txt` | Done (committed) | 3 |
+| 19 | `XQEXup6y6QA` | Understanding the Role of Sign in Predictions | `Sign Role in Predictions.txt` | Done (committed) | - |
+| 20 | `6hLZ0Vi4kwU` | Interpretation Practice with One Planet Only | `Single Planet Interpretation Practice.txt` | Done (committed) | 4 |
+| 21 | `RIk8bJcDg8Q` | Quiz: Reading Chart From Just Two Planets | `Two Planet Chart Quiz.txt` | Done (committed) | 1 |
+| 22 | `e1x6ZnSS-s8` | Q&A of Vignana Course Class Q&A 5, 6 | `Vignana Course Q&A 5-6.txt` | Done (committed) | - |
+| 23 | `fS2QLzKX9jw` | Q&A of Vignana Astrology Course - YouTube Comments | `YouTube Comments Q&A.txt` | Done (committed) | - |
+| 24 | `VIisiDz80ME` | Planet Performance & Capacity Explained | `Planet Performance Capacity Explained.txt` | Done (not yet committed) | 10 |
+| 25 | `wTfdyfZ105k` | Interpret Functional Malefics in 12 Houses | `Functional Malefics 12 Houses.txt` | In progress: 130/861 lines | 2 |
+| 26 | `yX41uXvgLfk` | Multiple Love Breakups, Family Responsibility | `Love Breakups Family Responsibility.txt` | In progress: 670/955 lines | 6 |
+| 27 | `SmeZp0Ugsm0` | Movie Dialogues into Planetary Positions | `Movie Dialogues Planetary Positions.txt` | In progress: 138/939 lines | 3 |
+| 28 | `p1RuLdqiaD4` | Planet Capacity Calculator & Dynamic Chart | `Planet Capacity Calculator.txt` | In progress: 405/942 lines | 1 |
 | 29 | `mnQNq_CYgA8` | Planetary Retrograde Practice Session | `Planetary Retrograde Practice Session.txt` | In progress: 709/981 lines | 5 |
-| 30 | `yVcBeij58SM` | Planetary Rules, Dasha & House Analysis | `Planetary Rules Dasha Analysis.txt` | In progress: 762/862 lines | 8 |
+| 30 | `yVcBeij58SM` | Planetary Rules, Dasha & House Analysis | `Planetary Rules Dasha Analysis.txt` | In progress: 828/862 lines | 8 |
 | 31 | `AHXG7zU2cG0` | Western Progression Practice on Real Charts | `Western Progression Real Charts.txt` | In progress: 66/1009 lines | 9 |
 | 32 | `RDwAfrgk1Dc` | Many Planets in 10th & 11th Houses Make Rich? | `10th 11th House Wealth.txt` | Pending | 6 |
 | 33 | `0M9ts6BH-Yw` | 6th Lord Influence on Marriage Breakdown | `6th Lord Marriage Breakdown.txt` | Pending | - |
