@@ -1,6 +1,6 @@
 # Telugu -> English Transcript Translation: Handoff
 
-_Last updated 2026-10-17 08:52 UTC. This file is generated from the translation tracker; regenerate it rather than editing the tables by hand._
+_Last updated 2026-10-17 08:54 UTC. This file is generated from the translation tracker; regenerate it rather than editing the tables by hand._
 
 ## Goal
 
@@ -8,9 +8,10 @@ Translate the 117 Telugu YouTube auto-caption transcripts in the repo root (`<vi
 
 ## Status
 
-- Files: **24 of 117 done** (23 committed to `claude/wonderful-fermat-szzyo8`), 7 in progress, 86 not started.
-- Caption lines translated: 18,495 of 129,483 (14.3%).
-- Estimated completion: about 2026-10-17 14:51 UTC at the current rate (310 lines/min).
+- Files: **25 of 117 done** (24 committed to `claude/wonderful-fermat-szzyo8`), 6 stopped mid-file, 86 not started.
+- **Paused**: translation stopped at the user's request after 25 files on 2026-10-17 (~09:10 UTC); the six agents that were mid-file were halted, so their partial files are not in the repo
+- Caption lines translated: 18,529 of 129,483 (14.3%).
+- Estimated completion: not applicable while paused.
 
 ## Pending
 
@@ -30,7 +31,7 @@ Translate the 117 Telugu YouTube auto-caption transcripts in the repo root (`<vi
 
 - Finished transcripts are committed on `claude/wonderful-fermat-szzyo8`; anything marked *Done (committed)* below is safe.
 - In-progress blocks live only in the session's scratchpad (`scratchpad/work/<videoId>.en.txt`) and do not survive the cloud container. A fresh session restarts those files from line 1; nothing else is lost.
-- The video ID -> English file name mapping is the table below.
+- To resume, take the *Pending* and *Stopped* rows below, split them across fresh translation agents and continue with the same conventions. The video ID -> English file name mapping is the table below.
 
 ## File status
 
@@ -51,22 +52,22 @@ Translate the 117 Telugu YouTube auto-caption transcripts in the repo root (`<vi
 | 13 | `b25cZKmUtVg` | Medical Astrology & Disease Predictions | `Medical Astrology Disease Predictions.txt` | Done (committed) | - |
 | 14 | `PItot96_dMM` | Birth Time Rectification Using Pancha Tatwa | `Pancha Tatwa Birth Rectification.txt` | Done (committed) | 5 |
 | 15 | `JY3De2pTAKU` | Planets Capacity with Performance & Resource | `Planet Capacity Performance Resource.txt` | Done (committed) | 2 |
-| 16 | `p7T9GSuiqlw` | Q & A : Rule 4, Retrograde & Chart Analysis | `Q&A Rule 4 Retrograde.txt` | Done (committed) | - |
-| 17 | `zrOI9lcHdR0` | RVA Playground & Lagna, Planet Friendship | `RVA Playground Planet Friendship.txt` | Done (committed) | 9 |
-| 18 | `PgLi-AtRP7U` | Real-Time KP Astrology Chart Analysis | `Real-Time KP Chart Analysis.txt` | Done (committed) | 3 |
-| 19 | `XQEXup6y6QA` | Understanding the Role of Sign in Predictions | `Sign Role in Predictions.txt` | Done (committed) | - |
-| 20 | `6hLZ0Vi4kwU` | Interpretation Practice with One Planet Only | `Single Planet Interpretation Practice.txt` | Done (committed) | 4 |
-| 21 | `RIk8bJcDg8Q` | Quiz: Reading Chart From Just Two Planets | `Two Planet Chart Quiz.txt` | Done (committed) | 1 |
-| 22 | `e1x6ZnSS-s8` | Q&A of Vignana Course Class Q&A 5, 6 | `Vignana Course Q&A 5-6.txt` | Done (committed) | - |
-| 23 | `fS2QLzKX9jw` | Q&A of Vignana Astrology Course - YouTube Comments | `YouTube Comments Q&A.txt` | Done (committed) | - |
-| 24 | `VIisiDz80ME` | Planet Performance & Capacity Explained | `Planet Performance Capacity Explained.txt` | Done (not yet committed) | 10 |
-| 25 | `wTfdyfZ105k` | Interpret Functional Malefics in 12 Houses | `Functional Malefics 12 Houses.txt` | In progress: 130/861 lines | 2 |
-| 26 | `yX41uXvgLfk` | Multiple Love Breakups, Family Responsibility | `Love Breakups Family Responsibility.txt` | In progress: 670/955 lines | 6 |
-| 27 | `SmeZp0Ugsm0` | Movie Dialogues into Planetary Positions | `Movie Dialogues Planetary Positions.txt` | In progress: 138/939 lines | 3 |
-| 28 | `p1RuLdqiaD4` | Planet Capacity Calculator & Dynamic Chart | `Planet Capacity Calculator.txt` | In progress: 405/942 lines | 1 |
-| 29 | `mnQNq_CYgA8` | Planetary Retrograde Practice Session | `Planetary Retrograde Practice Session.txt` | In progress: 709/981 lines | 5 |
-| 30 | `yVcBeij58SM` | Planetary Rules, Dasha & House Analysis | `Planetary Rules Dasha Analysis.txt` | In progress: 828/862 lines | 8 |
-| 31 | `AHXG7zU2cG0` | Western Progression Practice on Real Charts | `Western Progression Real Charts.txt` | In progress: 66/1009 lines | 9 |
+| 16 | `VIisiDz80ME` | Planet Performance & Capacity Explained | `Planet Performance Capacity Explained.txt` | Done (committed) | 10 |
+| 17 | `p7T9GSuiqlw` | Q & A : Rule 4, Retrograde & Chart Analysis | `Q&A Rule 4 Retrograde.txt` | Done (committed) | - |
+| 18 | `zrOI9lcHdR0` | RVA Playground & Lagna, Planet Friendship | `RVA Playground Planet Friendship.txt` | Done (committed) | 9 |
+| 19 | `PgLi-AtRP7U` | Real-Time KP Astrology Chart Analysis | `Real-Time KP Chart Analysis.txt` | Done (committed) | 3 |
+| 20 | `XQEXup6y6QA` | Understanding the Role of Sign in Predictions | `Sign Role in Predictions.txt` | Done (committed) | - |
+| 21 | `6hLZ0Vi4kwU` | Interpretation Practice with One Planet Only | `Single Planet Interpretation Practice.txt` | Done (committed) | 4 |
+| 22 | `RIk8bJcDg8Q` | Quiz: Reading Chart From Just Two Planets | `Two Planet Chart Quiz.txt` | Done (committed) | 1 |
+| 23 | `e1x6ZnSS-s8` | Q&A of Vignana Course Class Q&A 5, 6 | `Vignana Course Q&A 5-6.txt` | Done (committed) | - |
+| 24 | `fS2QLzKX9jw` | Q&A of Vignana Astrology Course - YouTube Comments | `YouTube Comments Q&A.txt` | Done (committed) | - |
+| 25 | `yVcBeij58SM` | Planetary Rules, Dasha & House Analysis | `Planetary Rules Dasha Analysis.txt` | Done (not yet committed) | 8 |
+| 26 | `wTfdyfZ105k` | Interpret Functional Malefics in 12 Houses | `Functional Malefics 12 Houses.txt` | Stopped at 130/861 lines (partial work in scratchpad only; restart from line 1 when resuming) | 2 |
+| 27 | `yX41uXvgLfk` | Multiple Love Breakups, Family Responsibility | `Love Breakups Family Responsibility.txt` | Stopped at 670/955 lines (partial work in scratchpad only; restart from line 1 when resuming) | 6 |
+| 28 | `SmeZp0Ugsm0` | Movie Dialogues into Planetary Positions | `Movie Dialogues Planetary Positions.txt` | Stopped at 138/939 lines (partial work in scratchpad only; restart from line 1 when resuming) | 3 |
+| 29 | `p1RuLdqiaD4` | Planet Capacity Calculator & Dynamic Chart | `Planet Capacity Calculator.txt` | Stopped at 405/942 lines (partial work in scratchpad only; restart from line 1 when resuming) | 1 |
+| 30 | `mnQNq_CYgA8` | Planetary Retrograde Practice Session | `Planetary Retrograde Practice Session.txt` | Stopped at 709/981 lines (partial work in scratchpad only; restart from line 1 when resuming) | 5 |
+| 31 | `AHXG7zU2cG0` | Western Progression Practice on Real Charts | `Western Progression Real Charts.txt` | Stopped at 66/1009 lines (partial work in scratchpad only; restart from line 1 when resuming) | 9 |
 | 32 | `RDwAfrgk1Dc` | Many Planets in 10th & 11th Houses Make Rich? | `10th 11th House Wealth.txt` | Pending | 6 |
 | 33 | `0M9ts6BH-Yw` | 6th Lord Influence on Marriage Breakdown | `6th Lord Marriage Breakdown.txt` | Pending | - |
 | 34 | `wxxVYO2Q5iM` | Aquarius Ascendant – Time Factor vs Horoscope | `Aquarius Ascendant Time Factor.txt` | Pending | 6 |

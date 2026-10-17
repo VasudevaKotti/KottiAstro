@@ -1,0 +1,863 @@
+# yVcBeij58SM	Planetary Rules, Dasha & House Analysis | Vignana Astrology Course | Learn Astrology in Telugu	lang=en (translated from te)
+0:00 Good evening, everyone. I thought I'd say a punch line at the start of the class, but I forgot the punch line. Okay, anyway, yesterday about dasha
+0:07 flow we talked, right? So, since you asked me to express it in a bit more detail, this and that,
+0:14 let's explain. What's happening is, ah, we explain, but it has to be remembered, right? So, for that,
+0:21 we'll give rules again. It has to be calculated; for that I also made a calculator. On our channel, whatever calculators I'm showing in class,
+0:29 those aren't final; they're just in prototype. There'll be 100 errors in them. So nobody open and look at them, okay? Ah, don't ask me to give the links,
+0:38 okay? If you see it, open those details in the browser; open it secretly, don't tell me about it, okay? Because I
+0:46 haven't officially released them yet. I check them and, out of over-enthusiasm, I'm sharing them a little, but once everything is perfect, officially,
+0:55 one day we'll put up a video, "software tool, these, use it like this", and we'll release it with documentation too. Okay, fine. Now, now, that dasha flow,
+1:05 shall we look at it? Or shall we discuss any other topics? Ah, on bhava analysis, on these, I'm thinking of giving an idea
+1:13 today. Then, for dasha flow, we made a small calculator, so to make it easy, I'll open that too and
+1:21 show it. First, the advertisement is important, right? So let's see.
+1:28 What it is: we did it like this.
+1:35 Okay, here you can give any birth details. You have to enter the birth details
+1:42 very carefully, so to speak. Okay. Or else if it disappears like that... Screen share, ah, isn't the screen share visible?
+2:02 Okay, it's visible, right? Ah, it's visible. Okay, tell me, who'll raise a hand and give birth details? Any one.
+2:11 Okay, I'll give, sir; everything gets covered, that's why. Give it, give it. Ah, in this we don't have a database connected,
+2:19 so... Ah, it's fine, sir, I'll do it, some number. Ah, tell the date of birth. Yeah, 1... 14,
+2:27 one... that is, 14 hyphen 03 hyphen, hyphen 1987, '87. Ah, the time,
+2:36 9:48 AM. What? 9... 9 AM? Ah, ah, 9:48.
+2:45 Morning, morning.
+2:57 Ah, let's remove this, sir. Okay, sure. Pulivendula.
+3:08 Okay, right. Okay, okay. The chart came out correctly, right? Ah, it came out correctly.
+3:17 It came out correctly. Now, whoever will explain the dasha flow, based on what you learned yesterday, raise your hand first.
+3:29 3023, sir. 3023, will you explain? Take one, one planet and explain. Ah, go ahead; take Venus and explain.
+3:41 That "Andhra Pradesh" is overlapping, right sir? It's overlapping. Even if you want to remove it, right-click and remove it, sir. Right-click, inspect, and remove it.
+3:48 Ah, now all that will be recorded on screen; never mind. That's the Moon.
+3:54 Ah, this is the Moon; what's here is the Moon. Okay, fine. If you want a tooltip, the tooltip is also
+4:03 there. Okay. Venus, first: not in own house, not exalted. So next we have to see, ah, which
+4:10 nakshatra he's in. He's in Shravana nakshatra. Shravana... and before that, we have to check who is in Venus's nakshatras.
+4:18 In Venus's nakshatras: there, Mars is at 21 degrees, right? Yes, he's in Venus's nakshatra. Venus's nakshatra, is anyone else there? In Venus's
+4:27 nakshatra... here it's 13° 23', right? I mean, I think that's still Magha. Once it crosses 20 (13°20'), the nakshatra changes for us.
+4:39 So here too there are two in the nakshatras: Mars and the Moon are in Venus's nakshatra.
+4:47 Since there are multiple planets, we take Venus himself as the star dasha lord. Okay, that's it, right?
+4:55 Ah, take it, then tell. I mean, here Rule 3 came, so, ah,
+5:03 so since there are multiple planets, the dasha lord is the original star lord. Okay, okay, okay. Is it done?
+5:11 Will anyone else explain about this same Venus? 2956, 3038
+5:21 Sir, 3037. Go ahead, go ahead. Here, more than one planet... Venus's
+5:29 nakshatras have planets, so Venus... the star lord; that dasha's result will be in the manner of the nakshatra, the star lord,
+5:38 we can say, right? Okay, done. I mean, the Moon, the Moon, 5th... the Moon is in the 5th, so, hmm,
+5:46 ah, the 4th lord, 5th, 5th: the 4th house and 5th significations may come in that dasha, we can say. Okay, right. All of you close your eyes;
+5:55 I'll scroll down all at once, quickly. Done. Okay, now they've come up, right? First rule... I've written the rules, so to speak, clearly
+6:03 in English; I'll explain in Telugu. The first rule is... I mean, I've written them clearly so we don't get confused. Rule number
+6:12 one is: when any planet is in its own star or in parivartana, we take the sign lord. You know that, right?
+6:20 Right? Yes. So, ah, okay, very good. So you shouldn't forget this rule, so to speak. Now, is Venus
+6:29 in parivartana with the Moon or not? Venus and the Moon are in parivartana. So, considering that, Venus
+6:38 follows as if he's in Leo, and acts as if he's in the Sun's nakshatra. So we have to catch that, understood?
+6:46 Once, once, will you go up? Are Venus and the Moon in parivartana? Yes, Venus... Venus is in the Moon's nakshatra,
+6:53 and the Moon is in Venus's nakshatra, right? Oh, okay, okay, okay. Yes, yes, right? I said it, right? I said it right then. Yes, yes, correct.
+7:00 So if we don't check this parivartana first, we'll fall flat on our face. So first we have to check parivartana, so to speak. Okay. Then another thing: this
+7:07 parivartana: if Venus turns retrograde or anything happens, it changes, right? Then the matter changes. Yesterday too we took, which ascendant, a Taurus ascendant,
+7:14 and, ah, Saturn was in the Moon's nakshatra; before that he was in Mars's nakshatra; then Mercury came, turned retrograde, and it changed like this, right? Dynamically, we
+7:23 take the dynamic planetary position, you know, right? If any planet moves backward or forward, okay; if it goes back from that nakshatra, whether retrograde
+7:31 or direct, we should take that position; if it goes forward, we should take the retrograde position. With those two rules, we have to keep checking the planetary position from time to time, so to speak. Every year,
+7:40 will you check using the progression chart, or however else you check, it's up to you. So this parivartana, assuming it's there for now, on a natal chart
+7:48 I'm explaining first, without confusing you first with "dynamic", okay? Okay? Okay sir, okay.
+7:56 Ah, 3038, some noise is coming from your side. Either keep the mic away or switch off the fan; set up something. Okay.
+8:04 Okay, I'll unmute only when I say okay, sir. Ah, the problem isn't the mic; the mic is all fine. About the background noise
+8:13 I'm talking. Okay, fine. Then next, rule number two. Did you understand rule number one? Any confusion?
+8:21 One question, sir. In rule number one, now when there's parivartana, the sign lord... here Venus, as if he's in Leo,
+8:30 you said we take it, right? Then you're saying we take the Sun. Yes, yes. Venus parivartana... and parivartana, the Sun won't have it anymore,
+8:38 so... sorry, retrogression doesn't exist for the Sun, so this planet will never retro-... in this dasha there'll be no retrogression effect,
+8:46 can we assume that? Let's talk about the retrogression effect later. After first catching the planet, we'll go to that too: what if it's retrograde, what if it isn't, we'll talk about that. Now, in yesterday's chart
+8:55 too, in the Taurus ascendant chart, Saturn was retrograde, right? So what to do with that, you'll understand once I explain these four rules. The first rule, you've understood,
+9:03 right? That's the first rule: now, whom Venus should take... because of the parivartana yoga we follow the sign lord; you
+9:10 know that, right? That's the rule: directly, if there's parivartana, it gives results based on where that sign lord is, that's all. That's simple. Okay. In this example, he won't follow the Sun... so
+9:20 Yes, in this example it follows the Sun, so... yes, since it follows the Sun, it gives results according to that. Done. That's it, that's it.
+9:26 So in case it's in its own star, or own... exalted, or in its own sign, whether exalted or in own sign, then
+9:35 we should directly follow whoever its original star lord is. Directly follow where he is. The same rule applies to this too: for the planet
+9:43 25%, and for the star lord, 75%: that rule must be taken. Okay?
+9:51 Okay, okay. Then next, ah, did you understand this rule?
+9:59 Didn't you understand? The second rule. Someone, someone... 2950, say "hmm". If someone says "hmm", I'll feel comfortable.
+10:08 That's all. Yeah sir, understood. Okay. Then the third rule. The third rule is: multiple occupants.
+10:16 I mean, now in the same nakshatra, now in Venus's star, earlier we saw, what was it, Mars and the Moon, these two.
+10:23 When we see that, what should we do? We should directly follow Venus's star lord, the Moon. That's what our 3023 said earlier, so to speak. Okay, so that's this Rule 3,
+10:32 so to speak. Since there's parivartana there, we don't actually come to this Rule 3 at all, so to speak, understood? That's the thing. In case a single planet, in Venus's nakshatra, now,
+10:40 in the earlier chart, if none of those occupied it and only Mars did... no parivartana, no exaltation for Venus, nothing. So suppose only Mars occupies it, in Aries:
+10:49 then we directly take that itself, so to speak. Mars is on the ascendant. There's magic in this fourth rule, a magic; be very careful, so to speak, with this fourth rule.
+10:57 Okay, this is a big headache program, so to speak. Okay, so you have to be careful. If one single planet is occupying it,
+11:05 we should consider that it's his dasha that has come. I mean, it's not Venus dasha that came for us. In all the other cases, it'll be like Venus and the Moon performed together, or Mars and Rahu
+11:14 performed together, but in this case alone, it'll act as though Mars dasha came directly, so to speak, understood? So with this rule you have to be a bit
+11:22 careful. One more thing: now suppose some planet in Venus's nakshatra fell into debilitation. For example, Saturn in Venus's nakshatra,
+11:31 the only planet, and it's debilitated: we don't take it, so to speak. It's an exception clause in the fourth rule, so to speak. Without taking it, we directly follow Venus's star
+11:39 lord. That's the thing. Okay, so if none of these apply... we wrote these rules above; in case some other rule comes up
+11:47 without our knowing... so what did our AI (?) suggest? It made a rule called the "default rule". After the rules we gave,
+11:54 like this, if none of the above apply, it says to directly take the star lord. In this, except for this one case,
+12:02 except the first case and the fourth case, in all the other cases we directly follow the star lord itself. In all, we showed five cases;
+12:09 in them, except in two cases, in all the remaining cases, directly... I mean, in a way, even parivartana is directly the star lord: we set it as the "effective star lord"
+12:16 for it. So we directly follow that star lord. Only this one case, only the fourth rule creates magic; it's the one that trips us
+12:24 up. So only in this matter do we have to be careful, so to speak. For that, look, I made this whole big thing, so to speak. Okay, so
+12:31 now I, above... now did anyone understand or not? Those who didn't understand, raise your hands. Those who understood, also ask.
+12:38 So let's talk, and then use the tool. 3038.
+12:46 Sir, could you explain this fourth rule once more? The fourth rule is: now in Venus's nakshatra... now you saw this same chart above, right?
+12:55 The chart. Ah, in this Venus's nakshatra only Mars is there, okay? Okay? Suppose the Moon isn't there either, no parivartana, nothing:
+13:02 then it'll give results as if Mars dasha came, so to speak. If Mars is good, it'll be good; if not, not. That's all. Okay sir, okay sir. Okay.
+13:11 Single planet occupied, so to speak. Single planet occupied. Ah, sir, now, earlier: if it's debilitated, don't take it?
+13:18 Yes. Ah, if that single planet is debilitated: now, for example, suppose Saturn is in this same Venus's nakshatra. Then we don't take it, so to speak. Directly, Venus's star
+13:26 lord, the Moon itself, we take, understood? Okay, okay, okay.
+13:34 Yes. Ah, no more doubts? Is everyone clear?
+13:40 2950, is it clear? Okay. 3023, did you understand?
+13:50 I understood, sir. Ah, 3024, did you understand too? 3024?
+14:01 Okay. 2950, 2950, tell me, what did you understand? I wanted to ask a small clarification: when there's one planet,
+14:09 when you say he gives the results directly, do we still take Venus and superimpose it, or do we directly take the planet that's there? Ah, yes, that's it. Only at the fourth rule;
+14:17 in all the others... now, now, for example, suppose we took a different planet: now Mercury is in Mars's star, so it acts as though Mars and Mercury are together. But
+14:26 now, if only one planet occupies that nakshatra, Mars himself will directly give the result, so to speak. There's no "together" anymore, so to speak. Directly, wherever it is,
+14:34 it tries to give predominant results there. So now, in Venus dasha, Mars, the ascendant... Mars dasha came. Venus dasha means Mars dasha
+14:42 came, so to speak. Okay, okay. For an Aries ascendant, if Mars dasha comes, how will it be? It'll be good, right? Yes, it'll be good.
+14:49 Ah, it'll be good. Ah, yes, if it's not retrograde, even better; if not afflicted, it'll be good. We look at how he is and decide, that's all.
+14:58 Simple. He, for us, what is it... by our reckoning, he shouldn't be retrograde; if he's well placed, that's enough, that's all. Yeah sir.
+15:05 Beyond that, there's nothing more he wants. Okay. Namaste, I just came in; that's why I couldn't respond. Sorry.
+15:14 Okay, no problem. You understood, right? I mean, I just came. Okay, okay, fine. I'll call on you again later, then.
+15:20 3028? Understood, sir. Okay. 3037?
+15:29 Sir, understood, sir. Okay. 3039? Understood, sir. Okay. 3050?
+15:38 Understood, garu. Okay. 56, 3056? Yeah, under(stood). Okay. A lot of people are waiting for you
+15:45 for comments. What shall we do with them? What do you say, tell me.
+15:54 I'll tell them... I'll ask them, "Are you busy?" (?). Okay, fine, then let's talk about each rule one by one. Ah, now, since these five rules
+16:02 are understood, I made this calculator above. You check for yourselves whether it worked correctly or not.
+16:09 Okay? So actually, how we did it earlier was, we made it with this chart on one side and the table beside it, but since the table wasn't fully visible, I've put it like this,
+16:18 so to speak. Okay? Okay. So I'll put it like this. Whichever one you name,
+16:27 I'll tell it according to this table, so to speak. Easily. Tell me which one you'll select; I'll say the rule from memory, like an exam. Four or five charts,
+16:35 set me an exam; that's fun for me. So then you'll get a grip too. Then we'll set an exam for you.
+16:41 Okay? So then explain it a bit slowly. Ah, I'll explain. If you ask about a planet, I'll
+16:48 explain slowly. Hey, this... shall we look at yesterday's? She (?)... default
+16:55 Ah, tell me, tell me. 3028, tell me. Ah, sir, yesterday we looked at this keeping the progression chart alongside, right? Now, that
+17:03 aside, just before, ah, before going to the progression at all, first basically how to understand it: you asked me to explain it fresh, right, slowly from the start?
+17:11 Since you said that, I started again from the beginning. Okay sir. Fine. Okay, okay, fine. Now what, you're asking
+17:19 me to explain the Sun? What did you choose? Raise your hand. Okay, let's look at the Sun.
+17:25 Ah, okay. Now, now, the Sun, ah, okay, the Sun, the Sun. Let's go into the chart; let's look at the Sun,
+17:32 okay? Our chart is easier than the table. So now, what's our first rule? The Sun is in Jupiter's star; he's not in parivartana. The first rule is overridden. Then
+17:41 what's the second rule? Is anyone in the Sun's star? No one, right, in the chart? So Venus isn't there either. Krittika, Uttara Phalguni, Uttarashadha. So in the Sun's
+17:50 star too there's no one. Neatly, we just take the Sun's star lord, so to speak. Who's the Sun's star lord? Jupiter. Jupiter is in his own sign,
+17:57 so to speak. Okay, so the 12th lord is in the 12th, so the Sun dasha will be average, so to speak, not great. Okay, okay. About 65, 70%
+18:06 good, we can give it a rating like that, so to speak. Okay. In that too, for us, he's the 9th and 12th lord; since there's no one
+18:13 in the 9th, he'll also act as the 9th lord. So it's not the 12th-lord dosha, so the Sun dasha will be fine. Okay. But, ah,
+18:21 even though being with Rahu is a dosha, Jupiter is overriding it; because of the own house it'll be fine, we can say, to a large extent, so to speak. Even if half
+18:28 doesn't work, at least the remaining half will work, since he's the 9th and 12th lord, right? It works at the beginning and the remaining half may be neutral, we can say. Ah,
+18:36 Suppose Rahu comes in the second part of the Sun dasha; then he'll give a small disturbance, so to speak. Otherwise, it'll be mostly fine. The first half
+18:44 goes well, and in the second half it goes neutrally, we can expect, so to speak, understood? Sir, now,
+18:53 now Jupiter, as 12th lord, is in the 12th, right sir? Yes. Even though the 12th lord is in the 12th, that's Vipareeta Raja Yoga itself, right? It's not a dosha, right? Jupiter is fine.
+19:01 Will the Sun take on the Vipareeta Raja Yoga? Ah, yes. How is Jupiter? Ah, that's the 9th and... Vipareeta... directly, whether it works like that,
+19:08 I can't say. We have to observe that. Okay, so some things we have to test. It has to work the same way in all charts, right? How we...
+19:16 let's see when we go into case studies. But fundamentally I'm telling the positives and negatives. So the Sun is in the star of the 9th and 12th lord, in a yogakaraka's
+19:24 nakshatra. The yogakaraka is well posited. Though he's with Rahu, he's in a different nakshatra, so we have no problem; so it'll be good. In the 9th too
+19:34 there's no planet, so it became a big advantage. If there had been a planet in the 9th, he'd have bothered us; as 12th lord he'd have bothered us then. Okay. Now, since he's also the 9th lord,
+19:43 and since nobody is there, the Sun has a chance to give good results. I mean, I'm just telling that too,
+19:50 but, I mean, it's dasha flow only, but I'm also telling the result, so to speak. Okay, understood, right? I have a doubt, sir. Here, now, here,
+19:58 the Sun gives Jupiter's results, right? Yes. And actually, as the 5th lord, doesn't the Sun play any role at all? He plays a 25% role, right? 5
+20:06 and 9 operate, right? He creates wealth, right? Okay. I mean, his, his own house... now for the position he's in too: he's in the 11th
+20:14 house, right? That also works somewhat. The 9th house works, the 5th house works; all of those are smaller ratios, so to speak, understood? Mostly
+20:23 the 12th lord is giving, but look, the 12th lord is also nicely in the 11th bhava, because the ascendant degrees are far away, right? So the advantage increased even more
+20:32 because of the bhava. Like this, we can also build a dasha rating score table, so to speak, further on, in the next classes. For now, let's talk only up to dasha flow.
+20:41 If I start interpretation, everyone will get questions. So let's stop the interpretation and see whether we're able to pick the dasha flow correctly or not, because
+20:48 you'll get overloaded again, okay? So for the Sun, we've said that Jupiter is giving the results. Up to there, it's done. The answer.
+20:56 There's a, a small YouTube video, what is it, ah, Mahesh Babu and NTR, in that Evaru Meelo Koteeswarulu (?) show, where he says: "You asked one
+21:04 question; for one question, one answer is given; not two answers," he says, like that. So: only one question, one answer. Only the dasha flow
+21:12 we'll do. Next. Okay. Ah, so now, since I said Jupiter,
+21:19 let's see whether Jupiter came in our table or not. Is the table wrong? Sun: Jupiter. The answer matched, right? He followed the default rule.
+21:29 Okay. Yes, 2949, tell me, tell me. How are you?
+21:34 Sir, I'm fine, sir. Good evening, sir. Good morning, sir. Tell me. Sir, this, sir: now if Jupiter and Rahu are in the same
+21:43 star, it's as if the Sun gets retrogression, right sir? I mean, that's it, then... that, that comes.
+21:50 Okay, that... now, their not being in the same star there is the plus for this. Yes. Okay, okay sir. I mean, now in case they're in the same
+21:58 star, how should we take it, sir? I'll tell that in the next class. Okay, okay sir. Okay, okay. How many classes have you completed
+22:05 so far? Ah, sir, there are some in between, sir. Ah, this will definitely be in those.
+22:13 Ah, okay sir. Okay. Learn the dasha flow for now. Each is like a web series; each one is separate, so to speak. Okay.
+22:21 Right. Ah, so now, the next question: which planet shall we look at next?
+22:29 Saturn, sir. Saturn: here, for Saturn, Jupiter came. Let's see in the chart above why it came. Okay. Ah, Saturn, for us,
+22:37 per the first rule, should be in parivartana. Is he in parivartana with Jupiter? No, right? Point number one is clear. What's the second point? Ah,
+22:44 Saturn isn't in his own house or in exaltation houses either, right? That's also clear. Then next: Saturn, no parivartana, not in own house.
+22:53 Saturn: is there any planet in Saturn's star? There is, right? Here, Jupiter is in Saturn's star, so Jupiter will give the result,
+23:01 understood? Okay sir. Okay. When Saturn comes, Jupiter comes, so the rule is satisfied there,
+23:09 so to speak. That's what we talked about, right? We looked at exaltation, multiple planets... we forgot to look at Saturn's star. Okay, no multiple planets
+23:16 occupied it; that's why it displayed Rule 4. There are no multiple planets in this. Clear, right?
+23:24 Okay, Saturn gives Jupiter's result. I mean, now they're in the 12th house. Ah, in the 12th house, in the 12th house, in the 12th house,
+23:32 Jupiter, Jupiter... it's being given through Jupiter, so to speak. He gets the results given through the yogakaraka, so to speak, all of it, understood? So Saturn will also be good.
+23:42 I mean, won't any results related to the 8th house come? Nothing at all? Nothing... it'll be slight; there'll be about 25% of it. That's okay?
+23:50 Now look at Saturn's star lord too, if you want. Now, taking the 75% I said, Saturn's star lord, Mercury, is also in 10... 11... in the 10th
+23:58 bhava, so to speak. He's also in the 11th bhava; even though in the 12th, it'll be fine, so to speak. Okay, okay, okay.
+24:06 Ah, since it's a gandanta nakshatra pada, its result will be there, so he'll give a lot of, ah, restless work, hard work, all these, so to speak, because he's in the 3rd and
+24:15 6th lord's nakshatra, so to speak. He's also in a nakshatra placed in the badhaka house of the badhaka (?). Its
+24:22 influence will impact somewhat, about 25%, in some way. The majority will be good, but he'll make the process a bit hurdle-ridden. He won't give as smoothly as the Sun gives,
+24:31 so to speak. He'll give hard work; he'll give good results, but he'll give hard work, so to speak. We should take it like that. Let's not go into results; first let's grasp the dasha flow chart,
+24:39 okay? Okay sir. Okay. Ah, if you've understood that, I can go on telling the story for as long as you like. Okay, next. Sir, understood, sir.
+24:47 Ah, next, next, next, which planet do you want? Okay, now I, I've understood: how
+24:56 to do it, you're not asking. Even though I asked you to set me an exam, you're not setting one, so an exam for you, then. That's it, right? That's why I'm not asking. Hey, (?) I'll cast a different date of birth;
+25:05 then I'll ask each one. Who's asking? Ah, 2950... two people raised hands, sir. I forgot. Tell me. A normal question, sir, related to this same topic. So for example,
+25:13 now suppose nobody is in Saturn's star there. Okay. Saturn isn't in own house, no parivartana, not exalted.
+25:21 Then it follows whichever star Saturn is in, that's all? Directly, right? It's the default rule, right? Okay, default rule. Okay, okay.
+25:29 I mean, that's Mercury, right sir? Yes, then Mercury comes, so to speak. Ah, a planet overriding Mercury: now the Sun and Mercury are together, right?
+25:37 Is the Sun overriding Mercury? Who overrides? Mercury, though, got digbala, because he's in the ascendant lord's nakshatra. In this digbala
+25:45 I'm also making mistakes, please. So you, you check too, since there's the tool. Then the Sun, the Sun, from the 10th house,
+25:52 is there a connection? No, right? Directly, nothing. Mercury isn't being aspected by the 10th lord, so Mercury is leading in this sign, right?
+26:01 Right? So the Sun has no connection, right? None in any way, right? I mean, now Jupiter, Jupiter, ah, now the 10th
+26:09 lord... the 10th lord has to aspect Jupiter. Jupiter is aspecting the 10th lord; that's not enough. So it will not get digbala. We studied that today itself, right?
+26:18 3001? Yes sir. Ah, so for Jupiter, it won't come because of Jupiter, so to speak. If Saturn had aspected Jupiter,
+26:25 then it would have come, so to speak. The 10th lord has to aspect, so to speak. So it didn't come, so Mercury is powerful. The powerful one, I mean, the 6th lord, a malefic, in the badhaka house
+26:33 he is. Not bad, okay. But overload: because of the badhaka house, overload, things like that will come. There are no retrogressions there, so that's a relief. If there were retrogressions,
+26:41 sometimes they'd impact health too, so to speak, in such a case. Sir, sir, why did you say Saturn should aspect Jupiter here?
+26:49 Okay, the rule, rule... do you remember the five rules? Digbala, sir? Not digbalas. Now you're in the dasha flow,
+26:57 right? Aha. Now, now, what you're talking about Jupiter, is it about dasha flow or about digbalas? That's what I didn't get, sir, that point.
+27:06 Aha, okay. What we're saying is: now we wanted to look at Mercury, right? Mercury and the Sun are there, so we're looking for which is the powerful planet in this,
+27:14 because he'll influence. He'll be the head of the house, right? We're checking who is the head of the house. Okay, so there Mercury is leading
+27:22 that sign; we saw that, so to speak. With this concept, we finalize the planet and also catch whose strength is in it,
+27:30 so to speak. If a good planet overrides it, it'll be good; if a bad planet overrides it, it'll be hard, it'll cause trouble, so to speak. That's the result. Okay.
+27:39 Since we looked at Saturn: Saturn, ah, now if the Sun had overridden, it would have been even better, so to speak. Mercury overrode it, right? Saturn's star lord. But
+27:47 here Jupiter releases (?)... now since we took Jupiter, we have no problem with these, so to speak. All that is 25%; 75% this one gives, so to speak. This gives the majority amount.
+27:58 Now our Jupiter will give. In Saturn... when Saturn dasha comes, Jupiter himself keeps giving the result, so to speak. If Jupiter is good, that's enough. Look, Jupiter is in the 11th
+28:05 bhava and is good, that's all; he'll give it to us, so to speak. He himself is, in a way, the dasha lord's star lord, understood?
+28:14 When Saturn dasha comes, look at Jupiter: how Jupiter is, retrograde or what, look at that. When Ketu dasha comes, look at the Moon. When Moon dasha comes, look at Saturn. When Mars dasha
+28:22 comes, look at Venus. We've laid it out like this, so to speak. Okay sir. Should I explain the Moon, sir? You should explain the Moon. Ah, you should tell me the rules. First,
+28:32 what's the first rule? First, is there a parivartana or not? Ah, the Moon, the Moon and Venus have parivartana, right?
+28:39 Sir, you didn't put up the table, sir. Can't you see it? Can't you see the table? The table is visible. I'll put up the chart if you want.
+28:48 Here, the Moon is in Venus's nakshatra, Venus is in the Moon's nakshatra; parivartana came, right? Ah, okay sir. Okay. Then the Moon... who becomes the Moon's star
+28:56 lord? It becomes Saturn, right? Tell me, sir, tell me once more. Are the Moon and Venus in parivartana?
+29:05 Ah, okay sir, okay sir. Then the Moon goes into Capricorn and Venus comes into Leo, right? Oh, sir, yes sir. Okay. Then the Moon, the Moon has effectively gone into the 8th,
+29:13 right? Ah, okay sir, okay sir. Now, ah, now he'll keep closely following Saturn, who's in the 8th, in a gandanta nakshatra pada, understood?
+29:21 Will he eat our brains, sir, Saturn? I mean, since I don't understand... Ah, it's fine. Here, one more doubt, sir. Okay, okay, who is it, amma?
+29:29 Ah, it's fine. Now, you said the Moon, the Moon follows Saturn. One more thing, sir: up to that, I understood.
+29:36 Now there, it's debilitation, right? Yes, that's a small percentage; no need to overdo it; a small percentage. The main one is Saturn, the main one is Saturn,
+29:44 the main one is Saturn, so to speak. How he is leads everything, so to speak. That he's in a gandanta nakshatra pada is a big headache program for the Moon.
+29:53 Ah, okay. But, but they're in parivartana, right? You know, right, parivartana protects us; that's a special strength. What's that, sir? That
+30:00 parivartana... the original parivartana protects. He isn't there by himself, right? The Moon's star lord came because of the parivartana,
+30:06 understood? So where we'd give 100, 100 negative, we can settle on, "Oh well, let's give you 70 negative", so to speak. Okay.
+30:14 Okay. So here too, just like retrograde... sorry, here too, just like retrograde, if there's parivartana, by default some changes (?)... own house:
+30:22 when in own house, when there's parivartana, when planets are like this in the 11th, in the ascendants, some exceptions come, understood? For them, life happens with a good screen-
+30:30 play, understood? It happens with a good screenplay. "The fan... I sat in the exam hall, sir; that day I was writing a very important exam, and I had
+30:39 no fan, sir; I got very frustrated, sir," he'll say, so to speak. I'd call that a good screenplay. Okay, at least, at least you went to the exam,
+30:47 you wrote the exam, it went successfully, everything happened, understood? For you, the fan was the only problem; many people have many bigger problems than that. That's the thing.
+30:54 Now, now, you took Jupiter earlier, right sir? Yes. For Jupiter, what did you give? You said he gives Saturn's results, that's it, right?
+31:01 Ah, when Saturn dasha comes, he gives Jupiter's results. Ah, when Jupiter dasha comes, sir? When Jupiter dasha comes, ah, Jupiter gives Saturn's
+31:08 result, the same as the Moon, but because of the own house, because of the own house, he protects himself somewhat, so to speak. But the 12th lord
+31:15 can be in the 8th, right? It's not a dosha, right? He'll work half; half he won't. He works half of the way. Okay. Since the 12th lord can be there,
+31:24 now if we look at the fundamentals of life, I mean, we again... I keep going deeper; that's the problem. Now the Moon went to the 8th, understood? He's connected to the 8th. And the 9th lord, again, to the 8th
+31:33 got connected. And the Sun, the karaka of the father, is connecting with Rahu. I mean, we have to make our own effort; in life you have to be self-made. "My grandfathers will hand me property":
+31:41 it won't be like that for the native. The situation is "I have to build myself"; that's how it'll go.
+31:46 That's it. Okay, okay sir. Let's look at that later, sir. That's it, let's look at that later; it'll get even more complicated. That's why.
+31:54 Let's look at another example, sir. I mean, all the rules get covered in this one, right sir? That's why I gave it. Ah, okay, okay. So, another example, who'll give an example? Sir, once more, here, once, sir:
+32:02 we said the Moon got connected to the 8th, right? Here, Saturn in the 8th, the Moon, so it's like 4 and 8 are activating? Yes, that's it, right? 4 and 8 activate.
+32:10 4 and 8... 5 and 10: the parivartana activates. There's a 5-and-10 parivartana, right? He's in the 5th,
+32:18 and the parivartana happened with the 10th, right? This also activates, so to speak. Suddenly the job may go and an unexpected job may come. Ah, this can also happen, so to speak. Those
+32:26 could be from the mother; job-wise, it can work like that too. In parallel, good and bad keep happening; twists like this at times. 2950, hand raised?
+32:35 Yes, tell me, tell me. You're on mute. Sorry, sir. I didn't raise my hand; I didn't put it down. Sorry. Okay.
+32:44 Okay, now explain Mars. Sir, shall I explain?
+32:52 Ah, you can. Okay. Just, I mean, will anyone explain? How it is for me: I'm using Claude, right?
+32:58 How, I mean: for those who don't ask questions, some tokens get cut. Ah, so like that, like that,
+33:05 we can run a meter, so to speak. Yes, we've made a window: who all asked questions, up to the last class,
+33:12 like they earned coins, or missed coins, like this. As soon as you click that number, coins keep getting added, so to speak. For being absent,
+33:20 some coins keep getting lost. We can do that. Yes, tell me, tell me, explain about Mars. Ah, about Mars, will anyone explain?
+33:28 Won't you? Tell me, tell me, tell me, tell me, tell me, tell me, tell me, tell me,
+33:36 tell me. Shall I explain, sir? Ah, that's exactly what I'm asking. Okay sir. Earlier someone said they would, right? Then ask them to explain. Never mind, they won't get a chance (?); you explain.
+33:46 Mars, okay: it's in its own sign, in the ascendant. That's it, right sir, Mars? Yes, yes, correct.
+33:54 Sir, sir, it seems he's in Ashwini, right? No, no, he's in Bharani. Okay, okay, he's in Bharani, at 21 degrees,
+34:01 he is. First, Mars is in his own sign. Okay. Yes. We should follow the star lord, right sir? That's all.
+34:10 Okay. Venus is in the 10th, right? Ah, that's good, right? It's good, very good, sir.
+34:16 Very good. That's it, done. Mars got good digbala; he's good; he's in his own sign. I mean, now a good
+34:24 Performance came. The dasha flow is good. If Mars dasha comes, it means it'll be good, maximally good, because, until another planet occupies the ascendant or the 8th,
+34:33 Mars stays right at the top, so to speak. He's good. Aha, okay, okay, okay.
+34:40 Now, whatever occupies Mars's nakshatra, we don't need to take it; we won't take it; we won't take all those, right? Mars's star lord is in the 10th, that's all. Mars
+34:47 is in his own house, so... The rules should go sequentially; we shouldn't jump.
+34:52 We shouldn't jump. Yes, sequentially, step by step. If the first rule, the first rule is met, then
+34:58 we needn't look at the rest. Yes. Mostly we should check parivartana, check multiple planets, check own house; all these
+35:07 are almost the same, so to speak. When some single planet occupies, we have to look at these very carefully, so to speak. Again, the occupying planet shouldn't be debilitated; even if it is,
+35:16 again we follow the same star lord. In 90%, 80% of the cases we follow the star lord. In some rare cases, if this isn't
+35:23 followed like this, your predictions there will go wrong, and why those predictions didn't happen, we won't understand even in 10 years.
+35:31 That, that's it. Second, you experienced it directly, so... Yes, now let's look at Rule 4 once.
+35:39 Sir, now you said Saturn to Jupiter, right? So Jupiter gives it directly.
+35:43 Yes, correct. When Saturn mahadasha comes, it's as good as Jupiter mahadasha coming. Jupiter mahadasha: just take it as Jupiter being in the 11th. And Jupiter,
+35:51 that's all: the one who is the 12th and 9th lord gives the result, that's all. Then we have no worry; he gives directly, he gives directly. Okay, next,
+36:00 let's look at Rahu, sir. Will anyone explain? Will anyone explain Rahu? Take a different chart. Wait, wait one minute; let's shift the class
+36:07 onto a different track. Okay, tell me. Ah, let's reverse the numbers (?) and see. 3056.
+36:16 Yeah, tell me. We'll tell. A chart, give a chart. Someone, give one. I'll give, sir. Ah, tell me.
+36:25 2950, 2950. Ah, female.
+36:33 34 years, female, 34. Oh, it's the number, right? Put "one". Ah, now there's no number; it doesn't get saved. Yeah, 14, 14 September
+36:44 ah, 1991. Okay, time 12:10 PM.
+36:54 Vijayawada.
+37:06 Ah, sir, you have to press P there, sir; only then will it come. That's Vijaya... W (?)
+37:13 W. Okay, okay. J-A-Y
+37:23 -awada came, sir. This is 12:10 PM, sir; there it put PM, right? Aha, okay, okay, okay, okay, sorry. Without that...
+37:32 in this date adjustment there's some... not a little, a big problem. Okay, okay, that's for me (?).
+37:39 Shall I tell you the good screenplay and the bad screenplay in this? In this itself: first, what we did was, this
+37:46 page called Ephemeris is there, right? You go into it and it shows like this. Now what you have to do first is go into this Ephemeris page,
+37:54 so to speak. After going in and entering the date of birth here, you should copy it like this, the "serial number", like this. You must copy it exactly, without missing
+38:03 any value. Copy this, come here, and paste it.
+38:08 Okay? But we thought, why such a big feature, and gave it so you can enter the date of birth like this, so to speak. Now
+38:17 so if the date of birth in it shifts a little, what of it? It's still a good screenplay for us, right? Claude (?) will fix the rest. Just
+38:25 a joke. So rather than worrying about the adjustment in it, whether the chart got generated or not is what matters. So now tell me. Ah,
+38:34 now, what was it? Ah, 3056, please, welcome. Yeah, thank you, sir. Ah, tell me how the Mars dasha will be.
+38:44 Okay. Ah, I'll give you a good tip. Yeah, once (?)...
+38:52 Ah, okay. He's in the Moon's nakshatra, sir. He's in the Moon's nakshatra.
+38:56 Okay. Where is the Moon? The Moon is here in Scorpio, in Anuradha.
+39:01 Okay, so, so, not own nakshatra, not parivartana, so the first rule is done. Yes. So now,
+39:08 not the Moon's own house, not own house, no, so that rule is done. So, the second
+39:15 rule, let's go to it. So in this, in the Moon, anyone else? In Mars, anyone else? In Mars, no one, right? In Mars's star, no one. So that rule too is done.
+39:27 So then we have to look at the Moon. Now Mars's star lord is the Moon itself; we have to look at the Moon, the Moon. So then, as if the Moon is in the ascendant,
+39:34 but he's fallen into debilitation, he's debilitated, in the ascendant, and he's also in the 11th (?) bhava, so to speak. Ah, yeah, the bhava, yeah.
+39:42 Who did the homework on Scorpio ascendant? 3037, right? 3010 (?)...
+39:50 Ah, right. Now tell me: for an Aries ascendant, Mars, being the 6th lord, being in the 12th isn't a dosha, right sir?
+39:58 It's not Aries, right? For Scorpio ascendant. Sorry, sorry. For Scorpio ascendant, the 6th lord can be in the 12th, right? Where's the 6th lord, sir? He,
+40:06 isn't he the 6th lord for Scorpio ascendant? Mars, Mars? Okay, okay, Mars? We're checking Mars itself, right? How many marks did you give in your book
+40:15 for Mars? In which, sir? Ah, for Mars for Scorpio ascendant. Ah, (?)... for Mars for Scorpio ascendant I gave 70, sir.
+40:22 Ah, you gave a good one. Ah, okay, right. He's in the 12th bhava. Right, go ahead, continue, 3056.
+40:30 So now, Mars dasha: basically, will he give it as the Moon debilitated in the ascendant, or
+40:38 will he give it as being in the 11th bhava? That's the question. Ah, now let's see whether our table gave the result correctly. For Mars,
+40:47 it said to follow the Moon itself, so to speak. Okay, up to that it's correct, up to that it's correct. The answer is done there. Next, the answer to what you're asking
+40:55 is: Mars gives as though in the 12th; he's in the Moon's nakshatra, and the Moon has fallen into debilitation, so he'll also bring that result, so to speak, understood? So the Moon, in the 12th bhava,
+41:04 however much of a yogakaraka he may be, poor thing, he'll bring the whole result of being debilitated there, that debilitation result. Okay, so one will have to keep doing hard work. It's not that
+41:11 everything will be okay that easily. But the lucky thing is that Mars himself is in the 11th bhava, understood? If any planets are in the 11th bhava,
+41:19 they're mostly safe, right? Just as being exalted or in own sign is safe, being in the 11th bhava itself is also safe, so to speak. Wherever the star lord is, he keeps balancing,
+41:27 so we should take it as average, so to speak. We can't take it as great; about 65%, that's all. Ah, "You keep working hard, and the work will keep getting done",
+41:34 we should say, so to speak. If, on top of that, there's retrogression, or suppose Rahu or Ketu touched this Moon, then it's over; we'd have to say this work is finished. So
+41:43 then whichever lord it is, whichever lord, if it's itself in the 11th bhava, is it good to some extent? To some extent, ah, yes, there's a minimum guarantee.
+41:54 Sir, a small doubt here, sir. Now, now, since Mars is following the Moon... okay, the Moon there... I'll say it myself:
+42:03 in case it's not like that, like that, okay, then we have to look at that Moon's strength, meaning the Moon's Light and all that should be good?
+42:10 Yes, Light, Performance... it's the Moon that gives the result now, right? Only if the Moon is good do we get the result, so to speak. Here it's all okay. I mean, Light is important. For that nakshatra,
+42:19 Light is important. I mean, here, here, in this case, we don't need to go as far as the Moon's star lord Saturn, so to speak, understood? Rahu and
+42:26 Ketu shouldn't join the Moon. If it's any other planet, it shouldn't be retrograde itself, that's all. Just as we look per Western, looking at the basic rule like that is enough. Looking at the basic rule
+42:34 is enough. There should be basic Light, there should be basic Light, so to speak. Primarily, it shouldn't be retrograde; it shouldn't join Rahu or Ketu; it shouldn't be, shouldn't be. If those are absent, to a large extent...
+42:43 So for this question, the question of how the dasha will be, this is the answer: since he's in the 11th bhava, it's somewhat better, but the Moon has fallen into debilitation, so
+42:52 so... Not 11, sir, he's in the 12th bhava itself. Yes, because of being in the 12th bhava... he's in the 12th bhava itself... because of being in the 12th bhava one has to struggle; it won't be that easy,
+43:00 we'd have to say. The matter: oh, Mars is in the 12th bhava? No, the Moon... Mars's star lord itself,
+43:08 the Moon, the Moon is in the 12th bhava (?). Ayya, correct, sorry. Okay, so you've got it, you understood the whole thing?
+43:17 Ah, ayya, thank you, sir. Okay, okay. Has everyone understood? I mean, let's stop this topic and go to another topic. Let's see... let's look at four more examples,
+43:24 you'd say? Nobody is saying "let's look at the kids (?)"; you alone are saying it. You said you've already got it, right? No, the way you said it: "let's trouble about four people,
+43:32 sir; let's let four people live (?), sir." Okay, so for you, clearly
+43:41 I've got the points. For today, like this... what all are we going to discuss in today's class? Now, the dasha flow
+43:49 you've already got, understood? You've already got planet Capacity with Light, Performance, Resource. Now I have to teach you one thing, bhava analysis, that's all,
+43:57 okay? Once I teach that one and then teach Western, it's done. Today, no escape. What, sir, everything today?
+44:04 That's it; you're getting them fast, fast, right? That's why. You should set a unit test every month, sir;
+44:12 then it'll be known. What tests are there, sir? Sir, sir, shall I explain about this Saturn once? Will you explain Saturn?
+44:20 Ah, sir, I'll explain. Go ahead, go ahead, go ahead. You're there, right? If I say it wrong, you'll tell me, right? I'll tell, I'll tell, I'll definitely help.
+44:28 Saturn, sir, which... is he in Purvashadha, sir? Ah, he's in Uttarashadha, he's in Uttarashadha, in the Sun's nakshatra, in Capricorn.
+44:37 Ah, he's in the Sun's nakshatra, sir. The Sun... okay, not own star. Saturn, ah, sir, Saturn is in his own
+44:45 house; he's in his own sign.
+44:48 So the star lord is the Sun. Ah, the Sun, the Sun is in the 10th, he's in the 10th. Okay.
+44:58 Okay, so we can say the result will be good, that's all. That's it, it'll be good, because he's in the yogakaraka's nakshatra. The Sun
+45:06 is in the 10th; he's also with the 5th lord, the yogakaraka. The Sun isn't with Rahu or Ketu at all. He's very good, in pushkara (?), so to speak. So even though it's Sun-Saturn (?),
+45:15 some bhukti may give like that, but mostly it'll be good, so to speak. So it is... Saturn is retrograde, right? Okay, so anything,
+45:23 that's it: since he's retrograde, other matters will be lost, so to speak. I mean, whatever the 3rd and 4th matters are, like the health of the mother, ah, it'll give other things like these, like these,
+45:31 but in professional and financial growth, in these, in work growth, in all these, it'll be good, so to speak. I mean, the bhava keeps getting lost, but it gives yoga, so to speak, this dasha.
+45:39 Okay sir. Another doubt that came up, sir: now for this Saturn, I mean just at a high level, suppose this Saturn has no Light, and the Sun has full Light,
+45:47 suppose. Ah, okay. Now, Saturn's lack of Light doesn't matter, because Saturn works with the Sun's Light,
+45:56 would you say? That's exactly why we discussed Light, Performance, Resource separately. You shouldn't get confused, understood? It's the same
+46:03 concept, so to speak. Now for us, the dasha lord should have Light, the bhukti lord should have Light, so to speak. Both should have proper Light.
+46:10 Okay, how, I mean, now even if the dasha lord doesn't have it, the bhukti... no, I'll talk about bhukti. Any bhukti, whichever flow you go through, however you go, one fundamental point,
+46:18 remember: Light and Performance must be there at least. Resource a bit more or less is fine, but if Light and Performance
+46:25 aren't there, the work won't happen. I mean, I mean, now the planet's star lord shouldn't fall in the dusthanas; that is the point. The star lord
+46:33 is important, right? Ah, the star lord shouldn't fall in the dusthanas. Okay. Likewise, both the planet and the bhukti lord should have proper Light; at least
+46:40 an exception should be there; otherwise they won't work as expected. Giving blindly in one and in another... Now, for this same Saturn, suppose the Sun is in a different house; suppose he's in the 8th: then too the dasha
+46:49 works, but it works in a different way, so to speak; it keeps working with twists. It keeps working by getting past dangers.
+46:58 Yes. Now, can we assume the Sun's Light is more important than Saturn, than Saturn's Light? I'm saying both Lights are important,
+47:06 right, from the start? Okay, both Lights are important. Ah, both should have Light. In case the Sun has no Light, the Sun should be in the 11th, you know, right? Saturn should have proper
+47:14 Light. Aha, Saturn should have it. I mean, our... I'll tell you one point; don't get confused. Okay, okay.
+47:21 Now when you asked about Saturn, ah, whom should we look at? When you asked about Saturn, you said to look at the Sun.
+47:29 Ah, we said to look at the Sun. Ah, that changes, sir. About Saturn...
+47:36 Okay, right. When looking at Saturn, we said to look at the Sun, okay? So here Saturn, Saturn's Light is important, and the Sun's Light is also important.
+47:44 Okay, that's the doubt, sir. Okay? That's one doubt I had, sir. Ah, suppose for us only the fourth rule came. Per the fourth rule, even if Saturn is retrograde,
+47:52 suppose only the Sun is there: then, if it comes per the fourth rule, I have no problem about Saturn; this will give the result directly. Only in the fourth rule is there an offer like that.
+48:01 Okay, okay. The fourth is a special offer. Okay. The fourth is a very special offer. Another doubt, sir. Ah, now let's come to rule, Rule 4, sir,
+48:10 let's talk, staying right there. The rules... now, Rule 4, shall I go to Rule 4? Ah, the doubt is at Rule 4 itself, sir. Ah, tell me, tell me.
+48:18 Ah, now you said if one planet occupies, take that planet itself, the occupant. Very good. In case it's debilitated, you said to follow the star
+48:26 lord. That's also good; I understood that too. Now, in case there are two planets and one of them is debilitated... when there are two planets, what do we do? The same concept: when multiple
+48:34 occupy, we have to go for Rule 3, that's all. Rule 3. I mean, if one of them is debilitated, it doesn't matter to me? It doesn't come under the fourth rule?
+48:43 It doesn't, it doesn't. There's no such rule, no such rule. You test it. Even this rule, we created all of them ourselves, our own poetry,
+48:51 so you too make one and add it as number six, that's all. Why I'm saying "it worked for you"... if it works for you, tell me: "Look, I checked it on so many charts, and it worked
+48:59 for me", tell me that. Definitely. I mean, why I asked, sir, is: now if one planet occupies, he's strong, so... and you said not to take the debilitated one,
+49:06 because he's weak, so you said go to the star lord, right? Yes, yes. So now when there are two, one is weak,
+49:13 so if we remove the weak one, the other one... when it's multiple, the other one remains, right? That logic, that logic didn't strike me. You
+49:21 test it; that's what I'm saying. Take it as homework. Okay, okay. The problem is, we have to find charts that have things like this, sir; that's the problem. They won't be found easily, right? I'll try, sir.
+49:29 They won't be found, right? When there is one, let's try it. Okay sir. Two raised hands. Okay, yeah, tell me, 305(6).
+49:36 Yes, tell me, anyone. Yeah, let's look at something where the fourth rule applies, once, sir.
+49:44 We saw it yesterday, right? We saw the Taurus ascendant, right? You gave the chart yesterday, right? Ah, in the Moon's nakshatra, Saturn, retrograde, in the 5th
+49:52 he is, right? Okay. Did you go to Rule 4? Go there once and explain. I'm sorry.
+50:00 The rules here, here, there are three, right? Here's Rule 4. Ah, yeah, that's it. What Rule 4 says is: if only
+50:08 one planet occupies the star of the planet under consideration. So, I mean, now in this Saturn case,
+50:18 in this chart? Ah, in this chart itself, sir. Apply it to something in this chart and see. I think it's not in this chart. Yesterday's chart...
+50:26 He's there: the Sun, the Sun is there, sir. The Sun is there. Fourth rule: it seems the Sun is there, sir. Earlier, look, he's in his own house, right? The Sun... in the fourth (?)...
+50:34 The Moon is there, right sir? The Moon, the Moon, below. Ah, take the Moon in this chart. Okay. Yeah, yeah. The Moon, the Moon, the Moon: the Moon isn't in own house,
+50:43 right? So the Moon is debilitated. In the Moon's star there are no multiple planets; there's only one planet: Mars is there. So Mars dasha goes badly, and the Moon dasha gives yoga.
+50:52 Understood? Crazy, right? Super crazy. So what will many people say? "The Moon will be bad,"
+50:59 they'll say. But the Moon dasha gives good yoga. Mars dasha goes badly: for you, the Mars dasha, with Mars in the 11th, will be average, while the Moon dasha gives yoga tremendously.
+51:06 Ayya, sorry, how did you apply this fourth rule? Could you explain it once? Okay. First, to get to the fourth rule, check the first rule: for the same planet,
+51:14 for the Moon, is there own star or parivartana?
+51:18 No, there isn't. No own star, no parivartana. Then, the Moon isn't exalted or in own house, right?
+51:25 No. Are there multiple planets in the Moon's star? No, right? No. So there's one single planet, right? What's left is Mars, right?
+51:34 Yes. So we just take Mars; directly, Mars himself is the dasha lord. If the Moon dasha comes, it's as though Mars dasha came, so to speak. It works as Mars in the 11th.
+51:43 Okay, okay, okay. Yeah, thanks, sir. Okay. Who is Mars? The ascendant lord and 6th lord. Since there's a planet in the ascendant, he'll work as the 6th lord,
+51:51 so to speak. What happens if the 6th lord is in the 11th? In service, jobs, in these, very favourable results come.
+51:58 Gains, victory over enemies. Victory over enemies. Who are the enemies? I mean,
+52:05 it's just keeping ourselves disciplined. In the present times, enemies on Insta (?), enemies on Facebook,
+52:13 YouTube enemies. Yes. So, let's look at another chart, let's look at another chart.
+52:21 Tell me quickly, because we have to discuss progression, we have to discuss bhava analysis; there's a lot, right? Tell me, tell me. On our graph, one shot (?)
+52:29 Ah, a question on the graph, sir. One... the voice is coming from far away; come a bit closer.
+52:37 Can you hear me now, sir? It's a bit better. Okay, the voice is cutting.
+52:45 A doubt on that... it's cutting out. You're roaming. Hello, hello sir. I'll ask later. Not...
+52:54 Okay, okay, okay. Tell me, tell me. Sir, I'll give a chart. Tell me, tell me.
+53:00 Just for... just for analysis. April 3, 2009. Roll number 3023.
+53:08 3023. Sixth chapter (?). M... F... ah, M. Okay, the date.
+53:16 April third, 2009. Third April 2009.
+53:27 2009: a little kid's chart came. Ah, I mean, okay, not allowed. Strictly not allowed.
+53:36 No, not that one. Next: June 10, 1982. 10th June.
+53:44 We'll say something just for fun, but why... is it necessary? Okay, so 10th June
+53:52 1982, '82. Ah, morning, 7:03 AM.
+54:06 Ah, the place: Tenali. Okay.
+54:16 Gemini ascendant came, right? Gemini ascendant. Rahu and Jupiter in parivartana. Okay, one second. Ask.
+54:25 Okay, ah, tell me. This chart: shall we look at Rahu dasha in it? It's already over. Will anyone explain Rahu? Will you yourself explain? You yourself gave the chart
+54:34 and you yourself will explain? How? Okay, anyone can explain, that's okay, sir. Okay, will anyone explain then?
+54:42 Shall I explain, sir? Ah, go ahead, go ahead; explain about Rahu dasha like that.
+54:49 Sir, Rahu is at 21 degrees, 21 degrees, in Jupiter's nakshatra.
+54:54 He's in Punarvasu, in Punarvasu.
+54:57 Where is Jupiter? Jupiter is in Swati, in Libra, in the 5th. He's retrograde. Ah, he's retrograde.
+55:05 Okay sir. Okay. (?)... Rule number one: what is it? Not own sign, not exaltation sign, no parivartana...
+55:13 Why not? There is parivartana, right? Okay, okay, Jupiter, right sir, he's in Swati. Okay, there is parivartana, sir. When there's parivartana, what should we do? Rahu's
+55:21 star lord is who? Rahu's star lord is Jupiter; Jupiter... Rahu... he's in the 5th, he'll give the result, sir. Okay, ah, who's the star lord? For Rahu, whom do we take as the star lord?
+55:32 Punarvasu: Jupiter, sir. Jupiter itself. I'm asking, when there's parivartana, whom do we take? Parivartana: Gemini, sir. Okay, okay, okay. We take Mercury,
+55:42 sir. Okay, right. Mercury... for Rahu, will you take Mercury? You're taking it wrong. No sir, Rahu is now in that Punarvasu nakshatra, right sir? Okay, okay.
+55:50 I'm getting confused, sir. Now that Rahu is in Gemini, right sir? Will you take Venus, sir? Yes, we should place Rahu in Libra,
+55:59 when it's parivartana, that's it, right? Ah, parivartana: that's it, that's it, that's it, that's it, that's it. No, you'll get confused. Okay: placing Rahu in Libra, and placing Jupiter in Gemini there, now since we're looking at Rahu,
+56:06 Rahu is as if in Venus's house, as if in Venus's nakshatra, as if in Venus's nakshatra. Where is Venus?
+56:15 Venus, sir... it didn't go here, sir. He's in the 7th, right sir? No, he's in the 11th.
+56:22 Ah, he's in the 11th. Right sir. That's it, you're saying... now, since he's following the yogakaraka, we can say it'll be good. It'll be good.
+56:31 Venus and Ketu are in the same nakshatra; even so, since it's his own star, he'll mostly hold his ground. Being in the 11th, he'll hold his ground. Somehow or other, ah, even after somersaults,
+56:40 the graph will go up. I have a doubt here, sir: here Venus is in his own star, right, in Bharani. So
+56:47 we don't need to look at Mars again or anything like that? Aha, aha, no need to look like that. With its parivartana itself we already looked at Venus here, right? There's nothing more to look at again.
+56:55 We shouldn't go to the second level again; we went, we went to the second level. Don't go to the third level, please; one gets confused.
+57:02 That's it: I got the doubt why you brought in Ketu again. Looking up to Venus is enough. Venus is in the 11th, but Venus shouldn't be with Rahu or Ketu, and Venus shouldn't be retrograde, right? That's why I looked.
+57:15 Oho, for Light. Again, next. Okay, okay. Yeah, yeah: however Venus is, that's how the dasha will be, so
+57:22 you analyzed Venus for Light. Yes, I looked for Light, that's all. If that's understood, that's it, it's as good as done. For me, what is it: there shouldn't be retrogression; it shouldn't be with Rahu and Ketu;
+57:30 or else... (?) that's all. If that one thing holds, it's enough for me; then it's just good fortune, so to speak. Nothing else is needed. Sir, now Jupiter, with Rahu,
+57:38 in parivartana: now we haven't taken Jupiter's retrogression, right sir? Ah, it's mostly safe, you know, right? Then the retrogression rule... That's it, that's it, sir, that was the doubt.
+57:47 Okay, so every time you get doubts, I'll make a new calculator. Hey, no sir, it's not like that, sir. Since you're there,
+57:55 I'm saying it; just saying. Joke, joke, joke, joke. Next. Vinod garu... tell me, how are you?
+58:03 Rahul (?)... thank you. How are the classes going? Okay? It's good; these rules are good, helpful. Okay. Rules with calculator. If there's any mistake
+58:12 anywhere... here, practice it tonight. Last night, apparently our folks didn't sleep; apparently they stayed up in this practice. So it got very late at night. Ah,
+58:19 they said it turned into night studies, so to speak. Yes. Okay, now, when checking Rahu and Ketu,
+58:26 the second rule doesn't apply, right? Ah, very good, give our guy a round of applause. Ah, so Rahu and Ketu have no own house,
+58:34 so it doesn't apply in our case, that's all. We will skip that rule. Sir, the other day, one: in the ascendant, in Rahu's nakshatra,
+58:42 you were going to tell, but didn't tell, sir. What was that? I don't remember that, sir. Now Ketu, now our Leo
+58:49 ascendant, when it came the other day, sir, 3030 (?) asked: when Rahu and Ketu come, what should we take then? You said you'd tell (?).
+58:58 For the ascendant, the 9th (?) lord, sir... here, madam gave a chart. That day, the Sun, the 9th (?) lord, came and fell in the ascendant, so
+59:04 if we have to take the father's longevity mainly, then if Rahu or Ketu comes, how, sir? 3001 garu asked that. Ah, did you note the date of birth
+59:12 down? It's your doubt, you wanted to know, so did you note down that date of birth? I didn't note it, sir; I'm asking generally from what I remember.
+59:20 Invalid, your question. If there's a date of birth, we'll talk. Okay. Next time, when a doubt seems interesting to you like that, ah,
+59:28 note the roll number, ask everyone for that chart (?)... now, now, even if it doesn't get saved in this, the reason to put it is, whether you or that
+59:35 video... You do one more thing: all these videos have been released, right? So for tomorrow, for next week, watch those videos; since the date of birth will be in that video,
+59:43 bring that chart; next week we'll talk about it. Okay sir, okay sir. Or else, ask whoever gave it now; if they remember anything, we
+59:51 can talk about it right now. I think (?) garu gave it, sir, back then.
+59:59 I think I asked the question, sir; I think the chart was someone else's. Madam gave it, madam gave it. Which madam gave it?
+1:00:11 I gave you a phone number the other day, do you remember? I gave you a phone number the other day, do you remember? Sir, I don't remember, sir. My phone number...
+1:00:18 So likewise, if you don't give the reference, this chart number or who gave it, how can I tell? Hey, okay, okay. Okay sir.
+1:00:26 Okay, next, next. Sir, shall we also look at Mercury dasha once? Mercury dasha: will anyone explain it like that?
+1:00:36 You explain, then. I'll do it, sir. Let's try, sir. Mercury is in the Moon's nakshatra. Okay. First, Mercury is in the Moon's nakshatra.
+1:00:45 Is that it, sir? Yes, he's in the Moon's nakshatra.
+1:00:47 Ah, the Moon... Moon garu isn't visible, right? Here he is; he's in Capricorn. Ah, here he is, sir. That's what I was searching for.
+1:00:56 Sir, the Moon is in the Sun's nakshatra. Yes. There's no parivartana, right? In parivartana (?)... so that's why, parivartana
+1:01:05 isn't there. Okay, ah, okay, he's in the Sun's star, right, not Mercury's. Now, no. Now next, I mean, is anyone else in Mercury's nakshatra?
+1:01:14 No. We should check whether Mercury is exalted or not. Ah, own house, exalted: ah, no, that's not there either. Then the third rule:
+1:01:23 ah, we should see whether there are two or three planets in Mercury's nakshatra or not.
+1:01:28 They're not in Mercury's nakshatra, right, three planets? Actually there's no planet at all.
+1:01:32 Yes, they're not in the 4th, 8th, 12th (?). Okay, they're not there, so Mercury... Mercury's star lord, the Moon himself, will give the result.
+1:01:39 The Moon himself gives. Okay. I mean, in the 8th, in the nakshatra, there are multiple planets, right? We don't need to look at that, right? It's Mercury dasha we're looking at, right?
+1:01:47 Yes, we're looking at Mercury dasha. Mercury gives the Moon's results, that's all. Before that, we should verify the rules.
+1:01:56 You're getting confused, 3023. What are you confused about, tell me. What I'm thinking is, the doubt I got is: now Mercury...
+1:02:04 Before your doubt, read the rules and apply them, please. First, first, what are you checking? Is it Mercury you're checking? Yes, I'm checking Mercury.
+1:02:12 Ah, what's the first rule? Is Mercury in parivartana, own house? Parivartana, own star: he isn't, right? No.
+1:02:18 Then, Mercury isn't exalted or in own sign, right? No. Then, have multiple planets occupied Mercury's nakshatra?
+1:02:27 Aha, no. Then, is there at least one planet in Mercury's nakshatra? Aha, no. When there isn't, we should follow the original star
+1:02:36 lord. The star... ah, the star, that's exactly where I got the doubt. Now he follows the Moon itself, that's okay, that's it. But now,
+1:02:44 in the Moon's star, in the Moon's star, don't we need to look at anything else again? We actually don't have that, right? We don't have that rule at all, right? You're creating a new one.
+1:02:52 Oh, she's going to the second level; he said not to go. We don't have that rule at all, right? Is it in these rules or not? No, it's not in these rules. In the Moon's star,
+1:03:00 multiple planets, I mean, when we look at Moon dasha, then we'll check; then, when we look at Moon dasha, we'll check, that's all. Okay, okay. Fine, fine. Okay.
+1:03:09 So then Mercury fell into the 8th.
+1:03:11 He went to the 8th, correct. Ah, now tell me, our folks, on Gemini ascendant... I'll say it's the 8th, right, sir?
+1:03:19 Mercury into the 8th... the 8th starts from 10 degrees, sir. Okay, okay, okay, nothing much, but wait one minute. 3028, you said you'd write up the Gemini ascendant
+1:03:28 and come; did you write it? Ah, I wrote it, sir. Ah, whichever numbers we assigned these to, every time that ascendant comes, like that,
+1:03:36 I'll keep calling those numbers. Okay. So, okay sir. The thing is: for a Gemini ascendant, if Mercury is in the 8th, how much score
+1:03:43 did you give? Ah, one moment, sir, I'll tell. Ah, what you, you wrote, stick it on the wall on paper, so we'll keep asking every time,
+1:03:52 so to speak. Now, Mercury: if we see whether it's benefic or malefic, it becomes malefic, right? Yes, it becomes malefic. As a malefic,
+1:04:00 if it falls in the 8th house, how much? I gave 80, sir. If it falls in the 8th house, why did you give 80? Tell me.
+1:04:08 Ah, I mean, you said if Mercury is malefic, even if in dusthanas, it works fine (?)...
+1:04:16 Not dusthana, maybe; did you say upachaya? If malefic, we said in upachaya houses... in dusthanas...
+1:04:22 Okay, okay, I put it under dusthanas. Okay, then 50. 50, sir. You're giving 50. May I say something, sir? Ah, tell me, tell me.
+1:04:30 I mean, when there's kendradhipati dosha, being in a dusthana is actually good, right? That's it, that's it. For that point we can raise it a bit, so to speak; we can bring it up to 70.
+1:04:39 Kendradhipati dosha. Okay, okay. Ah, so we can raise it to about 70. What dosha is it? Sorry, I missed it. What dosha is that?
+1:04:46 There's one called ubhaya kendradhipati dosha. Ah, oho. What it is: Mercury, for Gemini, is the lord of both Gemini and Virgo, which is the 4th,
+1:04:54 right? He's the lord of both. Hmm. So we take him as a benefic, so a benefic planet became the lord of two, two kendras.
+1:05:02 If it's a benefic planet... suppose for a planet, any planet, two... two houses, two kendras, it's the benefic
+1:05:10 lord of two kendras, understood? So for Gemini ascendant, Mercury is the ascendant lord and 4th lord: a benefic planet got lordship of two kendras, right? That happening is called kendradhipatya
+1:05:19 dosha, so to speak. Likewise Jupiter, for Gemini ascendant, is the 7th and 10th lord: a benefic planet got lordship of two kendras, so to speak, for them, understood? So
+1:05:27 therefore, if that dosha is there, I mean, they lose their natural beneficence, so to speak. Now they won't take Jupiter as a benefic, so to speak. Then for Gemini ascendant, why would Jupiter
+1:05:35 be a benefic? Then they won't take "Jupiter is a natural benefic" anymore. That's the concept, the basic concept. So in this case, bad... malefic,
+1:05:44 when it's benefic, the 8th, I mean, like, since Mercury is benefic, ah, by default they take him naturally
+1:05:51 as such. Now in this ascendant he's with the Sun, so even though he's malefic, they still take it that the ubhaya kendradhipati dosha is there,
+1:05:58 so to speak. That's how they built the rule fundamentally.
+1:06:02 Okay. In this chart, in this chart, we don't need to look at it specifically, so to speak. So if they have a connection with the dusthanas or with dusthana lords,
+1:06:10 with someone or other, they give good results: that's a fundamental concept. How far it works, I don't know. I too
+1:06:18 am using it, as if it works. But in this scenario, in case they're malefic,
+1:06:25 there may be no chance of them being malefic, I suppose. Hey, when ubhaya kendradhipatya comes, if Mercury has a chance of being malefic and it's like this...
+1:06:33 Basically there's a fundamental rule, so to speak: for us, if benefics get kendra lordship, we think that's good, right? So these, then,
+1:06:42 we can't take as benefics, so to speak. Now whether it's Gemini ascendant, Virgo ascendant, Sagittarius ascendant, or Pisces ascendant, they, Mercury and Jupiter, should have a connection with the dusthanas
+1:06:51 or with dusthana lords, so to speak. Now suppose Saturn and Mercury joined: for this ascendant it's good, so to speak, like that, understood? Likewise, now suppose he joined Mars:
+1:06:59 he'd say nothing will happen (?), so to speak. That's what it means. Okay. So simply, in our language, I've
+1:07:07 remembered it like this; if you like it, you remember it too: I mean, if someone is overly good, people will cheat them, so if they're used to at least a bit of, ah, gambling,
+1:07:16 then they get protected, understood? So Jupiter is a very good guy, so if he's that good, survival is hard for us now,
+1:07:23 so if there's a bit of connection with dusthanas or with a malefic, he gets balanced: that's how I remembered it. Okay. So you too, if you want, remember it like that.
+1:07:33 Okay, that's the matter. So now, being in a dusthana isn't a big issue. It is okay. And precisely, he isn't in the 8th
+1:07:40 house either, so it's mostly okay, so to speak. We can give it about a 70% result, so to speak: "It's okay, ayya; if you work hard, the result will come; even if not easily, okay,
+1:07:49 it'll go along at average," we can say, so to speak. We can give a score between 65 and 70.
+1:07:53 Plus, since he's the ascendant lord, poor thing, he'll try. One can do this much good: self-effort, service.
+1:08:00 Without doing businesses and such, if you do job work, things will work.
+1:08:05 Sorry. Okay, thank you. 3056 is there. Ah, tell me, tell me. Oh, no, that was earlier; this is down.
+1:08:12 Earlier. Okay, okay, I'll do it. Okay, it's done. So that's it?
+1:08:19 I said house analysis, right? Shall I start? Go ahead, sir, that too. Ah, today also maybe we won't get any sleep.
+1:08:27 Okay, okay. House analysis: you, dasha, bhava... how to analyze the bhavas. Ah, for how to analyze the bhavas, we have
+1:08:36 three: occupant, lord, karaka, right? Yes sir. Ah, now if in this we
+1:08:43 take it, now, now, for you... many people, you'll see in the YouTube comments: "I have no planet in my 6th house,
+1:08:50 then how should I take it?" they keep asking, right? Like that, so to speak. So now there's no planet in the 6th house, right?
+1:08:57 Now, the same dasha flow that you followed, will anyone apply it a bit for this 6th house? Can't anyone apply it creatively?
+1:09:05 A small doubt, sir: now it's in the 6th bhava, right sir? Shouldn't we... can we take it like that? Ah, not like that. Just analyze the 6th house; leave the bhava matter for now.
+1:09:13 Okay, analyze the 6th house. We'll do that when we do the mathematics of it; but first, generally, if asked to analyze the 6th house: for the 6th
+1:09:21 we have the lord and karaka clear: Mars is the karaka, and the lord is Mars; all that is confirmed. Now the 6th
+1:09:28 house result, who gives it? I think the lord himself gives it, sir. Ah, I set a rule saying not to take it like that. Ah,
+1:09:36 that rule: these four rules, these very ones.
+1:09:43 All these are the rules, so to speak, the same rules. So, seeing where the 4th bhava fell... now I'll explain, I'll explain one.
+1:09:51 Applying the rules is the same, so to speak, okay? No one is in the 6th house, right? Here, no one is in the 6th house, right?
+1:10:00 Ah, yes sir. Sir, background noise is coming from my side; I can't say "hmm". Someone else, say "hmm".
+1:10:04 Okay, 2950 is saying she's leaving. Okay. 3056, no problem. Okay, so no one is in the 6th,
+1:10:13 right, I'd say. Um, yes. So now, is there at least one planet in the 6th lord's star? We should check.
+1:10:25 Okay, multiple planets... ah, if there are multiple planets, the 6th lord's star lord gives the result, so to speak. Since there are no multiple planets, the one single
+1:10:34 planet, the Sun, gives the result. The Sun brings all the 6th house results, so to speak. That's the thing. Sir? Tell me, sir.
+1:10:42 There's only one planet in the 6th lord's star.
+1:10:50 The 6th lord's star here: who? Mrigashira. In Mars's nakshatra there's only one planet.
+1:10:57 Okay. Since no one is in the 6th house, whoever occupies the 6th lord's star will give the result,
+1:11:05 okay. Ah, or else we'd look at the 6th lord's star lord, that's all. We apply multiple planets. The same rules: whatever we apply for the dasha rules,
+1:11:13 we apply the same rules. Done.
+1:11:17 Is this for empty houses, sir? Ah, for all houses; for empty houses, mostly these rules work for empty houses. And now,
+1:11:24 suppose there's one in this: here the Moon is there, so the Moon's star lord... the Sun... done for this house. Now this is parivartana, right? So for this, Jupiter
+1:11:32 follows Mercury's star, so Mercury will give, so to speak, that result, the 5th house result.
+1:11:41 Now here, in case in Mars's star, along with the Sun, someone else had also been there, then we'd take Mars's star
+1:11:49 lord, the Moon; we'd take Mars's star lord, the Moon. Same rules, right?
+1:11:57 Mars's star lord, the Moon? What? Mars's star lord, the Moon... he's in Hasta, so to speak. Okay, okay. Yeah, yeah, yeah, understood. Okay. Yeah, got
+1:12:05 it. It follows the same dasha rules, that's all. The dasha rules are done. That's why I said I'd teach you, right?
+1:12:12 Okay, easy calculation. Our same... the 2nd, 3rd house, I'll validate them the same way, that's all. Who is in the 2nd house? No one
+1:12:20 is there, no one. The 2nd lord's star... in the 2nd lord's star there are two planets, so the 2nd lord's star
+1:12:28 lord, the Sun, is followed and gives the result. Well... the native (?)... the 2nd lord, the Moon, in the nakshatra:
+1:12:37 in the Moon's nakshatra there are multiple planets. Yes. Who's the Moon's star lord? The Sun, right?
+1:12:45 (?) Following the Sun, following the Sun, he gives the result, so to speak. The combined result of the Sun and Mercury will keep coming, related to the 2nd house.
+1:12:53 The native seems very, very service-oriented. The native is hard-working and service-oriented. Everything is connecting the Sun to the 12th,
+1:13:00 right? The Sun and Mercury are there, right? Okay, that much service. But here the Moon is aspecting the 2nd, right? Do we look at aspects
+1:13:09 at all? Don't we look at aspects here? Nearly 90%, 95% of the time, I don't take aspects for anything other than that connection. Don't mind.
+1:13:20 Okay, I mean, now in matters related to wealth, for him, the Sun is important.
+1:13:27 Ah, the Sun and Mercury: the 3rd lord is with the ascendant lord and 4th lord, so money will come through consulting and such. There's a chance he'll be a consultant.
+1:13:35 Jupiter is also aspecting the ascendant, right? Speech, communication will be there; we can say all these, so to speak. Those will dominate automatically. That house analysis.
+1:13:43 Yes, that house analysis we can understand like that. Okay. In case there's a planet, the planet's...
+1:13:52 if there's a planet... and now, if you want, I'll tell all the houses. Now the ascendant: Rahu is in the ascendant, so Rahu is also in the ascendant
+1:14:00 nakshatra itself. So whose result is Rahu giving? He's giving the result of Venus in the 11th, so the native becomes a native with labha yoga (gain yoga), so it is
+1:14:08 good. So Rahu is indicating the ascendant bhava and indicating the 11th bhava, so to speak. Excellent, right? So even though the ascendant lord fell into the 12th, because of Venus in the 11th
+1:14:17 the native will be able to progress; financially he'll be able to create funds too, create assets. All these are plusses. Okay.
+1:14:27 Shall we... In progress, in progression, now if Venus goes into the 12th, then again like a 12th house result?
+1:14:35 Only if it goes into the 12th and turns retrograde does it change, right? If it doesn't change like that, nothing changes, right? So the 11th house results stay forever. Okay.
+1:14:42 If the dasha-bhukti is good, beneficial results keep coming, because of that 11th bhava effect. Okay. I've told the 2nd house results: the Sun
+1:14:51 is giving; the Sun controlled it. The 3rd house results: who's in the Sun's star? There's one planet, right? The Moon is there, right? So the Moon directly
+1:14:59 gives it, so to speak. It works as if the 3rd lord is in the 8th, so a somewhat complaining nature, sometimes a nature of speaking harshly: all these will work.
+1:15:07 Saturn and Mars are together with it, right? These will also work, so to speak. That's the matter. Generally very down to earth, but sometimes there's that kind of temperament too. That's the matter.
+1:15:15 The 3rd house. Sir, in other words, the dashas: for example, suppose we're analyzing a dasha, sir,
+1:15:23 okay, okay, a dasha, okay. For example, suppose we're analyzing Saturn dasha. Okay, Saturn dasha came out good; I mean, it came out that Saturn dasha is good
+1:15:32 for us. Okay, taking the star lord, all these, the parivartana: then can we take it by default that the 4th will also be good? I don't take it like that. Its... again its... now
+1:15:41 we've come to that same 4th, right? Now in the 4th, which is the stronger planet of the two? There are two planets in the 4th, right?
+1:15:50 With the ascendant, no connection with the ascendant. Saturn now has no connection with the ascendant. Ah, so now Mars and Saturn are both
+1:15:57 together. Did Mars get any connection from the 10th? No. Isn't Jupiter aspecting? Jupiter isn't aspecting. Okay.
+1:16:06 Ah, the Moon, the Moon, the Moon is not connected; nothing is connected to the 10th house. Actually, there's no connection with Jupiter either,
+1:16:12 right? How would it come at all? It didn't come at all. Okay, so when neither of them has it, in the sequence of the planets between the two, it's Saturn, right? Saturn
+1:16:20 didn't connect with the 7th either, right? The same: both are in the Moon's nakshatra, so okay. I mean, Saturn, Saturn is aspecting... I mean, not the star
+1:16:28 lord, right? So Saturn is aspecting Rahu, that's all; no connection came. So seriously, Saturn will be
+1:16:35 the powerful planet, understood? Ah, in case this Saturn is good... will this Saturn dasha be good for us by default? Don't club the two things together. Look at this
+1:16:43 just like this, okay? Find who's powerful between the two. You'll get lost; this is a jungle. Okay, so Saturn and Mars... likewise Saturn... the two are there;
+1:16:52 between the two we took the powerful planet, okay? Now, suppose you selected Mars, for example. Then, but, Saturn dasha came,
+1:17:00 suppose Saturn isn't good: in that one bad dasha it won't be good, so to speak; the majority will be good. Now Saturn directly isn't good, so to speak: there's retrogression. I mean, after some time
+1:17:08 it'll leave, that's a different matter; but since it's retrograde, if we take it as retrograde, ah, the planet in the 4th
+1:17:15 and its star lord, both aren't good, so to speak. So we cannot give good results. Even if the retrogression leaves, it is giving
+1:17:22 dusthana results, right? 8th house results are coming, right? So, already he's the 8th lord, and again occupying the 2nd lord's nakshatra, and again his
+1:17:30 being in the 8th: all these are not good, so to speak. So there'll be a bit of a challenge: mother, ah, sensitive health, being far away, or something,
+1:17:38 we'll tell; that's the story then, understood? Okay sir. Instead of this, something
+1:17:44 good, let's analyze one, sir. Ah, okay. Something good, I mean, now earlier we analyzed Rahu and said it's good,
+1:17:51 right? The ascendant bhava. Ah, okay, you didn't like it? Okay. The ascendant bhava is good, so the ascendant bhava...
+1:18:00 Ah, that's it, sir. I mean, that's exactly what I thought, sir: now you analyzed a dasha; suppose there's only one planet. Okay, I mean, simply,
+1:18:07 I... now you analyzed the dasha, sir, and thought Rahu dasha is good. There's only one planet; then Rahu is in that bhava,
+1:18:14 so we can assume that bhava will also be good, right? You're linking the bhava and the dasha. I keep telling you not to do that, at first. Okay, analysis separately only.
+1:18:22 First, don't link it. If you link it, you'll get lost, I'm telling you. As for me, I don't want to get lost. Okay sir. Okay, right.
+1:18:29 I thought I'd go the simple way. No, leave it, no; it'll get complicated. That's it, that's it, it'll get more complicated. Yes.
+1:18:38 Okay? Okay, you're doing it. Ah, so the 4th is done, right? We got clarity on the 4th. The 4th, as expected,
+1:18:45 isn't good. We'll give fewer marks: 60, 20 marks, so to speak. Now, out of 100, in the 60 marks, now how many will we give Saturn, as long as this retrogression and all is there?
+1:18:54 We should give 25 out of 60, so to speak. I mean, he'll fail? Ah, we'll give 25. So 25 means as good as failed, in our view. Okay, that's the matter.
+1:19:02 Okay. Ah, tell us about the 20 too, sir. Ah, what's in the 20? The 4th lord, the 4th lord: where is he? Here, he's in the 12th; his star lord is in the 8th. There, we,
+1:19:11 how many out of 20 will we give? We'll give about 15, so to speak. A dusthana connection came, so we can't trust it. Okay, marks were lost there. After that, the karaka of the 4th
+1:19:20 is the Moon, so to speak, okay? The Moon is in the 8th and his star lord is in the 12th: again dusthana. I mean, the 4th will play havoc, so to speak. Okay, it'll cause trouble.
+1:19:29 It isn't that easy. We cannot score many marks. So only we... ah, the Moon's star lord isn't right. For those, directly
+1:19:37 we can take the star lord, so to speak. Okay. Only up to the occupant should we follow the dasha flow. The 60 marks that we give: we have to be very careful
+1:19:44 there. If the 60 marks are good, even if the remaining 40 marks aren't there, he'll still pull through, so to speak. Somehow or other. Ah, there'll be small, small problems. This
+1:19:52 60 marks part, though: if anything goes off there, that bhava goes off, so to speak. That's the thing. Okay.
+1:19:59 So will you do this as homework? Will you try it by next week? Take any one chart each, like that, one you like. So in those, each bhava,
+1:20:07 you should give marks like this, so to speak. That's the homework. Okay sir.
+1:20:14 Okay, shall I teach progressions or not? Okay... Let's look at the bhavas a bit more, sir. Shall we look at the bhavas themselves?
+1:20:22 Then, if you don't ask those questions, I'll just keep telling, so to speak. That, then... So I'll give a different chart, sir; let's look at it in that.
+1:20:30 Okay, so let's analyze all the remaining bhavas in this one. Ah, okay, okay. Now, now look at the 5th bhava. What happened to the 5th bhava? Parivartana
+1:20:37 happened. Okay. Lord, karaka are simple, right? I've told those. This, this is the main one, so I'm telling this. So we'll practice, okay; we'll practice for however many classes it takes.
+1:20:44 Don't be afraid. Okay, so Rahu and Jupiter are in parivartana. So, therefore, whose is the 5th? Venus's. Okay, so he is following Mercury,
+1:20:53 Jupiter, so... okay, nothing big. A dusthana got connected, but the 5th lord and 12th lord is Venus, right? So it is okay; since it's parivartana,
+1:21:01 it's mostly okay, so to speak. There's no big issue in it. That is okay. But still we cannot score much, so to speak. I mean, now out of 60 we'll give between 40 and 45, so to speak, because
+1:21:09 parivartana and all these are there, right? Balancing it: if parivartana came, we just give 45, so to speak. We don't need to worry. Yeah, 3056.
+1:21:18 Ah, on this 5th I got a bit of confusion: when there's a planet... when there's nothing, it's simple; it was done with one planet. Now here you
+1:21:25 mixed Jupiter and Venus, so there's confusion. I mean, there's a Jupiter-Rahu parivartana, right? If there's a planet here, that planet is in parivartana.
+1:21:33 Yes. Since it's in parivartana, we should take the sign lord, right? Yes, correct. That's why I took Mercury. The 5th bhava
+1:21:41 is being controlled by Mercury, Mercury and the Sun together.
+1:21:48 Okay, because Mercury is in Venus's sign? No, no, no, no. There's a Jupiter-Rahu parivartana. First point: who is in the 5th?
+1:21:58 Jupiter is in the 5th. Jupiter... is this Jupiter in parivartana with Rahu? Okay, okay. Then you go and
+1:22:06 place him in Gemini; placing him in Gemini, he'll be under Mercury, so since Mercury and the Sun are together, because of this Sun-Mercury,
+1:22:14 this Jupiter's results will come, I'm saying. If they're good, it's good; if they're not good, it's not (?). In that, then, the position: in that, Light, Performance, Resource,
+1:22:22 we look at everything together and finally give marks. Okay, okay, okay. Understood, right? When there are two, who's dominant?
+1:22:31 When there are two... earlier, here, when there were two, I took the dominant planet of the two, Saturn, and analyzed; we considered the retrogressions and all, so to speak.
+1:22:39 So once the planet comes, the planet's Capacity comes; I mean, there's Light, Performance, Resource. Then we're checking the planet, so to speak. Those three things... again there are three, three.
+1:22:48 Light, Performance, Resource (?): we can't just say it, so to speak. Again we have to look at all those. Again, after that, next, the 6th house. In the 6th house
+1:22:56 who's there? No one. In the 6th lord's star there's only one, so the Sun and Mercury are handling this. The Moon... the Sun and Mercury are handling the 2nd house. Ah, the 2nd
+1:23:05 house they handled; they handled the 5th house. I mean, the Sun and Mercury joining is generally good for a Gemini ascendant; it's not a dosha. So this Sun-Mercury
+1:23:13 combination is like a Budhaditya Yoga, because those should form in kendras; but still it will give fine results, so to speak. So that's why the chart gets very balanced,
+1:23:22 so to speak. Very good. After that, next... as you keep reading like this, you'll understand; in half an hour you'll understand, "Hey, the chart is fine, it seems good",
+1:23:30 you'll understand, so to speak. Then next, likewise, even if it's not good, how many votes (?) are coming, you'll keep understanding even psychologically. Manually,
+1:23:38 if you calculate: no one in the 6th house; the Sun, in the 6th lord's star, is giving the result. The Sun isn't afflicted, right? Not joined with Rahu or Ketu. It'll be
+1:23:46 fine, we can say about health, so to speak. The health matter. Then the 7th house. Ah, Ketu is in the 7th house, right? Okay?
+1:23:53 Ketu's star lord, Venus, is in the 11th, so that will also be fine. I mean, even with affliction, small, small breaks, understanding issues, but still it will be fine,
+1:24:01 we can say, so to speak. It'll be fine; gain... For him the 7th bhava will be good, marriage. That "Ketu is there, it's gone",
+1:24:10 you shouldn't think. What, 3038, are you there? 3038, are you understanding? Are you missing it?
+1:24:18 Anything? Hey, no, no sir, I'm watching, sir. You're watching, but are you understanding or not? I'm listening, sir, I'm listening. (?) If I don't
+1:24:26 understand, I'll ask again, sir, a bit. Okay. So far, what didn't you understand? I understood, sir. Now you explained about the 4th house; you explained about Rahu with Jupiter
+1:24:34 earlier. You tell about the 3rd house. Tell about the 3rd house once.
+1:24:43 The 3rd house, the 3rd house: what will you say? Who's ruling the 3rd house? The 3rd house is empty, right? The star lord
+1:24:51 is, sir... the Sun should be the star lord, sir. The Sun. Okay, okay.
+1:25:00 In the nakshatra, the Moon leads, sir. Ah, correct, correct, you caught it. Ammayya, I'm happy. Ah, in the 3rd (?) lord's nakshatra, the Moon
+1:25:08 is there, so he himself gives the result directly. The dasha flow concept, understood? Ah, understood, sir. Okay, happy. Then in the 7th, in the 7th
+1:25:17 Ketu is there. Ketu's star lord is Venus, so he's also the yogakaraka. The ascendant got connected to the 11th bhava; ah, the 7th got connected to the 11th bhava. Good,
+1:25:25 right? So both are plus points. I mean, Rahu and Ketu are very good in this chart, understood? Rahu and Ketu
+1:25:32 are excellent, so to speak. Okay, they are following the yogakaraka; the yogakaraka is well placed in the 11th house. That's enough, right? That, that
+1:25:41 is the matter. Okay, okay. Now Rahu, Ketu: Ketu is in the 7th, but there's no saying "marriage, this, that".
+1:25:48 Not at all, not at all. 80% are these small, small matters, very minute matters, so to speak. Okay.
+1:25:55 That: what is it, "what I like wasn't there", "today that wasn't made", things like these. But there's a friend of mine;
+1:26:03 he regularly has fights. About what? "The comb was put there; a very big fight happened just because of that," he says, so to speak. So very small, small matters, so to speak.
+1:26:11 Those are all very big fights, sir! That's it, that's it, very big fights. Things like that happen; definitely, fights like that happen.
+1:26:18 Then next, the 8th. The planet in the 8th indicates the 12th. Okay, a kind of Vipareeta Raja Yoga. There's no big dosha there,
+1:26:26 no affliction, so we can give marks: 45 marks easily. For the 7th we can give 50 marks, so to speak, okay? Well, not 50, but I'll give 48.
+1:26:35 I'll give 48. Ah, tell me, tell me. Sir, there are two in the Moon's nakshatra, right sir? Actually, when there's a planet in the 8th, directly
+1:26:43 the star lord itself. When there's a planet, directly the star lord itself, directly the star, the star lord itself. Now, there's a planet in the 7th, and did we take the star lord? Like that, so to speak. There's a planet in the 8th;
+1:26:51 which part it's in doesn't matter at all. He's in the 8th, that's all. He will give the result, understood? Ah, the 8th: directly the star lord. If there isn't one,
+1:26:59 only then that star lord: the 8th... is anyone in that 8th lord's nakshatra? Where the 8th lord's star lord is, like that,
+1:27:06 we have to look again. Aha, okay. The same as in dasha, okay? Then, who's in the 9th? Now there's no one in the 9th.
+1:27:14 The 9th lord's star lord... the 9th lord is also the 8th lord, understood? So because this 9th lord's star lord, the 8th came... for him, for the 8th lord
+1:27:22 if the 8th comes, what's the dosha? It's not that big a dosha, so to speak. So okay, here too we can give about 45 marks, but when retrogression comes we'll reduce it a bit, so
+1:27:30 we have to look at things like that. Okay, so mostly it will give fine results, so to speak. Support, I mean moral support, will be available; again, one has to become self-made, so to speak. Okay.
+1:27:38 Then next, ah, the 9th house: for the 9th house we've already said that. The 10th house: the 10th house we told with the parivartana, right? So,
+1:27:46 again the same Sun-Mercury, Sun-Mercury: the combination is good. Here the Sun and Mercury are coming like this, but in a situation like this, if once Mars and Rahu, things like that, had come,
+1:27:53 suppose, then, then you'd see, understood? That will be a complicated chart, so to speak; that will not give good results, understood? Now, ammayya,
+1:28:03 all of them... ah, did I come only up to 10? 11 and 12 are there. The 11th result: ah, Venus is indicating Mars; Mars is overridden
+1:28:12 by the lord of the 8th, right? So the 8th and 12th lords together are in the 4th kendra. For this ascendant they're friends anyway, right? So nothing to
+1:28:20 worry. Once the retrogression leaves, it'll be mostly good. Until the retrogression, there'll be a problem, so to speak. Ah, until the retrogression, what will there be? Parents' life, 10 years or
+1:28:29 five years, there'll be some age; until that age, so to speak. After that it'll be fine again. So Venus too: Venus is in his own nakshatra, so you followed Mars a bit; Mars is
+1:28:38 overridden by Saturn, so to speak. The strongest planet in the sign rules that bhava, so to speak. That's the thing. Then next, in the 12th:
+1:28:47 in the 12th there are two planets. With two planets: ah, Mercury has no connection from the ascendant, clear. Then the Sun has no connection
+1:28:55 from the 10th, clear. So the Sun is powerful; the Sun is leading. That's the matter. So, with self-effort, the native has to move
+1:29:02 forward. Now and then gains will keep coming, but one has to move forward with self-effort. It'll happen; the work will happen, because he's a native with labha yoga,
+1:29:10 understood? Rahu and Ketu: we, one, in this, you...
+1:29:18 I think you told us; I also remember reading it: is it a Rahu-oriented chart or a Ketu-oriented chart? A Rahu-oriented chart. This is a Rahu-oriented chart, right?
+1:29:27 Because Rahu is in 1... 2... ah, what did we say? 1, 2, 3, 6,
+1:29:36 ah, 10, 11: if Rahu is in those houses, it's a Rahu-oriented chart. If Ketu is in those same places, it's a Ketu-oriented chart, that's all.
+1:29:44 1, 2, okay; 3, okay; 6, ah, 10, 11 houses. 3, 6,
+1:29:56 10, 11 are the upachaya houses, remember; and remember 1, 2. That's it.
+1:30:04 Okay, 1, 2, right? Actually, if no one is there, if neither Rahu nor Ketu is there, then, then what does it do? If you bring a chart like that, like that, I'll give you
+1:30:12 one crore rupees. Ah, now suppose we put Rahu in the 5th; then where is Ketu? Then will Ketu be there? Correct, correct.
+1:30:20 Sorry, sorry. You won't find that chart anywhere in the world. Yes, I'm safe. Okay, next.
+1:30:28 That's it, then. You named six houses; there are another six houses, beyond that. That's it, right? So if a chart like that existed,
+1:30:35 it'd be like "I haven't seen it", right? Like that (?). Yes. Next, nothing more; it's done. That's it?
+1:30:44 A doubt, sir. Doubts, there are doubts, sir. Now you look at the house, that's all; then not going to the bhava? Won't we go to the bhava? If you write this down basically, you'll get an
+1:30:52 understanding. With this, there's no war for you to fight, so to speak. For you, the dasha flow is the real thing, okay? If you write it down a bit basically, that's enough, so to speak. A bit
+1:31:00 giving fewer marks... I'll tell a pineapple story, as usual, okay? Now, for you, now we said the bhava isn't good; you gave it 40 marks,
+1:31:08 okay. Since you gave 40 marks, you think a negative event related to the 4th bhava will happen there every day. If the dasha is good,
+1:31:16 all of it stays silent, like time bombs. Okay. On the day the dasha isn't good, the day that dasha connects, the day it connects in our dasha flow,
+1:31:24 when the 4th connects and it's created negatively, when the progressions come out negative: then he'll say, "Pineapple is 75 rupees, sir; how can we give it for 20 rupees? The season
+1:31:32 has changed," he'll say. That's when the event comes. So, for that day, we're calculating everything beforehand. Approximate
+1:31:39 calculation is sufficient. You don't need to do exactly 82.7667 or something. Don't panic.
+1:31:48 Okay. One more doubt, sir. Sorry, sir, 30(?)... Ah, yes, one minute. Here, there's v3, right? In v3 we...
+1:31:56 one more piece of news is: in v3, I've brought the Alan Leo (?) graph into this.
+1:32:05 Now, whatever dasha shows above: now, for example, Saturn mahadasha is from 2011 to 2030, right? From 2011 to 2030, like this,
+1:32:16 you can enter it. But there's no data before that, so it came like that. I mean, since we typed the date of birth as 2025, let's put 2030 to '47.
+1:32:26 From '30 to 2047: as soon as you enter it like this, like this, like this, you
+1:32:33 get it, so to speak. Here, the same: what's 2039 here is 2039 above too, on one timeline like that. "Here there's bad progress, there's a bad recession": you can figure it out
+1:32:42 like this, so to speak. Is it good? This is the concept. Yes sir. So in this, they'll come... Did you remove the bar graph? The bar graph, removed (?)...
+1:32:50 That, that's still there, sir; that's still there. I just brought this into v3 (?), that's all. Okay. I left that as it is. Okay, ah, the URL
+1:32:58 is still there. This URL can be taken into this. What we mainly need is... everything has to be brought into RVA v3 (?). That's the matter. Okay.
+1:33:06 Okay, okay sir. Fine. There are more doubts, sir: one, another one, two. Ask. Now, for example, does 56 have a big doubt or a small doubt?
+1:33:15 It's not that big. You said Rahu-oriented, Rahu-oriented, Ketu-oriented, right?
+1:33:23 Yes. So in that, why do we look at that, that? For the bhava? If it's Ketu... No, no, you asked us a good question.
+1:33:30 We've put some patterns inside our course, so to speak. Okay.
+1:33:39 Okay, I'll show you. Now, you go to Concepts, inside the Vignana course,
+1:33:47 you go here to Dasha Analysis. How much work I did in this! By the time I named it "Dasha Analysis", this flew away,
+1:33:55 so to speak. Okay, so I'll change the URL.
+1:34:02 I did a lot, a lot. Now wait. Okay, so if you
+1:34:12 click this Dasha Analysis page, it'll open; it'll definitely open. Inside it... I forgot the question you asked.
+1:34:20 Rahu, Ketu. Ah, there's one here called "Neem Tree". That's it, that's it, there's one here called "Neem Tree".
+1:34:29 Trend, destruction, time, waves, neem tree: it's there, right? Okay.
+1:34:36 Inside this we made something, so to speak. Ah, now for us there are things like COVID, right? "Destruction years", things like that
+1:34:43 are there, right? Okay. So, patterns: in the world, if there's eight years of growth, then within two or three years an issue comes. Have you heard that one? Have you ever heard it?
+1:34:52 Or not? Ah, I haven't heard that trend. But you've heard of setting a trend and such, right? You know about trends, right?
+1:34:59 Okay, so the trend is Rahu, so to speak. The planet Rahu follows the trend.
+1:35:06 Now suppose selling oranges brings profits: suppose it's a Rahu-oriented chart, he'll sell oranges. Now suppose doing software brings money for me: whatever the trend is, he follows that. These are charts that follow
+1:35:15 the trend, so to speak. For a Rahu chart, if the outside world is good, then correspondingly his opportunities...
+1:35:23 if it's good outside, it'll be good for him too. Ketu isn't like that: suppose outside it's somewhat problematic, complicated; in such a critical time he
+1:35:31 enters, so to speak. Now in the COVID time doctors grew extremely, right? For example, pharmaceuticals grew, right? Things like that, so to speak. So, complicated
+1:35:40 matters, unknown matters, Ketu keeps solving. When everyone is losing jobs, they, having been waiting for 10 years, get a promotion,
+1:35:47 so to speak. It happens in the opposite way like that, so to speak. For that: whether it follows according to the trend, or whether their chart predictions follow the opposite way,
+1:35:56 to know that, to identify whether it's a Ketu-oriented chart or a Rahu-oriented chart, I created one for myself: that's this "Time" website (?). Newton,
+1:36:06 I wrote it like Newton's theory, so to speak. Okay, so: "For Newton the apple fell down; for me a neem fruit fell down", and I wrote a big story.
+1:36:13 Look here, funnily. So like that, these, these years, so to speak: did destruction happen in 2008?
+1:36:20 Understood? Did the 2020 COVID destruction happen? 2033: destruction like that hasn't happened yet; that it'll happen, we've
+1:36:27 predicted beforehand. Likewise 2043. Like this, we've predicted some years, positive and negative years, beforehand, so to speak.
+1:36:33 Whenever we say this trend is negative: in about two cycles, now, for a Rahu chart, if there was no problem in '88, no problem in 2000
+1:36:41 either, it'll definitely fall in 2008, so to speak. Even if he escaped two cycles, he'll get it in the third cycle.
+1:36:48 Aha, for Rahu people. Okay, Rahu, ah, for Rahu people, correct, understood? For Ketu people it's reversed, right, understood? When the trend is good, the job keeps going away,
+1:36:57 so to speak. There are some charts, some charts: a Ketu-oriented chart, but he doesn't get an opportunity in the bad time,
+1:37:05 and doesn't get it in the good time either, so to speak. Like that, sometimes, charts that don't follow anything turn up crazily, so to speak. Poor things. That happens rarely somewhere,
+1:37:13 now and then. Some charts come, rarely: one chart in about 1000 charts, so to speak. Okay. That, that's the generic good and bad in nature, not his
+1:37:20 good or bad dasha in the horoscope. Ah, yes. Naturally, what I'd wish is: now suppose bad is happening to everyone; if it happens to us too,
+1:37:29 it's done; we go along in that flow. Ah, suppose instead it's different: sometimes it's not that easy, so to speak. The thing comes, like a flood
+1:37:36 it comes, so to speak, understood? Now you, in the COVID time, there were oxygen companies and the like, right? Some actually shot up 100x.
+1:37:44 Pharmaceutical ones like that. Correct. But then, if the oxygen company people also couldn't manage the manufacturing,
+1:37:51 if the doctors also got sick, it's a problem, right? Yes. Pharmaceuticals could be... I'm giving an example. In that, ah, when one good thing is happening,
+1:38:00 bad happening to others will be there; it'll be in different percentages. Likewise, when something bad is happening, for some percentage of
+1:38:08 people, good also happens, so to speak. Okay. Things like that: in our patterns, we've set up about 25 patterns
+1:38:16 for life, I mean, for the various things that happen in life, we've set up some patterns.
+1:38:20 "This birth chart, look, is in a pattern like this": we identify it like that, so to speak. These very patterns, for us, every time we predict an event,
+1:38:28 the 25 patterns keep getting applied on a chart, so to speak, a kind of rules, so to speak. Okay, so I wrote this dasha analysis; you read it. If there are mistakes,
+1:38:37 spelling slips (?)... I wrote it with voice typing, so let's correct all those.
+1:38:43 Yeah, okay sir, thank you, sir. Right, right. (?) 30... back to 30(56?). Okay sir, now,
+1:38:51 ah, in case, now, take the 4th bhava itself, sir, as an example, not in this chart, as an example. Okay. Ah, there's a planet in the 4th;
+1:38:58 that planet isn't good, so there's trouble. But suppose the lord and that karaka are good: those have 20 marks, right? 20, 20 marks.
+1:39:06 Ah, suppose the 20s came: it's a bit better. I mean, can we assume the bhava isn't completely gone? Then, after the occupant is gone, now,
+1:39:14 for example, you want to analyze the 7th house, marriage. Venus is excellent, understood? Then next, the 7th lord is also very
+1:39:21 good, but the occupant is terrible, understood? Aha. Then how will it be easy? Easy? Okay, okay. So the occupant is important.
+1:39:30 The occupant is very important, right? Okay, now for example, you said the occupant isn't good but the karaka is good. Suppose that karaka's
+1:39:37 dasha comes: then it'll work out; it'll work out to some extent.
+1:39:41 Ah, then it comes to that, sir: the karaka or the lord... ah, like that, the karaka is gone, the occupant is gone, and even worse, suppose the lord is also gone: charts like these
+1:39:49 are found in plenty (?): charts where marriage doesn't happen. That's it, sir, that's why I'm asking, sir; that's the reason for asking specifically. Okay, let's go back and look. That's one, sir.
+1:39:57 Two, another doubt: now you talked about dasha, right? We made a prediction that this dasha will be good or not, right? Earlier, for the dasha,
+1:40:04 this, earlier, when you showed it, plus I heard it somewhere earlier, it's what you said, sir: from when does it work, and from when does it not work? Will you tell something about that, in the next class
+1:40:13 will you tell? What is it, "from when it works", what is that? I mean, does that dasha work in full, or does half of it work? I mean, for that we have a rule in this itself, so to speak,
+1:40:21 there's a pattern rule. Okay, the first rule is that, so to speak: we split the dasha into two parts, so to speak, okay? So the whole dasha period
+1:40:29 we divide into two parts. The dasha planet, the dasha planet's star lord, sometimes becomes the lord of two signs, right? Any
+1:40:38 one planet we take, I mean, for us it becomes the lord of two signs, right? Yes. Mercury... now you, you, for example, ah,
+1:40:47 took Venus. Venus is the 6th and 11th lord, right? Yes. Venus follows Mars; Mars, Mars, Mars
+1:40:55 is the 6th and 11th lord. There's a planet in the 11th, so, poor thing, he gives the 6th lord's result, Venus. Okay. Suppose like that, neither is there...
+1:41:02 Ah, what is it, neither is there? Ah, I mean, there's no planet in the 6th, and none in the 11th either. Ah, any planet has two lordships, right? Once...
+1:41:10 Yes, yes, they look like that too; we should look at it like that too. We should look at both: look at the planet, look at the star lord. Sometimes this works, sometimes that works. We should check and
+1:41:18 apply it carefully. Some one half or other keeps getting lost. I mean, cases where the planet's whole dasha works
+1:41:27 are few, I'm saying. They exist. Now the yogakaraka: now for Aries ascendant, you gave a chart earlier: for Aries ascendant, Jupiter is in the 12th, but there's no planet in the 9th, so he's the 9th and 12th lord,
+1:41:35 so even though he's in the 12th, he'll perform. If he were in the 9th rather than the 12th, he'd perform even better. He'll perform fully, that too.
+1:41:44 Whereas if it had been different, he'd perform only half.
+1:41:49 Understood? Now, for example, since Venus is the 6th and 11th lord, the first 10 years
+1:41:56 are good, and the second 10 years he'll be average; it won't be as expected: some health problem or other, because there are dusthana lords, 6 and 8.
+1:42:03 lords are in the 4th: mother's health, wife's health, he'll impact something or other, so to speak, depending on the age when that dasha comes.
+1:42:10 Okay, now for Mars: now when we analyzed Venus, we're looking at Mars. For Mars, of these two, the moola-
+1:42:18 trikona comes first, comes first. The moolatrikona is Aries, right? It comes first. In case the moolatrikona comes first, but if there's no planet there, or if there is, like that,
+1:42:26 they get modified again. If retrograde, they reverse again, understood? If retrograde, he gives 6 first and then gives 11.
+1:42:34 Okay, okay. First he gives the moolatrikona. I mean, if there are no planets, even if there are two planets, mostly, mostly he keeps giving it. But we should check where it goes for us, where
+1:42:42 it goes; we should check manually once. Like a rote rule like this, a fixed rule, "rule number one", you can't say that. In some situations
+1:42:51 it depends, right? They change dynamically, right? Sometimes, retrogressions. This is one. Next: now you, earlier, in the dasha analysis itself, we saw somewhere, sir, I mean, this
+1:42:59 works from this time; something, this much goes; maybe now suppose Venus mahadasha is 20 years. That's it; here, look, we called it the "Motivation (?) Theory", right? Here, like this.
+1:43:06 Ah, ah, this one, sir. Will you explain this, later, in the next class? This... yesterday, yesterday we told you to watch a video; 3028 asked. Did you watch that video?
+1:43:14 Ah, ayyo, I missed it, sir. I didn't remember it at all. Yesterday, when this dasha was taught, I sat on it, but I forgot it completely. Okay, watch that video. Here too I've written an article;
+1:43:21 read this too. Just percentage: the ascendant degrees, the Moon's degrees... sorry, the ascendant degrees, the dasha lord's degrees, the bhukti lord's degrees should be added, so to speak; multiply and
+1:43:29 calculate the percentage; it's very easy. Okay. This, you... for us, I mean, we look up to the bhukti. The dasha:
+1:43:37 the dasha too, likewise: the ascendant degrees, the dasha lord's degrees; then what percentage? What percentage out of 60°? Now tell me which dasha you want to look at. An
+1:43:44 example: you want to look at Venus dasha itself. Okay, the dasha. Ah, Venus dasha... the degrees, the ascendant degrees: how many degrees? 15°, this, here, 15. 33°... 60
+1:43:54 out of how many came? 32. Ah, out of 60 how many came? 33 came, right? Yes. Ah, 33 times...
+1:44:02 ah, smaller by bigger, 60/1 (?), so to speak. Okay, sorry.
+1:44:11 33: 33 / 60 × 100, I mean, ah,
+1:44:18 as soon as 55% is done, it gives the result. I mean, Venus dasha should finish 55% mainly; then
+1:44:25 the real result comes, generally. I mean, that's a matter after 10 years: what it gives is the real result. There, if good
+1:44:34 progression and good bhuktis are there, it'll be super. That's the matter. Suppose the dasha didn't work in that part: then again the matter is different.
+1:44:42 I mean, now one more small thing, sir... Now, for today, for today, go with the dasha flow. If you try to overheat,
+1:44:50 you'll get a stomach ache, understood? I mean, I mean, I mean, you're saying progression again, right? This is finished. I was just teasing you because nobody was responding, that's all. Ah,
+1:44:58 is it? Okay, okay. You might go to that, and I'd miss this. Now this: okay, a small doubt, sir. Suppose this same ascendant is at 29, and suppose Venus is also at 29:
+1:45:06 ah, then how much? 58, right? Yes, yes. Then, like mritavastha (the "dead" state), they won't give results till the end, so to speak. They come sometime at the end and give it in two
+1:45:15 dashas, some, some dashas. What's that, sir? Then it'll come to 100, right? Then it should give from the start, right? What is this, 100? What percentage is it at?
+1:45:22 Now you tell me, which degree will you say? Tell me. The ascendant 29, Venus 29: 29 plus
+1:45:31 29, I mean 57 (58). 57 / 60°, we're looking at... into 100, ah,
+1:45:37 after 95% it gives the result. For Venus, in 20 years, you should think it's after 95% is over.
+1:45:45 Yes. Ah, so however much has been consumed... after that much is consumed, it gives the result.
+1:45:52 Like that: in the first 10 years, after 95%; in the second 10 years, after 95%, there'll be events.
+1:46:00 Ah, once more, sir: now, once more, what did you say the formula is? I made one thing for you in v3 (?) for that. How I did it is:
+1:46:08 ah, sir, you look: here, a dasha, in this, look, I put a line in the middle: first part,
+1:46:15 second part, did I put that? Did it come? Yes. Look, if you want light mode, I'll put it in light mode too.
+1:46:22 Ah, did I put first part, second part? Yes. This first, first part, second part,
+1:46:30 apart from that: in the first part there'll be some percentage, right? First 10 years, I mean, 10 years, whatever it is; here, in 2.7 years,
+1:46:37 in the first part, I mean, the 2.7 years should be split into two parts. In these 2.7 years, in the first part, you can do this calculation;
+1:46:45 you can do it in the second part; you can do one calculation overall, combined. That's why I put three lines. Aha, okay, okay, okay. Three calculations in all.
+1:46:53 Overall, the dasha too, I mean, for dasha and bhukti, should we sometimes divide by 120 (?)? Ah, three: now suppose there are three, suppose there's a bhukti, now:
+1:47:01 the planet Venus at 18 degrees, okay; the ascendant at about 15 degrees, okay; the bhukti lord, okay, let's say Saturn, at 22
+1:47:09 degrees. Adding them all, how much? 55, right? 55 / 90 × 100, I mean, after 61%, that bhukti gives the result.
+1:47:20 Aha, aha, okay, okay, okay. Sir, I'm just saying this for everyone's knowledge (?), sir, just that; don't mind. Ah, this is in Vedic, sir:
+1:47:30 the ascendant: it says that only if this ascendant, or whatever it is, is at the start does that dasha give full results. Now the calculation you gave
+1:47:37 matched that. Aha, okay, okay, okay. Now, I mean, apparently all of that should be there; I mean, apparently it should occupy all of that... be at the start,
+1:47:45 okay, okay, nice. It's in Vedic, sir, that it gives all of that result. That's it. Okay, okay. We don't read, so we don't know. Okay, right.
+1:47:52 Yes: first part, second part, third part. If it's in the third part, it gives the result in the third part, in a broken (?) way. Ah, exactly, it's good to be in the first part,
+1:48:01 for the full dasha results to come. I mean, I don't remember about the ascendant, but, ah, at least, if that dasha lord himself is at the start,
+1:48:10 it's good, I've heard, sir. Ah, for the dasha to work, it activates after that percentage. Earlier, yesterday, you told us about Mars dasha, right? For us, in Mars
+1:48:17 dasha, here, until '19 there was a problem; you said Mars dasha itself caused the problem. Actually, that dasha, before activating, why would it cause a problem? It continued from the earlier Moon (?) dasha,
+1:48:25 that, understood? Once it activates, it resolves and moves forward.
+1:48:32 Okay, okay. By this reckoning, calculating everything... abba!
+1:48:41 Suppose the dasha is good, this is good, that is good: we also have to see when it'll activate, right?
+1:48:48 Ah, when it activates, the progression should also come out favourable, right? Aha, there's that one too? Again, again, there's that one too, right? Then, then, if you're
+1:48:55 not right mentally, how will you perform? So you should be good mentally, and luck should also be good.
+1:49:03 By this reckoning, getting lucky seems hard. Ah, 25%, not that easy. Okay. Otherwise everyone
+1:49:12 would get chances, right? This says (?)... everyone would become heroes. "Even luck comes at a discount, and misfortune comes as a bonus." That's it, that's it. So malefics are more
+1:49:21 than benefics, you know, right? Ah, yes sir. I too... so this, this, look, I said at the start: benefics are fewer, malefics are more,
+1:49:29 so they are. Sir, could you tell this calculation from earlier once, sir? You (?)... Venus, ah, (?)
+1:49:39 Okay, how can we take it, the dasha, how, a bit... for this, what we did is, here, we made this page called Dasha Analysis. This one, on YouTube,
+1:49:47 "Vimshottari dasha calculation", how to use the dasha: we showed one. Did you see that?
+1:49:55 I think I saw it, but I don't remember it, sir. I'll watch again. Ah, okay. Type "dasha"; it'll come here for you.
+1:50:03 That's the calculation, sir, apparently, that you did earlier. That's it, sir. Here, this video called "Dasha Activation", 8 minutes long; yesterday I told you to watch it once.
+1:50:12 Okay, okay. Watch this once. I'll say it simply once more too, if you want: the ascendant degrees and the dasha lord's degrees,
+1:50:20 we should combine them as a percentage, so to speak. Combining simply: now this Venus, in this whole sign of 30 degrees, is at 18 degrees;
+1:50:27 the ascendant is also at about 15°; I mean, how much? It's roughly 50%, right, understood? So after about 50%, after 55%,
+1:50:36 Venus gives the result, I'm saying. I'm giving a calculation like that. Okay, okay sir. Sir, okay sir. A small doubt in this, sir: now, from then
+1:50:43 on, if Venus actively gives, suppose the Ketu dasha before that was good: this, this Venus's first half too, Ketu's good
+1:50:50 results continue, does that happen? Shouldn't we take it like that? It continues, but then there are bhuktis in between, right? Again we have an offer, right? These bhuktis come, right? I mean, so
+1:50:59 Yes, this life moves on, sir; life moves on. But in this bhukti, in some way... now you're doing a job, doing it, and here you may get a promotion, an improvement, a life-
+1:51:07 changer, or a bonus, like that, right? Ah, that's it, that's it. Sir, now suppose Saturn mahadasha got activated for him through the Sun,
+1:51:14 ah, suppose it's good there, everything's good: then if you work here, where you'd get 10 rupees, here you'll get 100 rupees. A spike comes like that.
+1:51:23 Okay, so it's not that you should think everything before that is gone. No, no, you shouldn't think it's gone. Important results, understood? "I've been looking at marriage proposals for two years; for me
+1:51:31 the important time came, and then I'll get married": like that. Okay, okay, okay, okay, okay, okay. It's not that Saturn mahadasha's first half was entirely lost. Was it lost?
+1:51:40 Where did I say that? Actually that's a wrong prompt; you took the prompt wrongly. Wrong prompt. Okay, our understanding: I mean, "important", I mean,
+1:51:48 it could be positive, or it could be negative too, right? That... ah, even negative. Yes. Now suppose we said the whole dasha is lost: "Nothing happened, for me
+1:51:55 it didn't go badly," he'll say. 18 years didn't go badly; the planet is at the end, he'll say. At the end he'll contest something, so to speak, and then, "Everything's gone, sir, what I earned in 30 years," he'll say. It's like that.
+1:52:05 Okay, okay, okay, okay. "Important": if it's good, something important will happen; if it's not good, something important will also happen. For that, in this there are dasha patterns;
+1:52:14 I'll explain all of these too; if you want, I'll even explain the code (?) every day, on each one. Now, anyway, why I'm not focusing on this is:
+1:52:20 once the major calculation is done, we'll go into the chart, come back in reverse from the chart, and explain the topic again; that's what I'm thinking,
+1:52:28 I, understood? I want to bring charts.
+1:52:32 So then you'll remember the progressions. Then, yes: because a problem comes to you in real time and you learn through the problem, you'll remember it.
+1:52:38 That's why I, even if not like total spoon-feeding... well, I am doing total spoon-feeding, but still, within what there is,
+1:52:45 a few hardships, small, small hurdles, so that you also feel like you achieved something, I'm going back and forth like that, that's all.
+1:52:53 Ah, sir, I mean, another way, another small thing: in case the ascendant fell at the edge, sir, starting around 28 to 29...
+1:53:01 Now, for some ascendants, there are the best drekkanas for where they should fall, right? It can fall like that; there's no dosha because of it.
+1:53:06 I mean, it's not that the dashas then activate only at the end. They activate depending on the degree. For us, degree-wise, it's the degree, that's all.
+1:53:14 Degree-wise it's the degree. Then planets could be early in degree, right sir? Then it's as if half the planets are gone, right?
+1:53:21 It's as if half is gone, right? That's what I'm saying: the ascendant fell at the edge. I'll tell you one thing: you're writing exams after one year; the whole year
+1:53:29 is as good as wasted, right? "Once you write the exams, it's done", right? That's what you'd say. Ah, then why, with nothing to do, so many... in the exams...
+1:53:37 if they put it all in, that'd be the end of it, right? We'd write ten years' worth, one a week, right? Okay, okay.
+1:53:45 To build anything, to build anything, it takes time; for each person it takes a different kind of time. For some it may be 10 minutes; for another it may take 10 hours.
+1:53:55 Okay, understood? However something falls, whether it's good or a yoga, its time will be accordingly; its reckoning, its calculation, nature's calculation will be there. So it happening like that is itself
+1:54:03 correct. Okay, okay. Then, if one says a film must be made once every three months, even if everyone makes them, there's no guarantee it'll work out, right? Even if it takes three years,
+1:54:12 there are also people who say "okay, we'll wait", right? It depends. So that, that, this, which is good... so we already
+1:54:19 said one thing: what? "Don't judge anything until you know everything", did we say that? That's the formula, fundamentally. So, right now, we shouldn't feel "that's as good as gone",
+1:54:27 right? What it is will be known once we get there, right? Once we see it we'll understand. Until then we should wait like that; we should have the patience to keep watching,
+1:54:34 so to speak. That's it. Yes. Ah, these two were my doubts, sir. Okay, right. If anything else comes up on the dasha flow (?), I'll ask, sir.
+1:54:42 Yes. What, everyone is silent? You could say something, four or five...
+1:54:50 ah, jokes. Did you think I asked for charts? Okay, nothing? Today's class,
+1:54:58 shall we take more (?) today? Yeah, that's enough, sir. Ah, then let's stop. Today's class... if you want something funny, let's talk. Good
+1:55:05 night, everyone. Shubharatri.
