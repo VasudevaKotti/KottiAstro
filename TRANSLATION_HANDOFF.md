@@ -1,0 +1,156 @@
+# Telugu -> English Transcript Translation: Handoff
+
+_Last updated 2026-10-17 08:04 UTC. This file is generated from the translation tracker; regenerate it rather than editing the tables by hand._
+
+## Goal
+
+Translate the 117 Telugu YouTube auto-caption transcripts in the repo root (`<videoId>.txt`) into English and save each one, in the same folder, as `<English title>.txt`, where the title is an appropriate name of at most 4 words. The original Telugu files stay untouched. The non-transcript files (`Bhava & Yoga.txt`, `Birth Dates.txt`, the `.md` notes) are out of scope.
+
+## Status
+
+- Files: **1 of 117 done** (0 committed to `claude/wonderful-fermat-szzyo8`), 10 in progress, 106 not started.
+- Caption lines translated: 3,663 of 129,483 (2.8%).
+- Estimated completion: about 2026-10-17 14:47 UTC at the current rate (312 lines/min).
+
+## Pending
+
+- [ ] Translate the remaining files (see the table below).
+- [ ] Commit and push finished files in batches to `claude/wonderful-fermat-szzyo8` (a draft PR tracks the branch).
+- [ ] Final QA: every English file has the same number of caption lines as its source, no Telugu script, header line present.
+- [ ] Final commit; mark the PR ready for review.
+
+## Conventions
+
+- **Output format**: line 1 is a header `# <videoId>\t<original YouTube title>\tlang=en (translated from te)`; every following line is `<timestamp> <English>` with exactly the same timestamps as the source, one line per caption line. CRLF line endings, like the source files.
+- **File names**: at most 4 words, derived from the YouTube title, safe on Windows/macOS/Linux (no `/ \ : * ? " < > |`).
+- **Translation**: faithful line by line, no summarising; conversational tone kept; Telugu/Sanskrit terms of art romanized (bhava, dasha, bhukti, nakshatra, yoga, dosha, karaka, gandanta, ...); planets and signs in English; `lagnam` = ascendant; star lord / sub lord / sign lord; `(?)` marks a word that is unclear in the auto-captions; `(inaudible)` marks a caption line with no intelligible speech.
+- **Workflow**: ten background agents (queues 1-10) plus the coordinator (queue 0) translate in blocks of about 60 lines; a validator checks each block (timestamps match the source, no Telugu script, no condensed output) before it is saved; a transcript is written to the repo only when all its lines are done.
+
+## Resuming after an interruption
+
+- Finished transcripts are committed on `claude/wonderful-fermat-szzyo8`; anything marked *Done (committed)* below is safe.
+- In-progress blocks live only in the session's scratchpad (`scratchpad/work/<videoId>.en.txt`) and do not survive the cloud container. A fresh session restarts those files from line 1; nothing else is lost.
+- The video ID -> English file name mapping is the table below.
+
+## File status
+
+| # | Video ID | Original title | English file | Status | Queue |
+|---|----------|----------------|--------------|--------|-------|
+| 1 | `cunqWeMtS-o` | Argentine Footballer Lionel Messi Birth Chart Analysis | `Lionel Messi Birth Chart.txt` | Done (not yet committed) | 0 |
+| 2 | `zMEp7ApMcVo` | Dynamic Natal Chart, Retrograde & Dasha Flow | `Dynamic Chart Dasha Flow.txt` | In progress: 282/379 lines | 5 |
+| 3 | `O6ioSyDizWg` | Dynamic Natal Chart & Rule 4 Analysis | `Dynamic Chart Rule 4.txt` | In progress: 335/497 lines | 6 |
+| 4 | `LPJBFQ5jO2o` | How KP Horary Confirms Birth Chart Prediction | `KP Horary Confirms Prediction.txt` | In progress: 272/783 lines | 9 |
+| 5 | `b25cZKmUtVg` | Medical Astrology & Disease Predictions | `Medical Astrology Disease Predictions.txt` | In progress: 302/534 lines | 8 |
+| 6 | `JY3De2pTAKU` | Planets Capacity with Performance & Resource | `Planet Capacity Performance Resource.txt` | In progress: 368/805 lines | 2 |
+| 7 | `p7T9GSuiqlw` | Q & A : Rule 4, Retrograde & Chart Analysis | `Q&A Rule 4 Retrograde.txt` | In progress: 346/448 lines | 7 |
+| 8 | `PgLi-AtRP7U` | Real-Time KP Astrology Chart Analysis | `Real-Time KP Chart Analysis.txt` | In progress: 531/725 lines | 3 |
+| 9 | `XQEXup6y6QA` | Understanding the Role of Sign in Predictions | `Sign Role in Predictions.txt` | In progress: 344/449 lines | 4 |
+| 10 | `RIk8bJcDg8Q` | Quiz: Reading Chart From Just Two Planets | `Two Planet Chart Quiz.txt` | In progress: 321/541 lines | 1 |
+| 11 | `e1x6ZnSS-s8` | Q&A of Vignana Course Class Q&A 5, 6 | `Vignana Course Q&A 5-6.txt` | In progress: 311/380 lines | 10 |
+| 12 | `RDwAfrgk1Dc` | Many Planets in 10th & 11th Houses Make Rich? | `10th 11th House Wealth.txt` | Pending | 6 |
+| 13 | `0M9ts6BH-Yw` | 6th Lord Influence on Marriage Breakdown | `6th Lord Marriage Breakdown.txt` | Pending | 4 |
+| 14 | `wxxVYO2Q5iM` | Aquarius Ascendant – Time Factor vs Horoscope | `Aquarius Ascendant Time Factor.txt` | Pending | 6 |
+| 15 | `TtveM_uHyvw` | Aquarius Ascendant – Game of Wealth Creation | `Aquarius Ascendant Wealth Creation.txt` | Pending | 6 |
+| 16 | `_81TvF9dbFA` | Aries Ascendant - Planetary Conjunctions | `Aries Ascendant Planetary Conjunctions.txt` | Pending | 8 |
+| 17 | `DiVcOg2DMwo` | Advantages & Disadvantages of Every Ascendant | `Ascendant Advantages and Disadvantages.txt` | Pending | 9 |
+| 18 | `HufSiPpvHhY` | Astrology Avadhanam / Reading Multiple Charts | `Astrology Avadhanam Multiple Charts.txt` | Pending | 4 |
+| 19 | `woVSBGLmyEk` | Astrology for Beginners: Easy Roadmap | `Astrology Beginners Easy Roadmap.txt` | Pending | 7 |
+| 20 | `sqR0OU-D9iA` | Astrology Fundamentals: Ascendant, Bhavas | `Astrology Fundamentals Ascendant Bhavas.txt` | Pending | 1 |
+| 21 | `oTlAGxnxliI` | Building Astrology Knowledge Using NotebookLM | `Astrology Knowledge with NotebookLM.txt` | Pending | 5 |
+| 22 | `tHtt26jXe9Q` | Astrology Quiz, Planets & Digbala | `Astrology Quiz Planets Digbala.txt` | Pending | 1 |
+| 23 | `fvI985bpFKI` | Astrology Software & Calculators Updates | `Astrology Software Calculator Updates.txt` | Pending | 2 |
+| 24 | `Nf_09LbAKyU` | Astrology Utility in Modern Life | `Astrology in Modern Life.txt` | Pending | 3 |
+| 25 | `PIBb3OXMtrM` | Planet Strength & Bhava Scoring Methodology | `Bhava Scoring Methodology.txt` | Pending | 7 |
+| 26 | `Sdu53mYVmsI` | Bhava Vibajana Explained | `Bhava Vibajana Explained.txt` | Pending | 2 |
+| 27 | `_r4OWcwdcRg` | Why Cancer Ascendant is Blessed Explained | `Cancer Ascendant Is Blessed.txt` | Pending | 5 |
+| 28 | `ouSrE3IHZhc` | Capricorn Ascendant – Work is Worship | `Capricorn Work Is Worship.txt` | Pending | 4 |
+| 29 | `Q8RhctpY60Y` | Committed Marriage & Career-Oriented Analysis | `Committed Marriage Career Analysis.txt` | Pending | 5 |
+| 30 | `_dUMqXvV_xs` | Conjunction of Planets for every Ascendant | `Conjunctions for Every Ascendant.txt` | Pending | 6 |
+| 31 | `hZq3Ii7VBCo` | Analyze Personality Traits Step by Step in D1 | `D1 Personality Traits Analysis.txt` | Pending | 1 |
+| 32 | `kkG7NCxeOZg` | Navamsa Chart, Dashamsha Chart, D9, D10 & D24 | `D9 D10 D24 Charts.txt` | Pending | 5 |
+| 33 | `R8Z4wtdAiN4` | How to Predict Events Using Dasha Patterns | `Dasha Patterns Event Prediction.txt` | Pending | 4 |
+| 34 | `WL3-5djCYlc` | Debilitated Ascendant & Moon Starlord Effects | `Debilitated Ascendant Moon Starlord.txt` | Pending | 4 |
+| 35 | `W63E0o7lW5Y` | Diwali Magic - Predictions Like Crackers! | `Diwali Magic Predictions.txt` | Pending | 3 |
+| 36 | `IZAO0yMM7NE` | What is Doshas in Astrology? Explained | `Doshas in Astrology Explained.txt` | Pending | 4 |
+| 37 | `wF7gxcR5Ii4` | Dynamic Natal Chart, Retro & Planet Scoring | `Dynamic Chart Planet Scoring.txt` | Pending | 2 |
+| 38 | `K0_BSFdTB2k` | Dynamic Retrograde Rules & Yogas in Astrology | `Dynamic Retrograde Rules Yogas.txt` | Pending | 7 |
+| 39 | `k5sACoas02g` | Dynamic Retrograde Analysis with Progression | `Dynamic Retrograde with Progression.txt` | Pending | 7 |
+| 40 | `_ohJkDcNySQ` | Fingertip Prediction, Performance & Resource | `Fingertip Prediction Performance Resource.txt` | Pending | 10 |
+| 41 | `KYySjjrBNhk` | Foreign Travel with KP Horary & Birth Chart | `Foreign Travel KP Horary.txt` | Pending | 6 |
+| 42 | `8Bm7oiJg6lc` | Participants Fun & Live Discussions | `Fun Live Participant Discussions.txt` | Pending | 8 |
+| 43 | `wTfdyfZ105k` | Interpret Functional Malefics in 12 Houses | `Functional Malefics 12 Houses.txt` | Pending | 2 |
+| 44 | `XTsy1J_j690` | Gandanta & Sandhi Lagna Practice Session | `Gandanta Sandhi Lagna Practice.txt` | Pending | 9 |
+| 45 | `V0Ts42eTewU` | Golden Prediction Technique, Astro Data Bank | `Golden Prediction Technique.txt` | Pending | 10 |
+| 46 | `-UOrTfwy4jg` | Grading Methodology & 27 Nakshatra Stories | `Grading Methodology Nakshatra Stories.txt` | Pending | 2 |
+| 47 | `mDo8Frv4vK8` | Secrets of a Great Ascendant Based on Planets | `Great Ascendant Planet Secrets.txt` | Pending | 3 |
+| 48 | `OBQMvyF2I4w` | KP Astrology Introduction& Basics Explained | `KP Astrology Basics Explained.txt` | Pending | 9 |
+| 49 | `fDHx24NWJSE` | KP Horary for Stock Market Predictions | `KP Horary Stock Market.txt` | Pending | 8 |
+| 50 | `xB6acg1C2_w` | KP Astrology– Practical Prediction Methods | `KP Practical Prediction Methods.txt` | Pending | 8 |
+| 51 | `nM-LOi7ApsE` | KP Prashna for Stock Market Analysis | `KP Prashna Stock Market.txt` | Pending | 1 |
+| 52 | `4H-YpdY4gmk` | KP Astrology & Rahu, Ketu, Vak Shuddhi | `KP Rahu Ketu Vakshuddhi.txt` | Pending | 7 |
+| 53 | `efDde6aFd_M` | Karma, Astrology Articles & Editing Insights | `Karma Articles Editing Insights.txt` | Pending | 10 |
+| 54 | `Xk_ZKNnhvIk` | Interpreting Kundali Using Structural Method | `Kundali Structural Interpretation Method.txt` | Pending | 10 |
+| 55 | `D-YH7chNzKY` | Born to Rule : Leo Ascendant Combinations | `Leo Ascendant Ruling Combinations.txt` | Pending | 3 |
+| 56 | `58Xal0HPR3o` | Leo Ascendant: Wealth & Protection Secrets | `Leo Ascendant Wealth Protection.txt` | Pending | 3 |
+| 57 | `GQUqQiD5HCw` | Libra Ascendant: Reverse Combinations | `Libra Ascendant Reverse Combinations.txt` | Pending | 8 |
+| 58 | `Dt_wD1txJ2s` | Libra Ascendant: Why Exalted Planets Fail | `Libra Exalted Planets Fail.txt` | Pending | 8 |
+| 59 | `yX41uXvgLfk` | Multiple Love Breakups, Family Responsibility | `Love Breakups Family Responsibility.txt` | Pending | 6 |
+| 60 | `rUuYkiXDUzc` | Malefics Impact on Purva Phalguni Nakshatra | `Malefics on Purva Phalguni.txt` | Pending | 5 |
+| 61 | `Mjac_xUOWR0` | Choose Marriage Dasha Bhukthi Based on Fate | `Marriage Dasha Bhukthi Fate.txt` | Pending | 7 |
+| 62 | `-kPUSpNrGGk` | Powerful Results of Mars in Rahu Mahadasha | `Mars in Rahu Mahadasha.txt` | Pending | 1 |
+| 63 | `XkvMHMSG1rc` | Mercury Decides Fate of Capricorn Ascendant | `Mercury Decides Capricorn Fate.txt` | Pending | 1 |
+| 64 | `udLGiYZo80E` | Power of Movable Ascendant (Chara Lagna) | `Movable Ascendant Chara Lagna.txt` | Pending | 7 |
+| 65 | `SmeZp0Ugsm0` | Movie Dialogues into Planetary Positions | `Movie Dialogues Planetary Positions.txt` | Pending | 3 |
+| 66 | `zmaogH64mIA` | Navamsha Calculation, Nakshatras Explained | `Navamsha Calculation Nakshatras Explained.txt` | Pending | 7 |
+| 67 | `LlGLu4MrDlg` | NotebookLM for Astrology Notes & Docs | `NotebookLM Astrology Notes.txt` | Pending | 3 |
+| 68 | `PItot96_dMM` | Birth Time Rectification Using Pancha Tatwa | `Pancha Tatwa Birth Rectification.txt` | Pending | 5 |
+| 69 | `DvNkY2HDa5k` | Performance Scoring & Progression Analysis | `Performance Scoring Progression Analysis.txt` | Pending | 10 |
+| 70 | `4YpumAUZbjQ` | Personality Traits & Bhava Interpretation | `Personality Traits Bhava Interpretation.txt` | Pending | 10 |
+| 71 | `5WGr1E-bClM` | Pisces Ascendant – One Planet Saved Life | `Pisces Ascendant Life-Saving Planet.txt` | Pending | 7 |
+| 72 | `V9fZiw6ZLCs` | Pisces Ascendant – Spirituality & Materialism | `Pisces Spirituality and Materialism.txt` | Pending | 9 |
+| 73 | `p1RuLdqiaD4` | Planet Capacity Calculator & Dynamic Chart | `Planet Capacity Calculator.txt` | Pending | 1 |
+| 74 | `dV1mqy396gU` | Planet Capacity Worksheet & Chart Analysis | `Planet Capacity Worksheet.txt` | Pending | 6 |
+| 75 | `EcMj2xE5nfY` | Step-by-Step Planet & House Analysis Marks | `Planet House Analysis Marks.txt` | Pending | 7 |
+| 76 | `VIisiDz80ME` | Planet Performance & Capacity Explained | `Planet Performance Capacity Explained.txt` | Pending | 10 |
+| 77 | `S1NbGwwmPcE` | How to Interpret using, Planet, Rashi & Bhava | `Planet Rashi Bhava Interpretation.txt` | Pending | 9 |
+| 78 | `D17R6UrvI5s` | Planet Strength, House Analysis & Scoring | `Planet Strength House Analysis.txt` | Pending | 5 |
+| 79 | `zBuXyEYjsT8` | Planetary Capacity & Detailed Chart Analysis | `Planetary Capacity Chart Analysis.txt` | Pending | 4 |
+| 80 | `85sbtRa82Ho` | Advanced Planetary Combinations & Detachment | `Planetary Combinations and Detachment.txt` | Pending | 6 |
+| 81 | `mnQNq_CYgA8` | Planetary Retrograde Practice Session | `Planetary Retrograde Practice Session.txt` | Pending | 5 |
+| 82 | `yVcBeij58SM` | Planetary Rules, Dasha & House Analysis | `Planetary Rules Dasha Analysis.txt` | Pending | 8 |
+| 83 | `K1qUdgLX1tA` | Real Chart Practice - Planets & Star Lords | `Planets Star Lords Practice.txt` | Pending | 8 |
+| 84 | `ajUKaHKMV00` | Planets Role & Practical Stellar Astrology | `Planets in Stellar Astrology.txt` | Pending | 2 |
+| 85 | `c1URMNIVbnM` | Power of Gemini Ascendant Explained | `Power of Gemini Ascendant.txt` | Pending | 6 |
+| 86 | `N4tmZ5GP46E` | Powerful Planet Rules & Performance Explained | `Powerful Planet Performance Rules.txt` | Pending | 6 |
+| 87 | `SE0cR4wRja8` | Practical Experience of Time Chart Prediction | `Practical Time Chart Prediction.txt` | Pending | 5 |
+| 88 | `E4hOb4AFFLQ` | Progression & Real Life Event Mapping | `Progression Life Event Mapping.txt` | Pending | 2 |
+| 89 | `Aw9y0H3Sbvo` | Progressions Practice Session by Participants | `Progressions Practice by Participants.txt` | Pending | 9 |
+| 90 | `MEIMAytyyiw` | Can Progressions Predict Longevity? | `Progressions Predict Longevity.txt` | Pending | 8 |
+| 91 | `SnNxZb7Y2YU` | Progressive Timelines & Life Correlations | `Progressive Timelines Life Correlations.txt` | Pending | 5 |
+| 92 | `woiOI4bqQgE` | Prompt to Judge Horoscope Step by Step | `Prompt to Judge Horoscope.txt` | Pending | 8 |
+| 93 | `zrOI9lcHdR0` | RVA Playground & Lagna, Planet Friendship | `RVA Playground Planet Friendship.txt` | Pending | 9 |
+| 94 | `cvCNN5qYJe8` | Yoga Bhanga Due to Rahu & Ketu Influence | `Rahu Ketu Yoga Bhanga.txt` | Pending | 3 |
+| 95 | `xDwTZ9qq41I` | Fun Astrology Exercise Rakhi Pournami Special | `Rakhi Pournami Astrology Exercise.txt` | Pending | 2 |
+| 96 | `00UXbzNHkNU` | Step-by-Step Practice of Retrograde Rules | `Retrograde Rules Step-by-Step.txt` | Pending | 10 |
+| 97 | `4_Suv99zoHk` | Retrograde Planets, Rules & Exceptions | `Retrograde Rules and Exceptions.txt` | Pending | 8 |
+| 98 | `Rrr9uJ6YLMQ` | Sagittarius Ascendant – Birth Chart Analysis | `Sagittarius Ascendant Chart Analysis.txt` | Pending | 4 |
+| 99 | `kieGqNhfjgQ` | Sagittarius Ascendant – Truly Blessed ? | `Sagittarius Ascendant Truly Blessed.txt` | Pending | 1 |
+| 100 | `uBZwa6_5FoU` | Same Birth Time but Only One CM or PM ? | `Same Birth Different Fates.txt` | Pending | 10 |
+| 101 | `DMkk4HRRw3s` | Scorpio Ascendant – Ultimate Power, Property | `Scorpio Ascendant Power Property.txt` | Pending | 10 |
+| 102 | `QXXYb9FqiW8` | Scorpio Ascendant – Surprising Real Charts | `Scorpio Ascendant Surprising Charts.txt` | Pending | 3 |
+| 103 | `6hLZ0Vi4kwU` | Interpretation Practice with One Planet Only | `Single Planet Interpretation Practice.txt` | Pending | 4 |
+| 104 | `XV9ZHhCuG28` | Live Q&A and Stellar Astrology Segment Finish | `Stellar Astrology Finale Q&A.txt` | Pending | 4 |
+| 105 | `-_hJEZmaPH4` | Storytelling with Planets | `Storytelling with Planets.txt` | Pending | 10 |
+| 106 | `mWxcA15ZRuQ` | Affliction of Stree Karaka Grahas in Jathakam | `Stree Karaka Grahas Affliction.txt` | Pending | 7 |
+| 107 | `DRMrp_4JTQg` | Strongest Planet in One Sign | `Strongest Planet in Sign.txt` | Pending | 2 |
+| 108 | `Iq7NeRaSe70` | Students Learning Through Practice Session | `Students Learning Practice Session.txt` | Pending | 5 |
+| 109 | `lMFmxlnk3hs` | Taurus Ascendant Secrets Explained | `Taurus Ascendant Secrets Explained.txt` | Pending | 3 |
+| 110 | `LaKeVc0cD9g` | Understanding Yogas: Basics & Chart Reading | `Understanding Yogas Chart Reading.txt` | Pending | 1 |
+| 111 | `NTpHeI4yidw` | How Astrologers Verify Events from a Kundali | `Verify Events from Kundali.txt` | Pending | 9 |
+| 112 | `YhfJldEAexI` | Virgo Ascendant Deep Karmic Secrets | `Virgo Ascendant Karmic Secrets.txt` | Pending | 9 |
+| 113 | `9L1wy4ONMi0` | Virgo Ascendant : Mastering Real-Time Charts | `Virgo Ascendant Real-Time Charts.txt` | Pending | 2 |
+| 114 | `QZhHCHCS0jo` | Western Progression Basics & 5 Major Aspects | `Western Progression Basics.txt` | Pending | 1 |
+| 115 | `AHXG7zU2cG0` | Western Progression Practice on Real Charts | `Western Progression Real Charts.txt` | Pending | 9 |
+| 116 | `43wY6GwZdxo` | What have we learned up to this point? | `What We Have Learned.txt` | Pending | 6 |
+| 117 | `fS2QLzKX9jw` | Q&A of Vignana Astrology Course - YouTube Comments | `YouTube Comments Q&A.txt` | Pending | 4 |
+
