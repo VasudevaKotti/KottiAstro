@@ -1,0 +1,816 @@
+# zrOI9lcHdR0	RVA Playground & Lagna, Planet Friendship | Vignana Astrology Course | Learn Astrology in Telugu	lang=en (translated from te)
+0:00 Namaste, everyone. Ah, so we've got the whole playground ready. So, "when will Saturday come, when will it be six in the evening,"
+0:08 I was waiting like that. So, because when students do their homework, that's exciting for them, right? Like that, I did homework. So what it is: a small
+0:17 playground we've made. Ah, today's target is: I'll tell you what the actual method of teaching is.
+0:24 The first point is: now, suppose we all keep learning the lessons for three months or six months, and after that we start analysis;
+0:32 for those who learned, just like nothing is remembered after the summer holidays, nothing will be remembered.
+0:36 Everyone is a working professional, everyone is busy, so it's not possible to give separate time again. So the practice has to happen in the class itself; we said that, right?
+0:44 We already said it's an interactive session. So rather than me talking: you talking, and me correcting what you say,
+0:51 astrologically, that is. So that's the main target. So what should we do? A method I'm thinking of is: when a requirement
+0:59 arises for you, "okay, we don't know this, right?", or "they can't tell this, they're getting stuck", then let's teach that topic. Then what happens is we get a grip on it,
+1:07 right? It's remembered. That is, just like when a problem comes and we resolve something, it's remembered: I'm thinking we'll go with that method,
+1:15 so to speak. Rather than going on teaching lessons continuously for hours and hours and forgetting all of them, the idea is to do requirement-based learning. But
+1:23 in earlier days I used to draw nicely on the screen like this, but that needed editing time. Even if I drew for about 10
+1:31 minutes, our editor would sit patiently and wait. But now we have two hours; in that time, if I sit writing, time gets wasted again,
+1:40 thinking so, in these last 10 days, ah, in one week, we got a small playground-like thing ready, so to speak. I'll first give a demo of it;
+1:49 after giving it, a small lesson for you, ah, just a five or 10 minute lesson; so I'll teach that. Okay, but did everyone do the homework?
+1:56 If everyone did the homework, hit the like symbol, the thumbs-up symbol. I'll look at all the thumbs-up symbols once. There's the first video, right? Ah, the first video,
+2:04 you'll have already watched it. So, right, right, very good. So let's see. So, ah, I'll show the playground.
+2:12 Ah, yours, this... I'll give the first demo. The idea of it is: we made it like this, simply, ah,
+2:20 inside this we can drag the planets. However many of you want Telugu, hit the like symbol.
+2:29 Okay, see, here I've done Telugu too, for you, so to speak, thinking you'd feel bad. So you can take the ascendant like this and drag
+2:36 it, so to speak. After that, if you think you should put Jupiter here, put Mars here, put the Sun somewhere here,
+2:43 we put it like this. Now, for example, I put the Sun here; then now Jupiter gets retrogression,
+2:51 right? So, so, since we know it technically, so you can apply the retrogression like this. Now suppose I want to adjust another planet
+2:59 here too; when I want to do that, now we've made it so the three don't overlap. Now as I put it at 4 degrees, it shows you which nakshatra, that it's in the sign Virgo; then
+3:08 the Sun, the planet Sun, is in Uttara Phalguni 3, that he's in the Sun's own nakshatra; it shows like this, so to speak. Likewise, like this, up and down
+3:15 you can drag, so to speak. Not only that: now if you remove something, they re-adjust automatically, so to speak. Now I moved this up and
+3:24 put it at 1 degree. So automatically Mercury went up and got sorted. If I want the signs, ah, the symbols, here: what is Sagittarius,
+3:31 what is Pisces: I adjusted small, small symbols into this. What else did I do? Then, here, okay, now I
+3:38 want to show... ah, what it is: I want to draw and show.
+3:43 So now, Jupiter's aspect falls on the 2nd house like this: you can draw and show it like this. If you hit the Escape button, it comes back like this, so to speak. Clear,
+3:51 meaning this drawing gets cleared. Now, since there's this planetary position, if we hit "generate prompt" on it,
+3:59 a prompt gets ready for us here, so to speak, like this. We can take this prompt, copy it and put it into ChatGPT. That is, this isn't just for this
+4:07 class; it'll be good for us later too, that is, for practising. This is the idea. Did everyone like it?
+4:15 You can change the language too, into English; you can change it like that too, so to speak. So now, whatever you
+4:22 anything, reset means it resets. Then house numbers: once you put the ascendant, you want house numbers. So why did I
+4:31 put it like this? Because it should be just like in our RVA software, just like a real chart. Because even if we use over-the-top
+4:39 graphics, getting used to it afterwards becomes hard; so I kept it just like this, so to speak, simply. Likewise, as it is, the Roman
+4:48 numbers too, that's why I kept them. If tomorrow it shows one, two, three here, then by the time you get used to that, seeing the Roman numbers there might feel new; that's a problem,
+4:55 so that's why it's like this, so to speak. So that's about it for the features. But since we don't know coding, trying with ChatGPT,
+5:04 with friends' help, with people in our group, so all in all they got it done somehow, so to speak. Okay, now let's go into the class.
+5:11 Let's go. Okay, ah, so, actually, three small, small points
+5:20 we'll discuss. I'll explain the class; I won't even take five minutes, so to speak. Okay, I'll explain it, ah, and I'll have to write it out again (?),
+5:28 because only if I write will it be visible. So I'll write, and after writing we'll talk. I'll tell only three things; with that, all of us, the requirement
+5:37 is understood, so let's talk based on that.
+5:52 Okay, I've simply drawn the zodiac wheel. So in this, Aries is: the second square from the top left, that's Aries for us,
+6:02 and from there up to Pisces, so to speak. Aries,
+6:11 Taurus, Gemini,
+6:21 Cancer, Leo, Virgo, Libra,
+6:29 Scorpio, Sagittarius, Capricorn,
+6:37 Aquarius, Pisces. Now, the names of the 12 signs we
+6:46 now know. Now we have three things, so to speak. For us, the zodiac is an imaginary line. If we think of it as a flat
+6:53 earth, then the planets on it are, ah, the vehicles, so to speak, and whatever nakshatras are on it, that's like the road. So
+7:00 without going to the nakshatras just yet, we've talked only about the planets, because it's based on the lordship that exists in traditional astrology. So, up to the signs,
+7:09 everyone has understood, right? So the sign part is complete.
+7:16 Next is the planets. For this, every sign also has some lord or other.
+7:23 The Sun and Moon were given the signs Cancer and Leo; for the remaining five planets, 10 signs, two signs for each planet
+7:31 were given, so to speak. They're called the pancha tara grahas [the five star-like planets]. So let's write those down too.
+7:47 The second point is: for every sign, who the lord is, I've written it here for us. This
+7:54 you've already read, so I'm telling it briefly.
+7:58 The third point is: we need to know what the ascendant is. That is, about how the ascendant actually gets decided, a simple little
+8:06 example I'll give. Now, there are 18 proponents of astrology: Parashara (?), Atri, Jaimini; all of them,
+8:14 what they decided is: if a photo is taken of the planetary positions when we're born, that itself is our birth horoscope, our birth chart,
+8:21 they said. So when everyone went and asked, "I want my birth chart, I want my birth horoscope," "tell us in which town you were born and at what time you were born; we'll make it based on that,"
+8:29 they said. I'm telling it as a simple example; behind this, in the background, there's definitely mathematics.
+8:34 There's a video called "Lagnam" on that; refer to it once. So, the Sun means, basically, the basic astronomy is:
+8:43 the earth takes 24 hours to rotate around itself. To go around the Sun it takes 365.25 days; that's why 366 in a leap year; that's well known.
+8:52 So, therefore, this 365 is the time to finish the 360 degrees. That's why the zodiac is 360 degrees, and one sign
+9:01 is 30 degrees; that is, ah, one sign means it's as if the Sun takes 30 days for us to move from one sign to another. We, in the horoscope,
+9:09 chart are seeing that the earth has completed one portion, so to speak; of the 12 months, it completed one portion, and it finishes like that and comes round again. For simple
+9:18 understanding, then, the ascendant: now, as the maharshis said, if "we want our own birth chart given to us," now we go by the time
+9:25 stamp, right, when we tell? "Now it's 10, it's eight, it's that": we tell it by the time; we meet at a particular time. Because in one day
+9:33 many people are born, so they... if these 365 degrees are taken as 24 hours, then one sign per two hours; that is, for about two hours there's the chance of being born in some one
+9:41 sign, right? Being born in some one sign means: how do 12 signs operate in one day? If we divide those 24 hours
+9:49 into two hours each, we get 12 signs. That is, it's time; what indicates that time is the ascendant. Understood, right? About a time:
+9:58 every two hours one ascendant; think of one sign as one ascendant, so to speak, that's all. So the ascendant means, ah, sunrise, sunrise, based on sunrise
+10:06 we... since we follow the solar clock for time, since we reckon time, what's decided by this sunrise is the ascendant, so to speak. So, simply
+10:14 put: just as we look at a clock, we're looking at the same clock in the horoscope, in the 360-degree zodiac. This
+10:22 in this zodiac, in these two hours many people are born, so how far did they go? That is, navamsa means about 15
+10:29 minutes. So the navamsa changes in 15 minutes; likewise the shashtiamsa changes in two minutes; like this, 24 seconds: in our time, the time we
+10:37 calculate in... they may calculate in para, vipara (?) or however; in the time we calculate, within a 24-second
+10:44 time, if two persons in the same, like, location take their first breath at different timings, that is, 24 seconds apart, then they are able to define that his life is different and this one's
+10:52 life is different, so to speak. That's called the ardha-nadiamsa, so to speak. So the D300 is that; the D150 is
+11:00 the most popular, that too. So that one is 48 seconds, so to speak, double, so to speak. So like this they decided the ascendant. For this,
+11:07 if you want a small example about the ascendant too, I'll tell it. Now, for example,
+11:14 ah, you understood about the ascendant, right? So now, how to take the ascendant: simply, now, we'll remember Makara Sankranti,
+11:21 so we give that as the example. On 14 January the Sun enters Capricorn. So therefore the Sun will be there at zero degrees, so to speak.
+11:31 So one sign is 30 degrees, right? So that day, at sunrise, at whatever that place is, in that place, the ascendant starts there.
+11:40 So every... that is, 1440 minutes, so to speak, means 24 hours. So if we divide that by 360, it's 1 degree per 4 minutes, so to speak. Okay, so
+11:48 therefore from 6:00 to 6:04, it'll be within 1 degree, so to speak. That's how they calculate the ascendant.
+11:55 Now, instead of that same 14 January, suppose he was born on 14 February at six; that starts at Aquarius ascendant, 1 degree.
+12:03 After February, suppose he was born in March: it starts with Pisces ascendant. So everyone may be born at 6:00 in the morning, but they're born in different months, right? So then
+12:11 if born on 15 February, ah, what would have been 0 degree becomes 1 degree. That is, if it keeps increasing by four, four degrees (?) each day,
+12:20 the next month is reached. So, understood? Is there confusion? If there's confusion, I'll explain the ascendant concept again. If you understand what the ascendant
+12:27 is, that's enough; that'll do. Now, for us the ascendant means we take it as the base, hold on to it, and work based on it.
+12:34 So whoever didn't understand, you should send me some special symbol once. For not understanding,
+12:41 send a question mark symbol. If you send a question mark symbol, I'll explain it again. So those of you who didn't understand about the ascendant
+12:48 can unmute and talk. What is it? Vinod garu, will you explain it once more? I didn't understand what the ascendant means. Yeah.
+12:56 You didn't understand what the ascendant means, or you didn't understand how it's calculated?
+13:02 That is, the ascendant itself, if you tell it once more at a slightly high level. Okay, alright, I'll tell it simply again. Now,
+13:11 3060 (?), did you just join, or were you here from the start? You were here from when I started telling about the ascendant, right?
+13:19 I actually just joined. Ah, okay, okay, okay, I'll tell it again. Okay, what it is: we have 360 degrees of zodiac
+13:26 sign; that is, we're considering it with 24 hours, so to speak. Understood? Yeah, yeah. Er...
+13:34 So why are we considering it with these 24 hours? Because the earth takes 24 hours to rotate around itself, and to go around the Sun it takes 365 days, like that,
+13:43 right? Is that it? So whenever this... would it be better if we put an image? So
+13:50 let's put up a small image again.
+14:00 First, this: this whole zodiac taken together is 360 degrees. Whether you draw it round, or draw it as four sides,
+14:08 or in a diamond shape you like, is your wish, so to speak. Okay, but this is a round. Why are we drawing the South Indian box? Because we're
+14:16 used to it. Each person is used to one, that's all. So the earth takes 24 hours to rotate around itself; to go around the Sun,
+14:24 360 days, 365 days. So therefore we can consider 360 degrees.
+14:29 So, that is, each one, that is, around the Sun, that is, in 12 months, to complete each portion takes 30
+14:37 days, so the Sun takes 30 days to go from one sign to another sign. Up to here it's understood, right? Okay, understood.
+14:44 So in January, on 14 January, the Sun will be at zero degrees in Capricorn, so to speak. Okay.
+14:51 All the maharshis would give us our birth charts if we told the date. What we're asking is: "give me exactly mine alone." Then what they said is:
+15:00 "you give the location, the place; we'll set it," they said.
+15:03 So, what got decided by holding on to that is this ascendant, so to speak. That is, the time stamp of the birth is the ascendant. How precise is it?
+15:10 If two persons are born within a 24-second interval, it's precise enough to separate their lives, to be able to tell them apart, so to speak. In one day
+15:18 there are 1440 minutes. Okay. So 14... that is, 24 hours; if we divide that by 360, we get four minutes,
+15:26 so to speak. That is, four minutes of our time equals one degree of the ascendant in the horoscope chart. Understood, right?
+15:33 So now, when the Sun is at zero degrees in Capricorn for us, let's assume 6 in the morning, that is, based on the sunrise there, ah,
+15:41 based on the location, then the ascendant starts at zero degrees.
+15:45 Okay, on 14 January. If instead it's 14 March, say, and that person too was born at six in the morning, right at sunrise, in the first
+15:53 minute itself; then will that person have Capricorn? No, right? So, since the month changed, since the Sun moves on,
+16:00 then it becomes Aquarius ascendant. Okay. Is there confusion, or is it gone? It's gone, it's gone. So now, where the Sun's planetary position
+16:09 falls, we have to look at that too, right, or not? Yes. Now, that same Capricorn on 14 January: this is fixed, right? The Sun travels in a fixed
+16:17 way, right? That is, the earth keeps travelling steadily over 365 days, right? Since that's fixed, the Sun's planetary position is always systematic.
+16:25 Okay, accha, okay. So actually for us, that is, there's nothing like him going ahead or his speed being different, right? So, ah, one degree, approximately one
+16:34 degree, so to speak. A little here and there, the decimal mathematics will differ, but mostly approximately one degree, so to speak. By 14, 15 April, it comes into match for us
+16:42 again, so to speak. Okay. 14 November, then 14 July, like this; for us these are fixed. Do they call that the equinox, equinox?
+16:51 I don't know what they call it in English; I forgot. So like that, for us, Uttarayana starts right from here, so to speak; Dakshinayana starts like this. So
+17:00 they're called Uttarayana and Dakshinayana, so to speak. When it comes into Capricorn, Uttarayana has started. Now, Dakshinayana started just recently, right? So that's how they define it,
+17:08 so to speak. Understood? Okay. The ascendant is understood, right? No confusion. Okay, very good. Now I've told you the ascendant. Ah,
+17:18 after that, next, I've told what the zodiac is: there are 12 signs. We, in this
+17:24 360-degree zodiac, I've told you that for every sign these are the lords, so to speak. Okay, these two topics
+17:32 are clear, right? Clear? I'll tell the third topic. Hello sir? Ah, ah, go ahead, go ahead. About the ascendant,
+17:41 a question. Ah, there's one question. Ah, is it about the ascendant? Ah, yes sir. Okay, okay, please, please.
+17:48 This: how is the correlation between the ascendant and the Sun? Is it exactly the same? Your voice went and came back. Keep the mic at one
+17:56 level, will you? Go ahead. How is the correlation, the relation, between the ascendant and the planet Sun? That is,
+18:04 are the Sun and the ascendant in exactly the same degree, or does it keep changing? Now, one... now let's have you tell it.
+18:13 Clarity about the ascendant, the manual calculation, will come.
+18:17 How many hours in a day? 24 hours.
+18:22 24 hours, 24 hours. Okay, one minute.
+18:30 A day has 24 hours. 24 hours means, if we divide the 1440 minutes by 360,
+18:39 then for us, for every four minutes, for 4 minutes, the ascendant 1 degree
+18:46 changes. Clear? Ah, yes. Okay. Now, the Sun, in one day, that is, around the Sun,
+18:54 how much time does the earth take to go around? It takes 365 days, so to speak. Astronomically,
+19:03 that's it, right? Yes. Ah, so in one day, for the earth to rotate around itself
+19:10 takes one day, so to speak. In one day, rotating around itself, for going around the Sun, one degree; that is, one degree means, ah, one rotation,
+19:17 finishing that and moving ahead, it moves only one degree, so to speak. So, since the Sun is a fixed planetary position, going around the Sun took 1 degree,
+19:26 so the Sun moves 1 degree every day, right, in the horoscope chart? Yes. That's it? Is the correlation understood?
+19:35 Is there confusion? I have one small... that is, now, at the time the Sun rises,
+19:42 at six o'clock, when this ascendant starts, do the two start from that exact position? Yes. Whenever, in whatever degree the Sun
+19:50 is, at sunrise, the ascendant starts in that same degree.
+19:55 Okay, okay. Is there still confusion? That's it, that's it, thank you. Ah, Venus (?), you ask.
+20:01 Yeah. That is, now, for example, suppose the Sun rose that day at around 15 degrees in some sign; suppose he's there when he rises.
+20:08 Now, ah, okay, suppose someone was born at about two in the afternoon; that is, changing a degree for every four minutes, changing,
+20:16 ah, whichever sign the degree falls in, that becomes the ascendant, that's all. Simply, now, you, you, ah, which month he was born in: now, for example,
+20:23 if you're thinking of some month, tell it. Ah, say December, for example. Okay, now
+20:31 this is January, February, March, April, May, June, July, August, September, October,
+20:38 November, December. Ah, so, on 14 December, ah... when in December was he born? Take 14 December. 14.
+20:46 Ah, he was born on 14 December, here for us. If he's born, approximately, mostly... ah, at what time was he born? He was born at two.
+20:53 If this is zero degree at 6 AM, ah, from there, however much it changes... ah, how much does it change? Now, until eight it'll be Capricorn
+21:01 ascendant; until 10 it'll be Aquarius ascendant; 12 means probably Pisces ascendant, and there's a chance of Aries ascendant falling. Understood? Understood?
+21:09 Understood? So that's how we define the ascendant. Clear? Okay, now it's understood, right? Yeah, yeah, understood.
+21:18 Phoenix, right? Phoenix garu's doubt also got cleared, right? Ah, yes sir.
+21:23 Okay, right, right, right. Any more doubts? Nothing. The ascendant is done then, right?
+21:31 Ah, Vinod garu? Yes, yes, please. So now, we... let's not get confused with this. That is, 24 hours, sunrise to sunset,
+21:40 just as sunrise moves, the ascendant keeps changing like that. From sunrise to sunrise is 24 hours, so to speak.
+21:47 Ah, so from sunrise to sunrise, the ascendant changes through the 12 signs; whatever time one is born, at that time...
+21:54 That's it, that's it. Taking that as the base, the monthly movement: now, after it comes into Capricorn at Sankranti, again
+22:01 in February next, that comes, and we look at it for the planetary position in our chart, that's it, right? No, no, no. This, now, this, whatever
+22:10 is there, it moves dynamically. When we take our birth chart, we take a photo and set it aside; after that, the planets in the birth chart don't move at all.
+22:19 Okay, the concept is understood, right? So, that is, now, now for example, that everyone born in January will have Capricorn as the ascendant,
+22:27 we can't say that, right? We can't say that, right? They won't all be born at six, right? They may be born at eight, may be born at 10, may be born at 12, may be born at 11:30, right?
+22:36 Okay, okay. So from sunrise to sunrise, how it moves through the 12 signs, where it is at birth... we, the Sun... now, for example, you
+22:44 told me a date at random, okay? Then I'll imagine, so to speak; I'll imagine that the Sun is in such-and-such position. Hey, let's play in our playground, right,
+22:53 nicely. Ah, so, clear all. Ah, so now, now tell me: in this, which month, which month do you think he was born? You tell me.
+23:01 Now, born on 20 July. Ah, July: January, February, March, April, May; ah, sorry: January, February, March, April, May,
+23:10 June, July, so to speak. This is July, that is, let's put it here. July what? 23? Ah, ah, July; suppose they were born on 20 July.
+23:18 That means six days have passed after the 14th, right? Okay? Let's put the Sun at 6 degrees. Okay. Ah, now, at what time were they born?
+23:26 Say 1 o'clock in the afternoon. 1 o'clock in the afternoon means, 6 degrees
+23:31 means, ah, here 8, this is 10, this is 12, okay? At 12 we're at 6 degrees. At 12 it's 6 degrees.
+23:41 Now it's one hour, right? One hour means, how many degrees for one hour for us? This is... for 40 degrees, for 40 minutes, it's 10 degrees, right?
+23:50 Let's go to 16 degrees. Okay. After that, how many more minutes for us? 20 minutes. Ah, so
+23:56 another, ah, another 5 degrees, that's it, right? Five, 5 degrees. So roughly at 21, 22 degrees
+24:04 the ascendant falls. Okay. Like this, where the Sun is at that time decides, decides the ascendant. In that month,
+24:13 the Sun is in Cancer; is he at so many degrees? Like that, that's all. It's done, right? You've got it now, right?
+24:21 Now, manually, if someone tells you the date of birth and the time, you'll be able to estimate the ascendant approximately now, right? Yes.
+24:28 I didn't think I'd tell this much; all in all you've got it now, including the calculation. Okay, right, alright. Okay, you've got the idea of what the ascendant is. So there are no doubts on the ascendant
+24:37 anymore, is that so, for everyone? Okay. If anyone has doubts, you can speak; otherwise, let's go to the next topic.
+24:46 It doesn't mean it's finished just now; even if you ask again after about 10 classes... Ah, I want to tell you one thing; I forgot to tell it in the last class too. If you, in the future,
+24:54 ask doubts, I could normally say "that will come in the future"; I'm ready to answer it even now, depending on your grasping level. But
+25:03 now, if after about 20 classes, after 10 classes, you say "please tell us about the ascendant," what it means is: if you're stuck at the 10th kilometre stone, we have to drag them
+25:12 along, so to speak. That is, it counts as if they've missed all the classes in between. So that's a bit scary, so to speak. So everyone has to come along with
+25:19 me, definitely. Those who go ahead into the future are fine; they'll be waiting there; we can catch up with them, we can do something; they won't get lost there. But if they're stuck in the past,
+25:27 then we can't bring them along, so to speak. So please, you don't need to hesitate at all; be comfortable. Okay. What I was thinking of telling: the zodiac,
+25:36 I thought I'd tell about that, I thought I'd tell about their lords; you've understood that. You've understood how the ascendant is decided. Now another
+25:44 topic is: for us, 12... why should we look at the horoscope chart at all? To know about the 12 areas of life, right? So, therefore, the ascendant
+25:51 is the starting point; then let's discuss the bhavas. After that, let's discuss the planets. Don't forget.
+25:59 Tell me: however much of a playground we make, we still have to write
+26:08 it, right? Okay.
+26:20 In the zodiac, why we're reading the horoscope chart at all: we have to remember that first, from day one itself, so to speak. Without
+26:27 remembering that, analyzing everything, forgetting why we did it, and thinking "what is this, these planets have no connection with people and their lives,"
+26:34 rather than thinking that, first we must definitely remember why we're doing it and how we're doing it. That's my opinion. What it is: every person
+26:42 has some fixed 12 areas of life, so to speak. Those 12 I've remembered like this: some are touch-
+26:49 able things and some are untouchable things. I'm also thinking of putting that in the playground area somewhere below, like a table here or something, because
+26:58 for some days, so you don't forget while practising, you too can take a small printout and stick it on sticky notes on the walls here and there.
+27:05 Then too it'll be good to look at now and then. So, what these 12 areas of life are: one is the touchable things, the second is
+27:13 the untouchable things. We can touch people; name and fame and such we can't touch, so to speak. Okay, like that
+27:20 I'll write from one to 12 and tell you about them; you'll understand what the 12 bhavas are.
+27:31 It's not that these 12 are fixed in this same sign; wherever the ascendant is decided, from there "one" starts.
+27:39 The ascendant is a very important thing. Another thing: don't go too much into the technicalities of this right now, that is, lagna prarambham [start of the lagna],
+27:47 lagna madhyamam [middle], lagna antyam [end], like this, the various ways they actually divide a bhava technically; we'll look at all that later.
+27:55 No hurry for us. First, once you know the ascendant, remember first to keep counting everything from the ascendant. Later we'll talk about it, when the occasion comes.
+28:03 Okay, so I'll tell about these areas of life from the first to the 12th. The ascendant is the person's body itself. If the person himself
+28:11 isn't there, there's no need to know anything else. So the ascendant tells about the physical body; we can touch this. Then the 2nd house
+28:18 is the family. As soon as a person is born, the family is ready for him in life, right? So, therefore, that's why it's family, so to speak. Okay.
+28:26 This same thing: actually, the zodiac in the world means all things in the world have to be put into the 12 signs only, so every
+28:34 situation they put into it, so to speak. Okay. The second is family. What's the third? Then, younger brothers,
+28:41 could be younger brothers, could be sisters; all those come into this. Then, what's the fourth? The mother, so to speak; comfort. Okay.
+28:48 Care, all these are 4. 5... ah, so, ah, under 4 come mother, care, comfort, all these, so to speak. 5, what's 5? For us, for us,
+28:57 children, progeny. All these areas of life are very important, so to speak. In this again, how to analyze these bhavas: there are many
+29:05 ways, so to speak; they divide them in various ways, so to speak. We'll see all those later. Okay. Then upachaya houses, apachaya houses; like this there are many small, small topics.
+29:14 You cover them in the basics. It's not that I'm not telling; as I said, we'll talk about them only when the need comes. Then, 5 is children; 6 is
+29:23 what? For us, these relatives and friends, the support that comes from them; all of them... I'm telling about people, the touchable.
+29:30 7 is the wife. Ah, 8 is what? It comes back to the physical body again; longevity comes under this, so to speak. Then 9 is the house of the father; it tells about the father.
+29:39 10 is career. How does a person's name get decided? Through the work that person does, reputation
+29:46 comes, so 10 tells us about name, reputation, career, so to speak. 11 is elder siblings.
+29:53 12 is sleep, sleep. So, a person can't live without sleeping, so sleep. Then, these are the touchable ones I told, right?
+30:00 Now the untouchable ones; understood? So the ascendant: if we exist, we can't exist without thought, right? So some ideas, thoughts keep circulating; so that's the 1st house, so to speak. The 2nd
+30:09 house, what is it? Again, it represents money; we can't touch these. The 3rd house, what is it? For us, boldness, courage, believing in
+30:16 ourselves, self-confidence: all these it tells, so to speak. Then 4 is what? Comfort, properties: it tells all these. 5
+30:24 is what? Intelligence, ideas, research, such things. The 6th is the immunity of health, so to speak. So likewise, within us, the arishad-
+30:31 vargas [the six inner enemies], as they call them, right? Such things, so to speak. Then 7: public life, people, people's support, people's love, such things. 8,
+30:38 what is it? Ah, longevity; we can't touch that. Fear, we can't touch. Ah, so unexpected things, not knowing what will happen: all such things are extreme things,
+30:46 so to speak. 9 is, for us, purva punya, then luck, ah, wealth, such things, so to speak. Then again, the 10th is about career;
+30:54 there has to be career satisfaction, right? For some people, at whatever level they are, there'll be satisfaction issues. So all such things too the 10th tells, so to speak. The 11th, if it's elder siblings, on that side
+31:03 for us there are easy gains, rental incomes, such things. 12 is what? Sleep; opposite to that, further, for us foreign countries operate, or else
+31:11 unexpected extremes of investment returns operate, sudden gains operate, losses and expenditures operate; like this, many
+31:19 keep operating, so to speak. About the 12 houses, I told it in two patterns: the touchable things and the untouchable things. The touchable ones I
+31:27 remember as "bhava"; the untouchable I remember as "yoga". It's not the exact meaning; I created it for myself perceptually, so to speak. Okay. Yoga
+31:36 astrologically means: it tells how much nature cooperates with the work we do, so to speak. That is,
+31:42 there are kendras and konas; in the horoscope chart they tell it, so to speak. The conjunction of the kendra and kona lords is called Raja Yoga. That
+31:49 we'll talk about in an upcoming topic. So now you've got clarity about the 12 bhavas, right? Those who didn't get clarity about the 12 bhavas can speak. Vinod
+31:58 garu, I have a small doubt. Now, ah, family: for example, we say 2 is family, right?
+32:06 Yes. Ah, the family: our parents' family, or else our kids and wife, the family. There are these two cases, right?
+32:14 That is, so what should we look at for that? Do you, you, personally look at them separately like that? That is, a simple doubt: until marriage,
+32:22 do we count it under the elders' family, and after marriage count it under our own family, or should we look at it as a whole? No, we have to look at the whole. Ah, that's a different
+32:30 family; you're saying this is any family at all, right? Yes, it comes under family, that's all. That, that's a broad term; within it again, when looking minutely,
+32:38 again, you can do that according to the need, but family is family, that's all. Extended family, that family, this family: none of that matters.
+32:46 Family, that's all. Okay. So, about the bhavas, has everyone got clarity? One doubt. Hmm, please.
+32:54 Now, in the touchable things, um, the 12th bhava: why does the 12th bhava come in that? It's sleep; that's untouchable, right? Touchable,
+33:02 untouchable, okay. If you corner me like that, I can't do anything. It's like that. Right? Now, 10, career: can you touch it? Like that,
+33:10 that is, our karma? Yes. Karma, work: we can't touch them, right? There are some like that. I created it like that just to remember, that's all.
+33:18 Right. For 9, what's the touchable one? For 9, what's the touchable one? The voice has gone a bit, a bit low, right?
+33:26 One minute. For 9, what's the touchable? Physical body? The ascendant is the physical body; the 8th too is physical
+33:36 body, so to speak. Not the 8th, the 9th: for 9? Father. Okay.
+33:44 Ah, 1, untouchable means... 1 is the body; untouchable? Aha, thoughts, ideas.
+33:52 Ideas: isn't that 5, 5? Ideas, intelligence, research: the mantra sthana. 6,
+34:01 6, that's the immunity of health. The touch-, touchable one means relatives, friends, support; all these are touchable. Immunity, okay.
+34:09 Ah, the untouchable is enemies. They call it the house of enemies, disease and debt [shatru roga runa sthana], so to speak. All of these have nice names, so to speak; all of these have lovely
+34:17 ones, so to speak: lagna bhava, dvitiya bhava, tritiya bhava, chaturtha bhava, panchama, shashta
+34:23 bhava, saptama, ashtama, navama, dashama, ekadasha, dvadasha: like this there are 12 names, so to speak. That is, they're just numbers; for us, wanting them that way, they're like Sanskrit names.
+34:35 Yes. Vinod garu, could you explain this touch and no-touch (?) concept once again? That is, why did you call it touch and no-touch? How do we use it?
+34:44 it? Ah, how do we use this? Exactly this, like this: nowhere, neither in the classical texts nor anywhere, has it been defined exactly for us, so to speak. Ah,
+34:53 because I'm telling this; suppose I keep teaching you strictly by the book, and later on it isn't useful to you, it's a waste, right? So
+35:02 I decided to tell you what's useful, as per my understanding and experience, so to speak. Whether it's written in a book or not is
+35:10 irrelevant to me. Why we created this: see, for some people, even though they're financially very good, the boy is handsome,
+35:17 he's very good, girl or boy, okay, but the marriage isn't happening. "We... understand? They've reached 40 years, yet we don't understand why it hasn't happened; we are
+35:25 trying," they keep saying. You may have heard of such things. Okay. Or else, at one time, bad health for the mother, and at the same time
+35:33 a property purchase, a very aggressive financial gain; such things operate. Sometimes aggressively, that is, the yoga works oppositely,
+35:42 they keep working. In the same situation, some people experience good and bad together in life. Such an experience,
+35:50 if we have to predict it in one situation, "babu, in this, in this matter it'll be good for you, in this matter it's not good": to differentiate and predict the same time,
+35:58 for doing that, this concept will be very useful in the future, so to speak. Clarity, did you get clarity? Is there still a doubt?
+36:06 Yeah. These, that is, do we have to remember these small things? There's no need. Now, if we keep doing it daily, where the glass is, all those,
+36:14 just like that, you'll remember; likewise they'll be remembered automatically. Now don't try to learn any of this by heart; no need. They'll come in the flow. Wherever
+36:24 I keep asking, when I feel it hasn't come, let's repeat it once again. What's there? There's no hurry for us.
+36:31 Okay sir, thank you. I said I'd put it on this page, right? In this playground area, on this page, about the planets, below, the analysis; that is,
+36:39 what the planets represent, what the houses represent: I'll put that in, so to speak. As soon as you select Telugu it'll come in Telugu automatically, below. For now all this is
+36:48 in desktop mode. I tried mobile mode too, but since we don't have that much talent, it isn't working. I'm trying,
+36:55 I'm trying; I'll do it. Yes. More?
+37:02 Will anyone ask more? "Later on, you'll explain each bhava in detail, sir?" Now,
+37:10 now, for you, whatever situation, situation: that's what I'm saying; as soon as the situation comes, I'll tell. Alright? Okay, right. So now, what we actually do is:
+37:19 it's not me telling; for you, there's that, there's the test, right? The real thing: should we play in the playground or not? Coming to the ground isn't about just seeing how the ground is, right? So
+37:28 therefore, let's get into the real thing. The second topic is done. Now I'll tell the small basic nature of the planets, the grahas. After telling that, let's move on.
+37:39 After that, playing is the only job. The game is easy. So now, this: you listened to the first video,
+37:47 right? Ah, the Sun, lord of the sign Leo: he's the king, and the Moon is his wife; like that, just a story, an imagined story; they took it as real (?). So
+37:56 like that, so to speak. Then Mercury: with two signs like this, one Mercury they looked to for getting the cooking done, ah, and then this one they used for marketing. Then
+38:05 Taurus is a lot of entertainment, creative; Venus is ruling it. For Libra, what is Venus doing? He too: handling legal
+38:13 issues; we described him as the judge. We described Mars as the commander of the army. Then Scorpio as a factory, some weapons,
+38:21 extreme things, so to speak. Scorpio means, means scorpion, right? So that's it, right? So, therefore, about poisonous, extreme things. Ah,
+38:28 what did we say about Jupiter, who has Sagittarius and Pisces? Sagittarius: that's intellectuality; we talked of him as the lord of scientific knowledge. Pisces Jupiter
+38:37 we talked of as spiritual. Capricorn: we described it as a warrior. Then Aquarius: easy tasks, so to speak.
+38:44 They said it's those who do the small, small jobs in the kingdom. Small jobs doesn't mean they actually do only small jobs in reality. So, without physical
+38:51 strain, they work as tasks done with mental intelligence, so to speak. So now, based on these signs,
+38:58 based on the planetary lords, have we got an idea of some qualities they have, or not? So now, we haven't spoken, right? Now let's start the game;
+39:07 you'll ask now anyway. So, okay, this: as for today, up to now, has everyone got clarity on the class?
+39:17 Vinod garu, Rahu and Ketu? Ah, Rahu and Ketu are shadow planets. Okay. Rahu or Ketu, depending on the sign they're in,
+39:26 take its energy and work. Okay. What Rahu does is double the existing energy. What Ketu
+39:34 does is compress it, so to speak; he dries up the energy; he doesn't let the result come quickly. That's the difference, so to speak. So whichever sign they're in, they follow that sign,
+39:43 that's all. Since they don't have own signs of their own, they take on the nature of that sign. Now suppose Venus and Rahu are conjoined; so creatively,
+39:51 artistically it may work, so to speak. Understood? Suppose the Moon and Rahu are conjoined: it may work emotionally, sensitively. Suppose the Sun and Rahu work together: it may work highly
+40:00 powerfully, so to speak. Whether this power is taken or given, all that gets decided by the time: whether it becomes punishment, or becomes giving punishment; like this
+40:09 they work, so to speak. Not everything has only good; everything has good and bad, so to speak. We have to take it from both angles: however good a position
+40:17 it's in, however weak it is, we have to take it. Let's talk. Now let's start the game. Now I'll call out numbers; let's see who takes part in the game.
+40:25 Let's see. So if there are any more doubts, we'll talk. Just first, let's go back to
+40:32 the chart. Sir, these Reset and icons (?) didn't get translated into Telugu. I know this, right, right. Signs, houses, those too
+40:39 I'll try. Okay, right. Go ahead. Let's call the first number.
+40:45 Ah, I've actually written down the numbers in reverse order, in various orders.
+40:51 Ah, 3057, available? In our panel, someone, one of you: 3001
+40:59 or someone, you're watching like this, right? You tell me. "Watching, sir." 3057 isn't there? That is, that is, as far as I know, everyone has numbers, everyone's.
+41:07 Okay, okay. We called 3057; that's done. They're not available, so I won't call again. I'll note today's date though.
+41:16 After that, 3038. 30... "I'm here, sir." Okay, 3038, please,
+41:23 you can speak, sir. Namaste, namaste. How are you? Namaste, namaste, sir. I'm fine, sir.
+41:31 Very good, very good. So tell me your favourite... "One second, wait. What you said: the houses of the kendra and kona lords,
+41:40 about those?" No, no, no. I explained about the 12 signs. Now, about the 12 signs,
+41:46 about the 12 signs, how the 12 are calculated from the ascendant: I told about those. The ascendant... in every person's life there are 12
+41:55 areas of life; in that there are 12 touchable ones and 12 untouchable ones; in all 24, as I said.
+42:02 Okay, okay. Hmm, you forgot, right? That's it, sir: I... now, you said, right, there are kendra and kona lords, and those we'll tell when the time
+42:10 comes, you said, right? So I was asking whether there's a link-up between that and this. "Now there's no link-up; we'll tell it further on," that's what I remember. That's okay.
+42:18 You haven't forgotten what was told up to now, right? No, I haven't forgotten, sir. You told from 1 to 12, right sir? Yes, yes, yes, yes. Tell me then:
+42:26 for the 6th house, tell me the bhava and the yoga. The house of disease plus enemies. Ah, in that, what's the touchable, what's touchable?
+42:34 What is it? Now, enemies, all those we can touch. Okay. Disease we can't touch. Okay, very good. That's it, sir? That's it, that's it. Okay. So now tell me an ascendant you like.
+42:45 For me, Libra ascendant, sir. Take Libra ascendant. In this box, where shall I put the Libra ascendant?
+42:52 Ah, you marked Aries on it, right sir? Go there and one, two, three, four, five, six, seven. Okay, very good. Ah, okay, tell me: which planet, which
+43:01 planet do you want, where shall I put it? Saturn gets exalted in Libra, right sir? Saturn: shall I put Saturn on the ascendant? Ah, put it, sir.
+43:10 Okay, alright. Now tell me your analysis. For Libra, Libra ascendant, Saturn is on the ascendant. What kind of result will he give? How
+43:19 do you say that person's life will be? Leave aside the time period now; not this time or that time, but just tell it generally, so to speak. Say Saturn dasha came; that Saturn is influencing:
+43:27 what kind of result will Saturn give? What will happen? Saturn, the 4th and 5th lord, is in the ascendant,
+43:35 so, ah, these two very actively; that is, as you said earlier, the house of comforts plus properties, and
+43:44 ah, this, the 5th house: creativity, way of thinking. Very good. All these will be quite favourable for him;
+43:53 the way of thinking will come out well, and he may gain some wealth or such; that's what I think. Very good. That's it, done.
+44:04 So like this, let's call everyone and discuss.
+44:08 Okay. Now, does anyone want to speak, yes or no, on what he said? No, never mind; this will become
+44:17 too much. So, let's call the next, next person and practise with them. Thank you, thank you sir, 3038.
+44:26 Okay, next number: 3031. 3031? I'm checking, sir.
+44:35 Not there, sir, not there. 3031 isn't there? Okay, right. Okay, 3030.
+44:43 Not there, sir. 3025? Ah, they're here, sir: Phoenix.
+44:52 Yes, hi, hi. Ah, hi sir. Tell me, which ascendant shall we select? You've now remembered what the ascendant is; it'll stay in memory now;
+44:59 we won't forget the ascendant now. Ah, yes sir. You could even create an email ID like underscore 3030 at gmail.com (?)
+45:07 to remember it. Yes, yeah. Ah, you have to tell the ascendant.
+45:16 Sagittarius ascendant. Ah, Sagittarius ascendant? Yes sir. Should the houses be visible, or no need? However you say, I'll enable it for them.
+45:24 Signs, signs too: if you want the icons, I'll enable those too. Tell me, which planet shall we take, where
+45:32 shall we put it? Venus, the planet Venus. Ah, where shall we put Venus?
+45:42 Put it in the 3rd house. Hmm, tell me, what do you say? He, Venus, here:
+45:49 he's the lord of this, this Taurus and Libra, right? Yes sir. What will you say? There, for Sagittarius ascendant,
+45:58 ah, the 6th and 11th lord is in the 3rd. Then Venus is in the sign Aquarius. Like that, what we wrote... then, his
+46:07 signs, then next: what happens because he's there in the 3rd? Like that,
+46:14 that is, the 3rd house relates to speech. Hmm. So he, that is, since it's the planet Venus, for him
+46:23 easily, public influence: there's a chance he can easily attract it through speech.
+46:31 He'll speak super-duper, that's it, right? Ah, he'll speak well; they'll speak well. Further, further, siblings: for him, a sister
+46:40 is likely. Um, a younger sister. Um, how many younger sisters?
+46:47 We don't know that much yet, right? Here there may not even be a younger sister; that's what I'm correcting, so to speak. That there will be one
+46:54 is not confirmed; it's only telling how it would be if there is one. Understood? To confirm that there is one, you'd have to go deeper, so to speak. Okay.
+47:02 It's just making an estimate that if there is, it'd be like this, so to speak. Okay. Now I'll also ask a question. Okay, is yours done?
+47:09 Ah, the 11th for him, how is that? That is, for us, "games": there's a chance of "games" from their siblings,
+47:18 there may be a chance. "Games" means: will they play games on him, or will he play games with them? "That is, 11 means games, right sir? That is,
+47:25 G-A-I-N gain, G-A-I-N gains." Okay, okay. Coming in, profit, profit, benefit.
+47:33 Understood. Er, benefits: there may be a chance of getting benefit from siblings, from their younger siblings,
+47:40 it seems there may be. Okay, very good. Okay, here, ah, let's stop this class here and have a small class now.
+47:48 Okay? On this... reset this? I'll do the class on this itself. Okay?
+47:55 Ah, okay. Yours was very good, good performance. Ah, next. This is like a game show; I should say "super-duper"
+48:03 now. So what happened? Okay, right. So basically there's a concept,
+48:11 so to speak, which is: for every ascendant we have yogakarakas and those who aren't yogakarakas. Ah,
+48:18 there's a concept called Saturn-ruled and Jupiter-ruled planets. I'll explain that concept now, okay?
+48:25 Now, what's happening is: we talk, and the class gets taught based on the requirement. Do you like this? Those who don't like it can speak.
+48:33 Yeah, I like it, Vinod garu. Okay, right, super. Until you spoke, I thought you didn't like it.
+48:54 Okay, it's visible, right? In this, it's a simple concept, so to speak: the 1st, 5th, 9th houses. But one thing you mainly
+49:02 need to know is: by default, who are the lords in this zodiac, that is, for every sign
+49:11 who the lords are is there by default, right? You have to remember that, so to speak. I thought I'd display it up here too;
+49:17 ah, the sign, the sign's name and who its lord is, I thought I'd display. But some things
+49:24 didn't get arranged as planned. By the next class at least, I'll arrange it, so that as soon as you see the zodiac: here, this is Aries, its lord is Mars; this is Scorpio,
+49:32 its lord is Mars. So he said Sagittarius ascendant. So Sagittarius... Ah, sir, you got cut off for about two minutes, sir. Is that so? Did I get cut off for two minutes?
+49:40 That is, two minutes, I mean, sorry, 30 seconds. Okay, okay, alright, alright, alright. Was I cut off for everyone, or only for you? Yes sir, it got cut
+49:49 off; you got cut off, sir. From when you were telling about the sign lords, it got cut. Okay, okay, okay. Alright then, I'll tell it again. It's
+49:56 nothing. Ah, I thought I'd display the sign lords here, up above. Okay. So you have to remember that, so to speak. That one you do need to learn a bit by heart. Now, for Aries
+50:05 the lord is Mars; for Sagittarius the lord is Jupiter; ah, for Virgo the lord is Mercury. If we learn these by heart, what happens is, later on it becomes easy,
+50:12 so to speak. Okay. Even sticking it on a wall, even sticking this small thing up, will do, so to speak. Okay. Who is lord of what, we
+50:22 must remember. Okay, okay. Now we'll tell about the ascendant's yogakarakas. There's no escaping having to remember things like this; I'll tell you the things to remember;
+50:29 try them. Even if you don't remember, looking at a, ah, book or a paper sticker, sticking it small next to the desk, let's do it. Around the computer there'll be small, small
+50:38 stickers. Right. So what it is: now, the 1, 5, 9 lords. For us, to remember simply... this isn't exactly
+50:46 the meaning, but the 1, 5, 9 lords are yogakarakas; 1, 5, 9,
+50:54 these are friendly, so to speak. Now for Aries ascendant, the 1, 5, 9 lords are these, right? So like this, for every ascendant, if you draw the 1, 5, 9 lords,
+51:02 all the planets come into categories under Jupiter-ruled and Saturn-ruled planets, so to speak. Understood?
+51:10 There are two topics; one topic is this. Now: Jupiter, then Mars,
+51:18 then the Sun, ah, then the Moon; then among these, put Ketu. On this side,
+51:26 among the Saturn-ruled planets: Saturn, ah, Venus, Mercury,
+51:33 Rahu. They divided the planets into two groups.
+51:41 Understood, right? Okay? So for every ascendant too: so now suppose Mars comes; for this Mars's ascendant, whichever ascendant comes, all these are friendly to this
+51:50 ascendant, think of it simply. Okay? Whether a Saturn ascendant, a Venus ascendant or a Mercury ascendant, whichever comes, Saturn, Mercury and Venus, you can take them as friendly.
+51:58 Simply, you too can calculate it. Now suppose Aries ascendant comes: Mars, the Sun, Jupiter are friendly, right? Whereas suppose we took Scorpio
+52:06 ascendant: this becomes 1, okay; then this becomes 9, this becomes 5; then Jupiter, the Moon and Mars become friendly,
+52:13 right? Understood? So on this basis, however we look at these, for us it gets divided into two categories this way.
+52:22 Clear, right? Okay, alright. Now the point I'm going to make is: earlier our friend took Sagittarius
+52:31 ascendant, okay? Taking Sagittarius ascendant, he said he put Venus in the 3rd. Okay. Now two things need to be made known. Since this point is understood, I'll tell another point:
+52:40 there's a thing called upachaya houses, so to speak. Okay.
+52:49 In this topic you can definitely ask doubts; we'll pause. Okay. This is a very, very important topic, so to speak. That is, if a planet is here, we say good or bad. Now
+52:58 earlier our guy said "he'll speak very well," this and that, right? To avoid saying it wrongly like that, you have to learn this. Understood? Requirement-based learning.
+53:07 If you just say "it's the 3rd house, so it's very good, so super," how will that do? So, to avoid saying it like that, we need to understand it; we need to understand the concept.
+53:16 Okay, alright. Now, what it is: I'll put it now. After writing here, it takes a second's delay to update there.
+53:24 Oh, sorry. It's fine, it's fine. I really forgot. Just because I'm putting Aries ascendant, you needn't think it's Aries only; tell me which ascendant you want. Now
+53:32 you have a voice, right? Whichever ascendant you want, I'll put that ascendant. For every concept, a separate, separate ascendant. Ah, shall I put Taurus ascendant?
+53:40 Ah, okay. Like this, if we draw double lines in the corner, we can also take that as the ascendant,
+53:49 so to speak. Remember that like that: that's the ascendant, so to speak. Now, we have two types of planets, so to speak: malefic planets and benefic
+53:57 planets; there are two types of planets, okay? Malefic planets and benefic planets: I wrote the concept in red colour for you. Okay. Malefic
+54:07 planets means negative; benefic planets means positive. That is, now, there's nothing saying you can't have a rowdy friend. Understood? So, that a rowdy
+54:14 can't have friends, there's nothing like that. Okay, I'm just giving an example for us to understand. So now, suppose a knife is a
+54:21 rowdy, okay? If you cut a tomato with this knife, it's like doing a good job; if you cut your hand with the same, it's like doing a bad thing. Okay. This
+54:29 the time will tell. So this maleficness we're describing as a malefic planet. A malefic planet has the power to do good, and the power to do
+54:36 bad; it has daring, so to speak. A benefic planet can mostly do only good.
+54:41 We can't use a tomato like a knife, right? So we can use a tomato only as a tomato. Like that, they divided these planets into two kinds;
+54:48 they decided them for us based on their nature, so to speak. Now, whoever are among the malefic planets, they're extreme
+54:57 malefics, so to speak. They're always fighting warriors, super-duper. Why like this? Okay, right, all good. So they have a lot of capability to perform
+55:04 well, so to speak. So you've got an idea about malefic planets and benefic planets, right? So the malefic planets:
+55:11 who are they? Ah, I'll tell their names, so we'll understand.
+55:17 Don't get confused like "as soon as it's called a malefic planet, it commits sins; as soon as it's a benefic, it does auspicious things." Don't think too much. Their maleficness means
+55:26 they have extra power; remember only that for now. Understood? What he does after that, we'll talk about him later.
+55:35 In this same zodiac chart I'll write the malefic planets for you.
+55:42 Saturn is a malefic, a pure malefic, so to speak, okay? Then, in Saturn's sign itself, let's write here for us: Rahu.
+55:51 Okay. Then, ah, after that, next, who? Mars. Vinod garu, there's a small question.
+55:59 Ah, ask loudly. It may be fast. Other than this, to whom can we attribute electricity? Which planet, since it's energy?
+56:07 Electricity: ah, the Sun and Venus, these rule it, so to speak. I thought of telling this too as a topic. For us, whenever some
+56:15 situation comes, with that we have to connect it to these planets and bhavas, so to speak. If we connect them, we get a good idea.
+56:23 Right. So basically, malefic planets and benefic planets: ah, in the world, are good and bad there equally, or not?
+56:35 Ah, I have to nudge someone, right? "I'm thinking, sir." Ah, good and bad are there equally; good and bad are side by side; good and bad are equally
+56:43 there. Understood? Okay, whether you call it 3/4 or whatever you call it, all that is a later matter, but both are there, so to speak. Okay, good and bad
+56:50 are there, right? Ah, you know both are there, right? So here, what it is: this Mars, Saturn, then
+57:00 these are extreme malefics, so to speak. The solar and lunar planets are never malefics by themselves; but
+57:07 the Sun produces radiance for us, produces light. So if that becomes extreme, what happens? It's malefic, right? So that too becomes a malefic,
+57:15 so to speak. So therefore the Sun too is a malefic, but in Western astrology they don't take the Sun fully as a malefic, so to speak. Okay. The solar and
+57:23 lunar planets they don't take as malefics; that's the difference. That's why I put an extra circle like that. Then next there's Mars, then Ketu
+57:31 is there, then Rahu, then Saturn. So for this Rahu, they said "Shanivat Rahu, Kujavat Ketu" [Rahu acts like Saturn, Ketu acts like Mars], so to speak. That is, however much result Saturn
+57:38 can give, Rahu can give an equivalent result, extremely; that's its meaning. Ah, in another context, how
+57:46 is it? The meaning is: whatever result Saturn gives, Rahu gives that same result; that is, Rahu came and gives Saturn's result, so to speak. That's its meaning. Like this,
+57:54 it's there in two ways. As for me, I use it only when the occasion comes. Later on you'll understand it in usage too, so nothing to
+58:02 worry about. Today there are more offers (?); the house part too is getting done (?). Okay, alright. After that,
+58:11 now malefic planets and benefic planets are understood, right? The benefic planets: the full benefics are Jupiter and Venus; ah, then
+58:19 Mercury, the Moon: all these too are benefic planets, so to speak. "Are they all full benefics, sir? That is, is Venus a three-quarter (?) one?" Yes, yes. The Moon, the Moon: if the Moon is full, full,
+58:27 the Moon... we have tithis, right? From after Shukla Paksha Saptami for us, again till that
+58:35 Krishna Paksha Saptami: whatever he is in these 15 days, he's definitely very powerful, so to speak. Understood, right? So to explain
+58:44 that for you: first, take seven days before the full moon and seven days after the full moon; very
+58:52 simply, to remember it. Ah, okay sir. Understood? So then the Moon has more kalas [phases of brightness]. If you look at the Moon in the sky, at night the Moon is clearly
+58:59 visible, so, yes, then they consider the Moon a benefic. If born then, we should take the Moon as a benefic. Only for Mercury there's a special rule,
+59:08 which is: if he joins malefics he's a malefic; if he joins benefics he's a benefic. Now, suppose he joined the Moon: when joined with a benefic Moon he becomes benefic; with a malefic Moon,
+59:16 when joined, he becomes malefic. Like that, so to speak. Understood? Because the Moon's dignity changes, right? On some days he's a benefic, on some
+59:24 days he's a malefic. So, understood? There's another concept too, so to speak, within this: ah, at night, ah, the malefic planets are powerful. Ah, so
+59:34 that's the matter: during the day the benefic planets are powerful. There are some rules like this too, so to speak. Okay. Ah, and one more: what is it? The rule, I mean, all this
+59:42 too, when the usage comes. Now, for example, a person was born at night; for that person, at about 40 years, after 40 years, Saturn dasha came. So,
+59:50 as he said earlier, in Libra ascendant he's exalted and very nicely placed, okay? We have kala bala, ayana bala (?), such
+59:57 some strengths, so to speak, in the shadbala. So like that, like that: he was born at that time; the planet is powerful like that; its star lord
+1:00:04 is good; everything is good, so there's a chance it'll be good: like that, we get the chance to tell the results. Understood, right?
+1:00:14 Yes sir. Ah, so now, what benefic planets can do, in what kind of houses benefic planets should be: about that, first, now we
+1:00:22 next class... today it doesn't look like it'll be a questionnaire for us; it'll be theory. That's fine, because nothing is known yet. Ah, that is,
+1:00:29 now, why did I tell all this? Because our friend said that for Sagittarius ascendant, if Venus is in the 3rd, it'll be good, so to speak:
+1:00:37 the result. Okay. Sir, a small doubt, sir. Sir, earlier someone asked, right: Mercury is with one benefic and one malefic, for almost two,
+1:00:46 three days? Yes. See, now, if you put one spoon of sugar in milk, it becomes sweet. Understood? Likewise, in a sign there's one malefic; with that malefic
+1:00:55 planet, Mercury is there: then whether a benefic is there or not doesn't matter; he'll act as a malefic only. Clear? Okay, okay, okay, thank you. I've had this doubt for a long
+1:01:03 time, sir. Where... (?) Yes, yes. If he joined a malefic, he's a malefic, that's it, done. Understood? So now for us
+1:01:10 there become two malefics. Ah, how will the benefic planet that's there behave? He'll behave accordingly when his time comes; within that...
+1:01:18 if he has strength, if he has. Now, for example, there are two people in a room, okay? So of the two, suppose one is a judge and one is a thief. Now
+1:01:25 the judge can dominate, right? Like that, you have to find out the strength, find out the strength, so to speak. That's strength, so to speak. Planetary
+1:01:33 strength has to be decided: which is the powerful planet in a sign has to be decided. When it's decided, the sequence... now, you're eating a South Indian meal; you're eating Bandar
+1:01:41 laddu, you're eating dondakaya pachadi [ivy gourd chutney], you're eating all those; it's good. Okay. I'm eating the Bandar laddu and saying it's super; you're saying the dondakaya pachadi is spicy. So this
+1:01:49 is the sequence, right? Whatever you eat decides how it performs, so to speak. Understood? So now, when a benefic planet's dasha
+1:01:56 comes, it may be one way; when a malefic planet's dasha comes, it may be another way, even though they're in the same sign.
+1:02:03 Okay sir. Now, all these conjunctions you're talking about are only about the naisargika [natural] benefics, still? Yes, naisargika benefics: I told it naturally,
+1:02:12 so to speak. Naturally; these are called naisargika benefics. Please... thank you for adding that. So, sir, there was a doubt, so to speak.
+1:02:20 Correct, correct. These are naturally benefic planets. In the earlier topic I told, right, that was benefic planets according to the ascendant, so to speak. That is, now Mercury,
+1:02:28 now, I told a topic before this, right? What topic did I tell? I told the topic called the ascendant's yogakarakas. In this, what is it: from the ascendant, the ruled planets, whichever planets
+1:02:37 these are friends; all of these are described as yogakarakas for the ascendant, as benefics for the ascendant, so to speak. Okay? This second topic
+1:02:43 is about, particularly, the natural maleficness and beneficness they have. Now, for our Sagittarius ascendant, ah, Mercury
+1:02:52 and Venus: if they conjoin, Mercury becomes a benefic, because Venus is a naisargika benefic, so the conjunction of lordship benefics... Ammo, wait, wait, I didn't understand. I'll
+1:03:00 put it in; not that fast. One minute. Ah, tell me: for Sagittarius ascendant, if Venus, Venus and Mercury conjoin, Mercury
+1:03:09 becomes a benefic? You're saying Venus and Mercury conjoined, that's all, right? Yes. If Venus and Mercury conjoin, Mercury becomes a benefic, right? Yes. That is,
+1:03:18 he becomes a benefic; not a benefic for the ascendant, he becomes a natural benefic, that's all. We should talk of it as two benefic planets being on the ascendant, that's all. Okay sir. I had this doubt for many days,
+1:03:26 sir. Thank you. Okay, right, right, right. Okay, so now the concept is understood, right?
+1:03:33 Understood or not? What if Mercury is in the 3rd or 6th houses? That's exactly what I'm about to tell now: upachaya
+1:03:42 and apachaya houses: there's a small concept like that, so to speak, okay? So, so, let's draw this and explain, let's draw and explain. So basically,
+1:03:51 what's the concept of this? This is the important concept I mentioned. As soon as I said important, it happened like this, like this, right? Let's do it.
+1:03:58 Whatever it is, we're there, right? That's the ascendant, so to speak: self-power, our moving ahead. Understand this well. Now I
+1:04:06 put Capricorn ascendant. The ascendant means us; the 7th means the other person, so to speak. Understood?
+1:04:14 Understood or not, up to here? Hit it in the chat. Yes sir. That is, the other person: it may be a partner, it may be the other party. Now, since I'm dealing
+1:04:21 with you, you're the other party for me; since you're dealing with me, I'm the other party, that's all. Understood? So... Okay sir.
+1:04:28 Anyone is 7, that's all. Now, 3, 6, 11: these houses are called upachaya
+1:04:38 houses, so to speak, okay? So what these are: ah, very, very powerful. That is, if we, we
+1:04:45 definitely make an effort, if there's a planet in these, the work will work out for us, so to speak; somehow or other we'll achieve it, so to speak. I'll tell why. Then next, you,
+1:04:54 as said above, you've already heard: the 1, 4, 7, 10 houses are kendras; likewise the 5, 9
+1:05:03 houses are, ah, the kona houses, so to speak. Okay. Then
+1:05:10 2, okay. We have to write the dusthanas: 8,
+1:05:19 12: they're called trikas, so to speak. These are very, very special. Okay. 6, 8, 12.
+1:05:26 So let's write 2 as neutral, okay? Among these 12 houses, understand it like this.
+1:05:32 Now, for this Capricorn ascendant: what will you give me? Let's suppose that if I give 10 rupees, you'll give me electricity,
+1:05:41 since I don't have it, okay? So then what should I do? I have to spend money, right? Okay? So I'm showing
+1:05:49 you; I'll draw and show you. Okay. My money, through the 12th house or through the 5th house,
+1:05:55 I'll spend. Okay. What does that become for you? Suppose yours is Cancer ascendant, okay? If yours is Cancer ascendant, for you this
+1:06:03 definitely becomes the 6th house, right, from here? This one, or else this becomes the 11th house for you, right? If I
+1:06:10 spend my money, for you that becomes the 2nd house, right? Did you understand the concept now? Once more... shall I tell it again? Now, mine is the ascendant, sir;
+1:06:19 mine is the ascendant, okay? Mine is the ascendant; I'm telling it practically now. Okay. Mine is the ascendant; the money I have is what? The 2nd house, right?
+1:06:28 Okay? Is that so or not? On this, all of you must definitely ask your doubts; if needed I'll even call out names. Okay. If you don't understand this, it'll be a lot of trouble. So, the money I
+1:06:36 have: if that's the 2nd house, then if my money is going away, there's a chance of it going in two or three ways. What are they, how
+1:06:44 does it go? The 2nd house goes through the 12th house; then it goes through the 8th house; it also goes through the 5th house.
+1:06:55 Understood or not, up to here? Sir, what does going through the 8th house mean, sir? Ah, very good, you asked well. I didn't understand anything, sir.
+1:07:03 That's it, that's exactly why. Now, that the money I have is the 2nd house: did you understand that? Yes sir. Okay, right. If I
+1:07:13 spend the money I have, does that become the 12th house for me? Yes sir; since it's a loss, it becomes 12. It becomes 12. Now, yours... if mine is Capricorn ascendant,
+1:07:22 then yours becomes Cancer ascendant? Yes sir. Now, if money goes from me, where does it come to for you? It comes into the 6th.
+1:07:29 It comes into the 2nd house, for example. Um, yes sir. That is, for me, for me, if it's the 2nd, 2nd house, then that for you... my 8th house becomes the 2nd house for you,
+1:07:37 right? Ah, yes sir. Understood now how money goes through the 8th house? Now, okay, okay.
+1:07:45 If you got confused, I'll tell again: what's gone from me comes to you, so for me, for me, it's being debited from my account, and, ah, being credited into your account.
+1:07:56 Okay sir. Then the 5th house, sir? Ah, the 5th house is also a spending house. Okay: I gave a friend some gift for fun. Ah,
+1:08:04 for us it became the 11th house, right? Ah, for me it became the 5th house; for you it becomes the 11th house. Exactly: it's an easy gain for you, right? If I give a gift, this becomes an easy gain for you.
+1:08:14 Yes sir. Okay: what goes from you comes to us; what goes from me comes to you; like that, so to speak, you're putting it.
+1:08:20 Ah, that is, how does the going happen? Or, now, someone bought a luxurious house, or...
+1:08:27 Not that far; let's stop at a Thums Up bottle first. Ah, okay: he bought a Thums Up bottle; that becomes money going through the 5th house
+1:08:36 for the other side? Ah, no, no. This 5th house, the 5th house is like a gift, so to speak. What we spend for fun becomes the 5th house.
+1:08:43 Understood? Okay. So that, that may be good, may be bad, may be anything; sometimes it may even be extreme. For happiness,
+1:08:52 what we give happily, happily, becomes the 5th house, so to speak. Okay, okay. Understood? So that may also be, happily, when building a house; ah, by luck
+1:09:01 it may be; what we spend on children may also be happily. Understood? Okay sir. Sir, likewise, how does the 8th house mean spending
+1:09:10 for you? So, I'm not saying exactly that this gets imported into this house. For me, the possibility of spending is the 12th
+1:09:18 house and the 5th house; if those, what do they become for you? For you it becomes the 6th house, that... the 2nd house; for you it becomes the 6th or the 2nd house,
+1:09:26 or else it becomes the 11th house, I'm saying. Okay sir. The concept is understood, right?
+1:09:33 Understood. I didn't understand the 12th house, sir. The 12th house: in the 12th house I'm spending; in the 12th house I'm spending,
+1:09:40 I'm giving, so to speak; it's a minus for me. Understood? Then for the other person it becomes the 6th house; that
+1:09:48 Yes. Ah, for the other person it's a gain, right? Obviously he's winning it, right? Sir, if you go to Aries, Aries, and explain it, it'll be a bit
+1:09:55 clearer; it's the natural zodiac, right sir? Go to Aries and explain it; it'll be clear, in my opinion. Shall I explain from Aries? Okay. If you go to Aries, Aries and explain, it'll be good, sir; that
+1:10:04 normally... No sir, not Aries for everyone; that becomes very confusing, as a standard. Okay, here, here you go: you're saying,
+1:10:12 right? Whatever house it is for you, put it anywhere you like, okay? Put this and enable the house numbers. Okay, that same
+1:10:21 house... whether the ascendant is Aries or Capricorn or anything, leave that aside. You have to practise counting. Understood? Whatever house it is,
+1:10:29 if you can't count... now, if you say "I'll read only if an Aries ascendant horoscope comes," how will that work? Yes or no? "My horoscopes: only Aries ascendant
+1:10:37 people should consult me," what would they say? Okay? That's it, sir. As you said, let's wrap up the round, sir.
+1:10:45 Ah, so earlier what our folks said was: rather than taking Aries, Aries completely, take one topic for each ascendant;
+1:10:52 so they took it, so to speak. Okay? Sometimes, even if you don't like it, you have to accept the chintakaya pachadi [raw tamarind chutney]. It's not like that, sir; now this concept
+1:11:01 is all about understanding, right? I said it like that so we'd at least understand the natural one. Ah, okay, okay, no problem. For you now,
+1:11:09 have you got the counting of houses or not? Tell me that first. Leaving Aries ascendant aside, if you take any one sign, from it, the one, two, three bhavas, are you able to
+1:11:17 count them or not? Sir: Capricorn ascendant, Aquarius ascendant, Pisces ascendant. Okay sir: one, two, three: Capricorn, Aquarius, Pisces.
+1:11:26 Ah, so for Capricorn, what becomes the 5th house? For Capricorn, Taurus; it becomes Taurus, sir. That's it. Now, if you have Aries ascendant, Leo
+1:11:33 ascendant... you'd call the 5th house the sign Leo. Don't get confused, okay? So only count, count. See, I haven't even written which sign it is here; I'm just showing the count,
+1:11:41 so to speak. Okay sir. If this is such-and-such number, then the 5th house from this number: I marked it positive in green colour, so to speak. Understood?
+1:11:50 Okay, don't get confused. For the other (?) person, that is, for the 7th as ascendant, it shows the 6th house as gain, sir.
+1:11:57 Ah, the 6th house becomes gain, correct. How, sir? How, you mean? Okay, I'll tell again how.
+1:12:06 We know the 11th house is gain; we know the 2nd house is wealth gain. So how did the 6th house become one? Ah, now, for any house of mine, then
+1:12:14 when I'm one, are you seven or not? Yes sir, yes. So then when it's 12 for me, for you
+1:12:21 doesn't that become six? Ah, yes, it did, sir. But that, that is, isn't that a dusthana, sir? That, for us, gain...
+1:12:29 Ah, if you hide that in your mind, how will it work? You have to say it out, okay? So, therefore, leave aside that it's a dusthana. The topic I'm telling here is: for you,
+1:12:38 how it's becoming a gain, that's all I'm telling. Okay. The other person's 12th house became the 6th for us, sir. It became the 6th for us; it became the 6th house.
+1:12:47 Correct, it became the 6th house, it became the 6th house. That's how we should define it. Okay sir. Alright sir.
+1:12:54 Okay, okay. The dasha, dasha sequence also matters again, so, that is, at a high level? At a high level. Yes, at a high level.
+1:13:02 Soft and pleasant, but our guy, sometimes when the time comes, 3, 6, 11 operate, so, ah, staying soft, soft, he suddenly bursts out strongly.
+1:13:14 Let's see. Up to now it hasn't happened, even that much, up to now. Let's go to the question, sir. Yes, yes, please, sir. Will you tell your question once, repeat it?
+1:13:21 Someone asked. What I'm asking is: now, Mars is in the 7th; he's in debilitation.
+1:13:28 For us, suppose Ketu is in the ascendant. I told a concept earlier, right, "Kujavat Ketu"? Yes, yes.
+1:13:36 For you, Mars should be put in the 7th, in the 7th. Okay, I put it. Ketu should be put in the ascendant; should I put Ketu in the ascendant? Okay. But
+1:13:45 what did I say? Ketu is "Kujavat", that is, remember for now that he gives an equivalent result. Okay. That is, however much Mars can give, that is, now
+1:13:53 if I can throw ten... rupees, 10, 10 punches, he too can throw that many punches. That's its meaning; remember it like that, okay? His power, his energy levels. Didn't you
+1:14:03 understand? Then now it's understood. So now, in this case, it's not that we and the opposite person, the two, will be neck and neck. Now, where Saturn, Saturn is,
+1:14:11 it gets decided based on that. Ketu will follow Saturn, right? So he is agent for Saturn. Now, let's assume Ketu is in Dhanishta itself... leave the nakshatra aside; if I tell the nakshatra now,
+1:14:19 everyone will get confused. So only Saturn: for the opposite... Saturn, for the opposite party, Saturn in the 8th, that is, for the opposite person in the 2nd, in gain.
+1:14:27 Ah, then he himself will win, right? The Cancer guy will win; we'll lose. Ah, we became weak, being in the 8th;
+1:14:35 we became weak; we're ready to lose. Now if Saturn is in Libra, or in the ascendant...
+1:14:42 Suppose he's in Libra. Correct. If he's in Libra, then, when following an exalted one, we ourselves will win, right? If it's 10 for us, it'll be 4 for him, right?
+1:14:51 If it's 10 for us, it's 4 for him. Okay. When Saturn is in Leo, Saturn is in the 8th,
+1:14:58 right? A malefic in a dusthana means a bit of benefit? A malefic in, a malefic in an upachaya, I said.
+1:15:05 I didn't say dusthana. Ah, I said 3, 6, 11. The dusthanas I marked specially, so to speak.
+1:15:14 Okay, that's his question. That is, now, if he's in the 8th, it's already an enemy house and a dusthana; if the ascendant lord is there, scenarios like this...
+1:15:22 Yes, yes. There, then, the opposite guy is winning, right? The opposite guy is winning, right? Okay, okay. For us, in every way, it's weak for us.
+1:15:31 Ah, so if it's here, only because the planet is there, it's some percentage, so to speak; it gives a 30, 40% result. Rather than saying weak, we can say this person has to struggle a
+1:15:41 lot, maybe. That is, now, when two are fighting, we have to give the win to one of them; we shouldn't give the result to both.
+1:15:48 So now, shall we make Mars win, or make Saturn (?) win? That is, we have to make Mars win; there's no second thought about it.
+1:15:56 The rest has to be decided when the situation comes.
+1:15:59 Since Mars is in debilitation there, ah, maybe the opposite person wins by emotional blackmail, right? Ah, we'll imagine it later: whether he'll black-
+1:16:08 mail, or stab with a knife, let's decide later. For learning, the scenario is good, a tough scenario. Ah,
+1:16:16 there's a small question. For this chart, the ascendant lord is in the 8th, so we can say there's longevity, since it's Saturn, connected to the 8th?
+1:16:24 Yes, Saturn can connect to the 8th. So no planet should be in the dusthanas, but especially Saturn can be in a dusthana, especially in the 8th, so to speak. If he's there, he
+1:16:33 gets the chance, the strength, to win, even if through hard work, so to speak. That's individually, individually, individually. Now, when it's a contest between two, again he
+1:16:41 loses; that's a different matter. Yeah, but now, when Ketu is following Saturn, since Ketu is contraction, will he contract the longevity?
+1:16:48 Ayyo, you shouldn't take it like that, like that. Ah, you shouldn't take it however you please. He only gives a dry result, gives a late result, that's all; not that he spoils longevity; like that
+1:16:56 you shouldn't say it as you please. Now, now, we just raised a point: now, for this ascendant, suppose Ketu is in the 2nd,
+1:17:04 suppose; suppose he's aspecting Saturn; then what does he do? Even then, Ketu is staying in Saturn's house, so he's following Saturn itself, following the 8th itself, so to speak.
+1:17:11 Oh, there's no reducing like that? Ah, nothing, nothing like that. Whether in the ascendant or in the 2nd, it's okay, so to speak; it's the same kind of result, so to speak.
+1:17:20 That is, he keeps aspecting, right? Directly, whether he aspects or not. So that's just up to this level. Then exactly how to take it, later,
+1:17:27 later I'll tell. For now I'm telling it in terms of signs, so to speak. Again, actually we have to go taking the star lord. So it has to be decided with the star lord. That, that, ah,
+1:17:35 so that that layer doesn't come in and confuse you, I'm telling this. First, ah, the names, our important names: if we call them by numbers,
+1:17:42 we should be able to get those who haven't spoken to talk, right? That's the real thing, right? So 31... 3001 spoke, right?
+1:17:51 Ah, I have one question, sir. Okay. That is, I... there's no combination; I didn't set a test. Okay, ask. Answer two questions, sir. Now, from today's
+1:17:59 class itself there are questions, sir. Ah, one: you said, ah, the Moon, sorry, Mercury, if conjoined with malefics, is malefic; if with a benefic,
+1:18:07 he's a benefic, you said. Okay sir, got it. Anything, I mean, within how many padas should they be together?
+1:18:13 Within how many degrees? There's nothing like that; in one sign, that's all.
+1:18:16 In one sign, I mean: I said in one sign, but I didn't say anything about this pada or that pada.
+1:18:20 That's it, right? Okay, even if Mercury is at 1 degree and, ah, another malefic, Rahu, is at 29? That's it, that's it, that's it; I told you, right: one sign, that's all.
+1:18:28 One sign, okay. The distance between the two of them isn't important? No. The pada doesn't matter, the pada. Okay. However much difference there is, however much difference, he's conjoined, that's all. Ah,
+1:18:36 he's conjoined in the sign, that's all. Ah, okay sir. Coming to the next test: ah, Gemini ascendant; let's take Gemini ascendant, sir.
+1:18:44 Ah, let's take it. Ah, taking Gemini ascendant, suppose Rahu is in the 2nd. How might it be?
+1:18:51 How will it be? Ah, now, when such a question is asked of us, in our playground, if we hit "generate" here,
+1:19:00 it'll tell, so to speak. Like this, we can take this and ask ChatGPT. In another class we'll try this with ChatGPT; for now, manually, the exam, let's
+1:19:06 pass it. So, what is it if Rahu is in the 2nd? Since Rahu is a strange, peculiar one, it's not that he does one thing;
+1:19:15 various sources of income; he does one kind of work... it's money, right? And it indicates family, right? So Rahu always asks only one question:
+1:19:23 "do you want money or do you want family?" Suppose you work hard: you can't give time to the family. If you work, money comes, so with work
+1:19:30 he keeps you busy; he causes job instability; like this, not one source but a number of sources, strange and peculiar antics, so to speak. Okay, not just one;
+1:19:39 through various ways, it gets created so that revenue comes from multiple sources, so to speak. Whether job instability is the reason for that, or whether multiple
+1:19:48 sources are getting created: it'll be like that, so to speak. Like that, just some more; you can say it in various more ways, so to speak. There'll be impressive communication skills,
+1:19:55 you can say; you can say it like this too; it keeps working in various ways like this. 2nd house Rahu, but family, sometimes health, relationship, distance, location,
+1:20:03 all these too have a chance of being a bit twisted.
+1:20:07 So, when that dasha comes, it may get activated; when it comes, they work according to the situation. Again, we have to look at it based on the star.
+1:20:14 That is, are you saying the yoga will be good but the bhava may not be good? Not exactly, because again, the star lord and all those planets: based on them, it has to be decided,
+1:20:21 so to speak. Directly, how can we say that if Rahu is in the 2nd, his family won't be good? Okay, okay. The star lord too matters a lot again, later. But for now,
+1:20:30 this will dominate; it'll dominate more on your work life, so to speak. "Do you want work life or family life?": it'll dominate like that.
+1:20:38 "What do you want?": it'll dominate like that.
+1:20:40 Work means money, you said; whatever it is, Rahu multiplies it. I'm sorry; those who haven't spoken, please speak.
+1:20:49 It's okay. Okay, let's call those numbers once, please, two minutes. Okay sir. I am good, sir. I'm good, I'm good. 31, good.
+1:20:57 What it is: we, what do you call it, we've got fixed; the feeling is like match-fixing, even though there's nothing like that. So, 2950,
+1:21:07 you've set a test for me, right? Ah, no. Ah, go ahead. Ah, before the test, there are two questions.
+1:21:15 Okay, ask, ask. In this same chart, now Rahu is there, so we did which bhavas can be applied. Now the Moon:
+1:21:23 now, since that sign is the Moon's sign, we can assume he'll follow the Moon? Correct, correct, he follows the Moon. Since he followed the Moon, now what happens? Since he's in the Moon's sign,
+1:21:32 emotional worries, sensitivity, mother's health: all such things operate, right? Whether we can do it or not: Moon-Rahu, what is it? They reduce confidence levels,
+1:21:40 so to speak. Because of the Moon-Rahu sign, that will have a 25% impact, so it works on whether we can do it or not. Then, here there's another class,
+1:21:49 actually, which is: now, for every sign, this is fire, this is earth, this is water, sorry, this is air, this is water: there are four kinds of
+1:21:58 tattvas [elements], so to speak. Okay, just like the pancha bhutas [five elements]. So these four signs have four tattvas, so to speak: fire sign, earth
+1:22:04 sign, ah, air sign, water sign. So Rahu is smoke, right? So since it's smoke, in fire
+1:22:11 signs he performs well. If air joins fire, the flame grows, right? Ah, in water he isn't that comfortable, so to speak.
+1:22:20 Understood? Yeah, understood. That is, what gets affected because of the Moon placement? That's what I'm telling, right? The Moon, Chandra,
+1:22:27 is the karaka for the mother, so, ah, mother, mother's health, staying away from the mother: there's a chance such things get affected, right? Since the Moon is the
+1:22:33 karaka planet for women, there's a chance of some influence on female health, at a certain percent level.
+1:22:41 Okay, okay. How we consider the strength of the sign is... but that, that we'll decide again; we'll decide when it comes. So, that is,
+1:22:49 after we go into real charts, we'll talk about this. Until then I'll keep saying it like this, "we'll decide," I'll keep saying. So don't think I'm skipping it, definitely, because without all the
+1:22:58 values, how can we define it? So we have to talk only partly here. That's exactly why we can't read a horoscope as soon as we've read a book: there, he talks only partly;
+1:23:06 he tells only as much as needs to be told, so to speak. Yes. Next, who will set me a test?
+1:23:14 When it came to the test... ah, you didn't set the test, right? Go ahead. Yeah, yeah. When it came to the test, I thought this was the test. Hmm.
+1:23:21 Okay, okay. Ah, ah, yeah. Let's take Aries as the ascendant. Okay, right, Aries.
+1:23:30 Yeah, and in the 12th, ah, ah, let's put Venus. Ah, okay, alright.
+1:23:40 Yeah. Now, the 7th lord is in the 12th, so, hmm, how will he be? Ah, yes.
+1:23:47 So, if we look position-wise, what it is: ah, here, here some additional rules apply; special conditions apply.
+1:23:55 I'll tell it normally; it may be wrong, but I'll tell it normally. So basically, suppose the 7th lord is in the 12th; for any ascendant, what it means is, by the other party
+1:24:04 we get influenced, so to speak. Understood? That is, for us, the gain lord, the 2nd and 7th lord, has fallen into the 12th; that means
+1:24:11 for him it becomes the 6th, so that's a benefit for him, right? Our wealth lord is, for him, as if in the 6th, so to speak, nicely. Okay? So he keeps benefiting,
+1:24:19 more than us. So, what is it: to get benefit from us, there's a chance he'll somehow or other influence us, so to speak. So
+1:24:26 we should take it like that, so to speak. But here Venus gets exalted, so that's one rule, so to speak, an additional condition. Ah, the second rule is: the 2nd and 7th houses,
+1:24:35 the maraka houses, indicate death, so to speak. Such a lord getting a dusthana is taken as a minus-into-minus cancellation, and positive
+1:24:44 results, it'll be good, they say, so to speak. The 12th house is the expenditure house, right? When benefic planets are in the 12th, what happens is there's a chance we'll make good expenditure.
+1:24:54 If malefic planets are in the 12th, what happens? We spend on unnecessary things, so to speak. Benefic planets, what is it: we get lifestyle, right? Understood? So, a good lifestyle.
+1:25:02 So, whether Venus in the 7th or Venus in the 12th, they call it a "boon in life" (?), so to speak. So there's more chance of it giving positive results. That
+1:25:11 but our ascendant lord is as if in the 6th for them, right? As if in the 6th for us, right? That is, in the 12th for them. Now, conversely,
+1:25:19 if we look at it, ah, for him it's as if in the 6th, right? For us, for us, he's in the 12th. Yeah. For us, if the 7th lord is in the 12th, the wife...
+1:25:28 is winning: that's the meaning. Okay, like that, just. That is, the other side will win, right? The other side will win, the other side will win.
+1:25:36 Right. But for us, what is it? Comfort, lifestyle, positively, right? Whatever we, we are spending, whatever we're compromising on,
+1:25:43 all of that has a chance of coming back to us positively, I'm saying, since it's Venus. Yeah, yeah, he gets happiness.
+1:25:51 Happiness, comfort, luxury: whatever we're giving, you'll get the equivalent or more than that, I'm saying. Okay, okay. Profit that comes with expenditure.
+1:26:00 Profit with expenditure? Investment. Yes, please. In this example, through the wife? Ah, that's why I gave the example as wife,
+1:26:08 because since it's the 7th lord, I said wife. It could be husband, could be wife, could be partner, could be the other party.
+1:26:15 Yeah, sir. That is, is there maybe a chance he gains spiritual knowledge too through the spouse? Can we look at it like that too?
+1:26:22 So, Venus is a karaka for luxury, comfort, desire, right? So when it comes to spirituality there, again we'd have to take Jupiter, Ketu, Saturn, such ones, right?
+1:26:31 There's nothing negative here, definitely, definitely. Ah, definitely, definitely, you can say that, but the priority now we have to give to the planet
+1:26:39 Venus, right? Rather than the sign, now we have to give more weightage to the planet, right? Okay sir. That's it, sir. In other words, he'll take the wife
+1:26:48 shopping, enjoy a lot and spend, that's all. He'll look for joy in every, every thing he buys.
+1:26:54 He'll look for joy. Sir, may I once, ah,
+1:27:01 speak? You said that in fire-element signs Mars and our Rahu perform very well, right sir? Correct, correct, I said so.
+1:27:09 Now, keep Venus in Pisces, same as it is, keeping the ascendant; if Mars plus Rahu are in the sign
+1:27:17 Aries, how will it be, sir? How will the performance be? Ah, so here, here, what it is: now these two
+1:27:24 are enemies, right, as we discussed earlier? Understood? What we discussed here: we discussed their friendship here. Ah, so
+1:27:33 these two are in two different categories. So two enemies have joined, so to speak; there'll keep being friction, so to speak. So what happens is some disturbance, so to speak. That
+1:27:42 but since the 2nd lord is in the 2nd (?), he'll influence it so as to protect it. So Mars will dominate, so to speak. So, since he's in his own house,
+1:27:50 strength comes. So therefore it'll definitely be good, but a bit of trickiness, ah, typical
+1:27:57 situations too, they'll overcome and win; that is, they'll have to overcome, so to speak. Then again, within that, which star they're in, based on that it gets decided,
+1:28:04 so to speak. Definitely this gives an extreme of greed. Understood? A strong desire to earn a lot of money, or else power, position,
+1:28:13 strong desire, desire. Mars means what? Aggressive expectation. Ah, that aggressive expectation, because Rahu joins, gets exaggerated, so, "I want to
+1:28:22 be the world's richest person, then tell me what next": it'll be like that.
+1:28:26 Okay sir, okay sir. Okay, okay, right. Next, 3050. Hello?
+1:28:34 Yes, hi, hi. Ah, for Cancer ascendant,
+1:28:41 what? Mercury in house... Mercury, is it?
+1:28:49 3rd, 3rd house. Ah, um, okay, okay, okay. Sir, this, earlier, about Venus,
+1:28:58 you didn't say, sir: Mars-Rahu... Venus, the 8th lord and 3rd lord, is in the ascendant, right? Yes, yes, yes. Ah, it doesn't matter; he's exalted,
+1:29:05 right? Because the 8th lord is on the ascendant, he'll have to work hard and achieve.
+1:29:10 Work hard and achieve? Ah, he'll have to work hard and achieve. Ah, you said with the 3rd, now others too get convinced, right? He's exalted, right? So will they be like that
+1:29:18 at all? Ah, he'll convince somehow or other; he's on the ascendant, right? Ah, he'll convince the other people; he'll say it softly,
+1:29:27 he'll say it softly, he'll say it softly, but inside the internal fire stays just as it is.
+1:29:32 Only the telling he'll do softly, that's all. Okay. That is, earlier, if Venus is in the 3rd, that we get confused by the other people,
+1:29:40 we discussed earlier, right sir? Yes. That's if it's in the 3rd; here it's in the ascendant, or it's different, right? So they won't get confused that quickly. Ah, they'll win,
+1:29:49 they'll win. Okay, okay sir. Okay, here let's talk about Cancer ascendant. For Cancer ascendant, what is it: in the 3rd,
+1:29:56 Mercury, the 12th and 3rd lord, a malefic, malefic, got exalted. Understood? Then, then what happens? See, basically planets can get exalted; yogakarakas
+1:30:04 can get exalted; non-yogakarakas too can get exalted, so to speak. Okay, no problem. But we shouldn't decide with one planet. Here what it is: if the ascendant's
+1:30:12 yogakarakas get exalted, suppose: they work well. When a malefic gets exalted, to some extent... that is, the 3rd means what? Self-effort, so it'll work somewhat. The 12th,
+1:30:20 since it's malefic, so some of it goes, so to speak. Even though Mercury is exalted, the Mercury dasha may be somewhat neutral, somewhat very good, somewhat average,
+1:30:28 so to speak. Like this it works in various ways. Because the 3rd lord is in the 3rd, communication, consulting; since it's the speech planet, counselling, in such things he gives good
+1:30:36 expertise (?), so to speak. I'm just telling the karakatvas [significations] if a single planet is in each sign, that's all. Okay, okay.
+1:30:44 But you said earlier, right, Mercury is like half malefic, half benefic? Yes, yes. Now, for example, that same one who's a malefic, that is, then a half-benefic,
+1:30:52 right? Suppose he joined along with the Sun; further, since the 2nd lord joined, now he comes into performance, so to speak. This shouldn't become combust, so to speak. Understood? So
+1:31:00 now Mercury is behind; the Sun is ahead. Okay, now it's good, so to speak. So now Mercury won't go retrograde, so to speak, in any circumstances. Like this, if he's behind,
+1:31:08 fine; if he's ahead, there's a risk of retrogression, so that's trouble. But now, for Cancer ascendant, even if the malefic one goes retrograde, it's not a big problem. So now, because of being like this,
+1:31:16 definitely, because the Sun and Mercury are in the 3rd, he'll definitely be able to work out well in communication and consulting, so to speak. Efficient. A malefic planet is in the 3rd. The Sun-
+1:31:25 Mercury combination is generally good. Ah, which combinations of planets are good: we wrote an article about combinations of planets; it's in our articles,
+1:31:33 look at it. But I'll tell it; I'll tell it again in the next class too. So, like that, looking at the combinations of planets: now, which combinations, to tell you simply,
+1:31:42 now, whoever among these joins, it'll be fine; whoever among these joins, it'll be fine, so to speak. Okay? So the Sun and Mercury can join, so to speak: Budhaditya
+1:31:50 Yoga. That one... we'll have a class called Pancha Mahapurusha Yogas, general yogas; I'll tell it in that class. Then, if planets join in that combination,
+1:31:58 they give good results. But first you have to pass this, right? That is, first you too have to answer the exam you set for me, right? After you answer, I'll take you to that.
+1:32:06 Okay. Now, you said Mercury with malefics is malefic, with benefics is benefic, right? If he doesn't join anyone, sir? He becomes a benefic; that's why "half-benefic", so to speak. They didn't say half-malefic; they said half-benefic.
+1:32:15 Okay. If he doesn't join anyone, if he doesn't join anyone, he's a benefic, a benefic. Okay sir. Yes, okay. Now here, this 12th lord got exalted, right sir? The 12th lord got exalted,
+1:32:23 so should we think we'll spend more, or spend less? No, no, we can think we'll spend "aachi toochi" [carefully, weighing it]. That is, because of being exalted,
+1:32:31 we'll know reasonability, so to speak. It means we'll spend correctly.
+1:32:35 Okay, okay. But one small modification: now, Mercury alone in the 3rd house... go ahead, go ahead.
+1:32:43 It didn't, sir: the Moon is in his own sign. Ah, wait one minute; I'll come to you. Continue.
+1:32:51 So now, if Mercury is alone in the 3rd house and Mars is in the 12th house, how, how will that combination be? In the 3rd house
+1:32:59 Mercury alone, alone, and 12th house Mars. Ah, Mars is in the 12th house.
+1:33:08 Hmm, okay. Now what is this? Now the 10th lord is in the 12th; being in the 12th, he again aspected the 12th lord, so distant
+1:33:16 places: going and working abroad, or working in distant places, or going far from home to work: it works like this, so to speak. Being in the 12th, it gives hard
+1:33:24 work, so to speak. Understood? A service-oriented job; we shouldn't say he'll do some production here. Doing a job, or going to good positions in the job,
+1:33:31 a consulting profession. Again, the same 10th lord is aspecting the 3rd house; in the 3rd is the 3rd lord, and again he's being aspected by the 10th lord. That is, three combinations
+1:33:40 got activated, right? So all this again indicates the 3rd house, so with hard work, we, based on this Mercury,
+1:33:47 Mercury exalted, and the 10th lord aspecting Mercury: the whole chart will keep working depending on this now. Okay.
+1:33:54 Basically, because the 10th lord fell into the 12th, because the 10th lord fell into the 12th, it means there's no job. Understood? The job isn't coming. But here the 12th lord, okay,
+1:34:03 will take control and get it for you, so to speak: "if you go far, I'll get it for you; it's not here, but I'll get you an opportunity a little far away," saying so, he takes you, so to speak. Okay, okay.
+1:34:11 But since Mars is a malefic, a malefic in the 12th house can also be called a bit good? Why would I call it good? Why would I
+1:34:19 call it good? I said that he isn't getting a job at all, right? Okay, okay. But it's giving the chance of it coming in a foreign land, in a distant place. That,
+1:34:27 understood? Again, there's a star lord in this, right? The star lord in this: suppose this star lord again is positive (?); ah, then he'll work well, so to speak, Mars too.
+1:34:36 Right, right. That, taking the rest, the rest, we'll do that. There's one gentleman; let's go to him: three... 338, ah, that is, 3038, speak.
+1:34:47 That is, this concept will come separately, but I have a small doubt, sir: this, now, within about 5 degrees, now, Gemini... Not about degrees; not about degrees
+1:34:56 for now. Planet: what I want is, now, in the numbers we wrote, all of them should set me a test. If they ask me with a single, single planet, I'll tell them the
+1:35:04 result, so to speak. Okay? As soon as I've talked with all of them, I'll come back to you, alright? Okay sir, okay sir, okay sir.
+1:35:11 Okay, thank you. After that, 3047. Yes, yes... no?
+1:35:19 Sir, namaste, sir. Namaste, namaste. How are you?
+1:35:23 All good, sir. How, how is it going, the class? How is the class going? It's going well, sir. Okay, very good. It's very good, very good, sir. Okay, right.
+1:35:32 The ascendant, the ascendant is Capricorn ascendant. Okay, very good. Ah, Saturn is in the 10th.
+1:35:41 Okay. Um, shall I tell? Ah, sir? Okay, I'll tell. Now, in the natural zodiac
+1:35:49 itself, Capricorn is the 10th sign, right? So what does 10 tell? It tells about career. Again, where is the lord of the ascendant? Again, he's in the 10th from the ascendant,
+1:35:58 so it's excellent, right? So the ascendant lord in the 10th is called Vamshadharaka Yoga. That is, in that lineage or this lineage, that is, after marriage and before marriage, in both
+1:36:06 lineages, he's saying there's a chance for us to go to very good positions in the career itself. If the other conditions support, it'll definitely work
+1:36:14 out. There won't be anyone else like him. Understood? Definitely to very good positions; to work with great dedication towards the career;
+1:36:22 a very professional and workaholic nature: all these it gives well, so to speak. Definitely they'll be able to do it, that is, capability, power, good management. Saturn again means management abilities, so that
+1:36:31 he gives. In the natural zodiac this is Venus's sign, so further, it's very comfortable for him, so he'll perform even better; positive, we
+1:36:38 should say, so to speak. Okay sir. But now, if the Sun is in the 2nd from the ascendant, sir, then, ah, okay,
+1:36:46 the combination, ah, what happens? Ah, the 8th lord is in the 2nd. Understood? Suppose he gave well in money. Okay, just a second,
+1:36:55 sir. Ah, so let's conclude this: suppose he gave well in money; in another thing, for us, as
+1:37:03 expected, he may not give. So once again, what it is, to say: the whole class is going like this for us, but because of heavy rain
+1:37:11 coming, the power keeps fluctuating like this. One minute. Tell me one planet. Ah, I took Virgo ascendant. Okay. Mars in the 3rd
+1:37:19 you put; in the 6th, did you put Saturn? Venus, did you put Venus? Okay, okay. Suppose Mars and Saturn (?) are together...
+1:37:28 No, no, not all the planets, never mind. Ah, so, okay: for Virgo ascendant, Venus is in the 6th and Mars is in the 3rd.
+1:37:37 That's it? Yes. You've brought a nice crazy combination, so to speak. Okay, so basically Mars is the 3rd
+1:37:43 and 8th lord, a malefic, right? So, but he's in his own house; he's strong in the 3rd house, so to speak. Definitely there's capability, but
+1:37:52 since he's becoming, ah, the 8th lord, Mars, and then he's aspecting Venus, the 9th lord,
+1:37:59 since he's aspecting him; Venus, being a benefic, shouldn't be in the 6th, right? "Bhrigu Shatkah": there's a rule that it's a dosha, so to speak. Okay, so
+1:38:07 Venus is there in the 6th, so when this Mars aspected him: the 9th and 8th lords, for Virgo ascendant, it isn't good,
+1:38:14 for any ascendant at all: if there's an association with dusthana lords, there's definitely a chance of twisted results coming.
+1:38:20 So sometimes in the father's life, in personal life, ah, it also gives the chance of an imbalance of desires.
+1:38:29 Understood? Or else it'll also be the reason for spending money lavishly, spending without holding back at all, so to speak. So it'll be the reason for compromising.
+1:38:38 That is, compromise: when 6 comes, there's compromise. When 3 comes, there's no compromise, right? It also becomes the reason for spending without compromising.
+1:38:44 Understood? That matter we can twist any way we like, so to speak. But this definitely, ah, the 3rd, 3rd lord, okay,
+1:38:52 3rd lord, 8th lord, 6th lord: that is, 3, 6, 8, all dusthanas are operating, so to speak. So this is a volatile combination,
+1:39:01 so to speak. So a twist in the relationship, sometimes in marriage, in such things, in anything, in matters full of desire,
+1:39:08 we can't say for sure that anything will go smoothly without a twist, so to speak. Understood? Okay. This desire... the same combination works to give desire,
+1:39:17 and it also keeps working so that the desire can't be fully enjoyed, so to speak. It's 3, 6, 9, right sir? How did 8 come?
+1:39:25 He's the 8th lord, right? Venus is the 9th lord, right? The 8th lord is Mars, right? Okay, you took it like that. Okay.
+1:39:33 Ah, okay. 2952 wants to say something, it seems. Vinod garu, earlier you were saying 3, 6, 8,
+1:39:42 right? Now I'm confused again: dusthanas means 6, 8, 12, right? Yes, yes. Now, the 8th from the 8th
+1:39:50 is the 3rd house, so to speak, okay? So 8 operated, 6 operated. Ah, again Venus too is aspecting the 12th anyway, right? Take it a bit like that too;
+1:39:59 it's okay. Even so, those aren't good auspicious houses, right? Ah, 3, 6: that is, it got carried forward with the combination,
+1:40:06 suppose; they'll perform negatively. Now, if some planet... now suppose along with Venus the Sun is also there; then now the 12th lord
+1:40:13 also comes in, right? Venus won't be there alone, idle. Um, like that, it becomes a strong reason for the dusthanas to operate. So therefore it will give
+1:40:21 twisted results; ah, as expected, sometimes it may be in creating wealth; they work in various ways. Saying "it's exactly this," or "there's something in between this,"
+1:40:29 there's no deciding; there shouldn't be a judgement. That's what I said, right? Let's not fix on "it's that"; let's see when it comes.
+1:40:38 Okay, right. Shall we go to the next? Did it feel satisfactory to you? It was 3037 who spoke, right? No, no, no,
+1:40:46 32. 3232 spoke. How did it feel, 32 garu? Ah, it was good, sir. Okay, right. Next, 3028.
+1:40:55 Ah, 3024 wants to say something, it seems. Okay then. Namaste, sir. In this same combination,
+1:41:03 Mars in the 3rd: naturally, a malefic being in the 3rd is strong. Then, a benefic being in the 6th is not so good. So, that is,
+1:41:11 can we say this person, for luxury, where 10 rupees should be spent, spends 20 and has trouble in wealth creation?
+1:41:18 How can we say it that definitely? How can we say it that definitely? Understood? It's not possible to say it definitely, so to speak, because, ah,
+1:41:26 whether Mars dasha will operate or Venus dasha will operate, we don't know, okay? If Mars operates, he works one way; if Venus operates, he works another way,
+1:41:34 so to speak. Okay, okay. We have to catch that. Now suppose Mars operates: since it's 3, let's take it as benefit. 6: suppose Venus operates; we have to take it as negative. Now, for Virgo
+1:41:42 ascendant, even though he's a yogakaraka, we'll have to take it negatively.
+1:41:46 Okay. Mars, even though malefic, we'll have to take positively. That's the problem, so to speak. Okay. 328... 3028.
+1:41:55 Ah, it's me, sir. Namaste. Ah, namaste, sir. Gemini ascendant, sir. How is it? Are you understanding, or else is anyone
+1:42:04 in the class feeling like we're going too far into advanced stuff? You didn't get any feeling like that, right? Ah, no sir, but sometimes it still
+1:42:12 takes time to process. Okay, okay. Ask, ask; don't hesitate at all. I'll go back and tell it again. Poor man, he asked about the ascendant right at the start,
+1:42:20 right? He came late to class, and didn't we tell him again? We'll tell it just like that. Okay, tell me again, again. Again, for Gemini ascendant,
+1:42:28 Gemini ascendant: the 3rd house is Leo, the Sun; that same Sun, in the 6th house,
+1:42:35 is there. Ah, okay, he's in the 6th. Do you want the signs? How will he behave, how can we define it? The 3rd lord
+1:42:44 is in the 6th. Understood? The 3rd lord in the 6th: a malefic planet can be in the 6th, right? So there's definitely a chance of a good result coming.
+1:42:52 Understood? So, therefore, government may come there, or it may be about work, since it's the 6th house, right? So if that is good,
+1:43:00 health too will be good; for achieving, for winning sportively, for being able to work decently, that is, for us to have capability: the 6th house tells about our
+1:43:08 strength. So, 3rd house, 6th house: we can say good strength, energetic, positively. To say it negatively: the royal lord
+1:43:16 is in the 6th: he'll speak harshly. Okay. When it comes to the real matter, he'll have the mentality of speaking to settle it outright; there'll be royalty; he'll be strong; all such things too
+1:43:25 you can say, so to speak, for good and for bad. Now, apart from that one Sun, suppose Mars too is there; then it becomes a problem, so to speak; he's a bit of a complicated fellow,
+1:43:33 understood? So, therefore, now, Mars in the 12th house, sir? This same... ah, Mars, the 6th lord, in the 12th?
+1:43:42 Ah, is it Mars alone, or is anyone else there too?
+1:43:46 Only Mars. Ah, then too, then too: that is, the 6th lord being in the 12th is a kind of Vipareeta Raja Yoga. Ayyo, I have to tell about yogas; I'll tell.
+1:43:54 So, if it's like this here, this too is a twist; but actually Mars goes retrograde, so to speak, when it's like this, since it's the opposite sign, so Mars will be affected
+1:44:03 by retrogression. Because of this, since the 6th lord went into the 12th, there's also a chance health gets disturbed, poor thing, so to speak. One has to take care. Aggressive,
+1:44:11 ah, again immunity issues, so to speak. Sometimes, ah, fighting where one shouldn't fight. Actually, really, if the 6th lord
+1:44:18 is in the 12th, victory comes only by not fighting, so to speak. Understood? Suppose he fought where he shouldn't fight: poor thing, whatever he has will be lost.
+1:44:25 Okay. Whether it's a relationship or a quarrel, it'll be the reason for getting involved in unnecessary things. Why is that, sir? Like that, if the 6th lord is in the 12th,
+1:44:34 why? Okay. Will one person speak? Ah, don't wait thinking someone else will ask; ask. If the 6th lord is in the 12th, not fighting
+1:44:42 is better, you said, right? Yes. The 6th lord is in the 12th, right? So, what happens because of that is Vipareeta Raja Yoga, so to speak. That, okay? Vipareeta Raja Yoga:
+1:44:51 mainly, the 6th lord in the 12th; 12th means loss for him, poor thing, right? It becomes a benefit for the other person, right? For us,
+1:44:59 if a malefic is in the 12th, for him, for Sagittarius ascendant, it's as if in the 6th, right? Yes, yes. So whenever this guy stays silent,
+1:45:07 because of Vipareeta Raja Yoga, a beneficial result comes to this guy automatically. That is, the opposite operates, so to speak: 6 operates; 12, in the 12th, actually,
+1:45:16 suppose it's not operating 6; since it's in his 12th, 6 operates directly for him. That is, it's like a minus-into-minus formula, so to speak: if he
+1:45:23 doesn't do anything, it becomes a benefit, so to speak; only if he does something does it get a bit complicated.
+1:45:28 Okay. That is, 12, Vipareeta... now, I'll tell you, for example. What I actually planned is: you're looking for
+1:45:35 a job; you're thinking of switching into another job, okay? Vipareeta Raja Yoga is operating. You got a notice that your job is gone. What did you do?
+1:45:44 That is, not 20%... saying it'll be about a 20% benefit, and saying layoffs are happening to people around, we
+1:45:51 tried to switch, for a 25% benefit. Understood? So because of doing that, you got that 20% job. Understood? Then after about six
+1:46:00 months, there was a problem; for example, suppose for someone, me or someone. Okay. But there's the person next to you; the same yoga is operating; what he did was, until it was gone,
+1:46:09 he kept quiet, so to speak. He thought calmly: "whatever will happen will happen; when there's talent it'll come anywhere," he thought. By the time he thought so, this company, with another company,
+1:46:16 when it merged, gave everyone a 200% bonus and also raised the salary by 50%, so to speak. Okay sir.
+1:46:24 Did you understand? So like this, when there's Vipareeta Raja Yoga, by staying silent he benefits automatically, so to speak. It itself
+1:46:31 will carry you; the boat keeps going automatically. If we try to change direction, it won't perform as we expect, so to speak. So whether there's Vipareeta Raja Yoga,
+1:46:40 or the planet has a retrogression dosha, it's enough to calmly follow the situation, so to speak. We don't need to do anything new; everything will be defined for us; everything will be ready.
+1:46:48 No need to try in any aspect, sir, when that planet comes? So, here, this combination: when that planet comes... I'm not belittling self-effort;
+1:46:57 I'm not saying no to effort; but depending on the situation there. Now, they said "aalasyam amrutam visham" [delay turns nectar into poison]; ah, then they said "dhairye sahase
+1:47:03 Lakshmi" [fortune favours the brave]. Which will you follow? Whichever suits the situation, that's all. This too is just like that, so to speak. Okay.
+1:47:11 Then how will we know, that is, in that dasha, what to try...? Yes, yes. Now, you, now, each person has 100 charts, right? How many situations do we have? Loads of them,
+1:47:19 so to speak, ahead. So we can fully enjoy it. Actually, are you even noticing the time now? How does it feel, actually? No,
+1:47:26 no sir, it's very interesting, actually. Correct. So, therefore, there's actually a lot, a lot. Actually we, at least one... actually my, I, that is, the eagerness,
+1:47:35 so to speak: when will we cross those three, four months, and when will you go into chart reading, so I can discuss with you; that's a kind of joy, so to speak,
+1:47:42 for me. Yes. Okay. Ah, happy? Now shall I go to the next chart, or shall I go to the next member?
+1:47:49 Sir, one more question. Now we're saying powerful; here, powerful has two aspects, right, for good and for bad too? Which is powerful: powerful for good, or
+1:47:58 powerful for bad: we still have to decide that further, right sir? Yes, yes, yes, yes. That is, that is, it's all about... now, whatever core
+1:48:05 concept I told you: this concept of benefic planets and malefic planets. If malefic planets aspect, it's a bit challenging; if benefic planets
+1:48:11 aspect, it's good, so to speak, okay? Then these combinations; then, here, if we take the combinations of these houses, we can, very super-
+1:48:20 duper, with just these two concepts, play a lot of the game.

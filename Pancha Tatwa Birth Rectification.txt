@@ -1,0 +1,664 @@
+# PItot96_dMM	Birth Time Rectification Using Pancha Tatwa | Vignana Astrology Course | Learn Astrology in Telugu	lang=en (translated from te)
+0:00 Namaste everyone, Vignana Astrology Class, episode 109. Almost 52 weeks, that is, one year. At 108
+0:09 weeks (?), almost one year is done. Vignana Astrology Class 2025 has successfully finished one year. Again,
+0:18 Guru Purnima comes on the 29th. So we thought, why teach the course yet again? We've already taught it on YouTube and uploaded it; no more in Telugu, this and that.
+0:28 But we have to do it for those who are asking, so I started again. Only, teaching in Telugu again would be boring for me too, so this time, in English, we have
+0:37 planned it. So the English muhurtham is confirmed. So it's 28 July at 4-something in the morning (?), so to speak. In Gemini ascendant
+0:46 we set it, in pushkara navamsa. And you can go to that same course page. Only, the video, I mean, I'm saying this in Telugu, but
+0:55 it'll be in English. All the course contents are in English. Our English channel... actually, I always wanted to teach on the English channel, not the Telugu channel. Telugu,
+1:02 since it's our mother tongue, I thought I could teach a bit more confidently, and tried it. Saying that, 10 years have gone by. So the English channel, directly,
+1:10 we haven't been able to do, so with the idea that it'll happen in the form of a course, we're teaching there. [snoring] Some people have joined. So in a way that does justice to them, I
+1:18 will definitely try to teach well. And this is the course page; the English channel, you know it. Ah, so this is the course page.
+1:27 Directly, the same: if you go here, go into Learn, then Online Astrology Course, and you'll see it. And how is the English channel? The English channel
+1:34 too: our people have given the channel link right here. Here, RBI English. On YouTube, beside it, like this, English: remove "RBI Telugu" and type "RBI English" and it'll come up.
+1:45 There's only one video in it. As far as I know, there are one or two videos.
+1:53 Yeah, yeah, yeah. Some research calls done in English were uploaded.
+1:57 Some time back we told the road map; now we're going to give the actual version.
+2:02 Anyway, so those who are interested, since this is the last chance, try to join. And let's meet on the English channel. And the Telugu Vignana course
+2:12 will continue the same way in the second year too. Only Pandita we can't share publicly, so we teach it among ourselves and keep it to ourselves. And today's topic
+2:21 is: we've already learned KP, ah, but on KP these folks don't seem very interested to me. So
+2:29 KP is prashna, it's different, a separate section. Then the birth chart: ultimately one has to be able to read the birth chart, so for an astrologer that's the focus. Prashna
+2:38 is used only on rare occasions. How they manage even without prashna, how they practice, whether they ask something in between,
+2:45 we'll see later when the situation comes. And today's topic is birth time rectification. There are already videos on our channel too.
+2:54 So what about them, did you watch? Last week I told someone to watch the one on birth time rectification.
+3:01 Did you watch? I couldn't. I watched. You watched. So from what you watched, what intro would you give? Tell me; after you tell, I'll
+3:09 start my intro. If you understand the Nadi Tatva Siddhanta a bit firmly, it'll be easily
+3:17 understood. BT isn't instant Maggi. I didn't get it; the voice... could you say it again?
+3:27 Ah, this isn't instant Maggi, it isn't instant Maggi. So should I make this too like instant Maggi?
+3:35 You should, you should. Okay, fine, fine. Already we have a clock icon here; if you click it, it shows up like this: "via the Nadi Tatva Siddhanta",
+3:43 you know that. We've been using this, but you asked me to do a demo of how to use it. There are many features in ours, but all of those, a demo about them,
+3:52 I thought I'd explain only when someone asked for it, so I didn't do it. But I'll do a demo soon too.
+3:58 So for now, this is the topic. So is everyone ready? I've made a small PPT. If you say ready, I'll go ahead.
+4:06 Ready, sir. Garu has also come (?). Has Paita garu (?) come? Okay, super. Here it is, sir, our presentation. Ah, is it good?
+4:15 Is it clearly visible? So, birth time rectification: ah, janana samaya
+4:23 savarana, or janana kala samskarana. So birth, birth time is... what, this one, Claude:
+4:30 I told it, and it made it. So 1 degree = 4 minutes, right? For us the ascendant keeps changing. If it changes by 1 degree, in the progression we get a one-year
+4:39 difference, right? So we need the birth time at the 1-degree level, that is, accurate to about four minutes. If instead we look at the varga
+4:47 charts, the navamsa changes in about 12 minutes or so. Likewise the shashtiamsa changes in about two minutes. Likewise
+4:55 we have another one too: there's the nadiamsa.
+5:01 D-150: that changes every 48 seconds, so to speak. And in seconds, how much is that? The nadiamsa:
+5:09 ah, 0.12° (?), 12 degrees (?) of arc, so to speak. That's why it wrote 12 seconds, so to speak.
+5:17 So how they go even further: they also talk of the ardha-nadi amsha, D-300, and even D-600, so to speak, in Nadi astrology
+5:26 methods. I mean, dividing to that extent and comparing that chart with the natal chart to predict is the target.
+5:33 So since we're using progressions, if the birth time is correct at the four-minute level, that's enough for us. Sometimes, even without a birth time,
+5:41 with planetary aspects, sometimes, some of the time, our predictions do tally. You've observed that, right?
+5:51 With that (?), the dashas fit, so roughly. Yes, yes. When people talk with me, I keep telling them things.
+5:56 Nothing serious, just conversation. So in this birth time rectification there are many methods, many methods. What did we do? This
+6:04 I'll explain in the slide (?). Let's play all the slides first, after that... So this is Venkat Subba Rao garu,
+6:12 yes, there's a gentleman called Divakaruni Venkata Subba Rao garu, so to speak. Okay, he wrote this article. This Nadi Tatva
+6:19 Siddhanta... there are many methods, right? Among them we're using the Nadi Tatva Siddhanta. I'll also talk about many methods. Birth time... "nashta jatakam",
+6:28 you'll have heard of it. Nashta jatakam doesn't mean a negative person, so to speak. He lost his horoscope: he lost his birth chart.
+6:35 That's why it's called nashta jatakam, that's all, that's all; it doesn't really mean a ruined horoscope. The real meaning of nashta jatakam is one who doesn't have a horoscope. One without birth
+6:43 details is called a nashta jataka, that's all. It doesn't mean he'll actually suffer loss just because he has no birth details. Okay.
+6:51 So whatever is destined will happen, but for us to predict we need the birth details, so that's it. So there are 18 maharishis, we know that, right? Yes sir.
+6:59 Those 18 maharishis have described it in 18 ways, so to speak, regarding the birth time. I mean, what is it: when the head is born, ah,
+7:08 when it becomes visible; then when it falls on the earth; then when it breathes air; or when the cord from the mother is cut, the umbilical cord
+7:16 is cut; like this, when it takes its first breath; or when the king is informed. Like this they took it in various ways.
+7:23 Among them, what we all follow now is: the first breath of the child will be considered as the birth time. In this there are many
+7:29 methods. One basis is: we have Kalidasa's method. What it says is, after the child is born, in the birth chart
+7:38 there's the Moon, right? Yes sir. The nakshatra: ah, the Moon in the birth chart is the conception-day
+7:45 ascendant, and that ascendant is the birth Moon, understood? The conception-day ascendant: it's not the time of sex, so to speak.
+7:53 When the sperm and egg meet, treating that meeting time as the conception time, when that happened, from here
+8:01 going backwards nine months, he predicts it, so to speak. Okay, okay. So now, the Moon at our birth itself
+8:09 is that day's ascendant, so to speak. Our birth ascendant, the ascendant's nakshatra, with all the degrees, right, that is that day's Moon, so to speak.
+8:16 It reverses, or else it stays as it is: the ascendant and Moon become the same. There's another one: it becomes opposite. Now
+8:24 suppose Ashwini nakshatra in Aries. The opposite: if you take 10 degrees, it becomes Swati; if you take 6 degrees, it becomes a Mars star. Like that, opposite
+8:33 it becomes, so to speak; it can also become the opposite, so to speak. So based on this, there's something called the KP ruling planet theory; I'll tell you how it can be done with that. First this, this,
+8:41 let's look at them one by one. The birth time too: I mean, just as we compare Vedic, Western and KP, the way we compare the stellar methods and give predictions,
+8:48 we should do the same for rectification too; that's what I've set for myself. Because now, suppose you went to an astrologer,
+8:56 sir, and he fixed it for you: "your birth time is this". After fixing it, suppose you go again after some days; he'll tell you a new birth time. I
+9:04 will tell you the same too. I mean, my reason: suppose I have progressed my knowledge; suppose I'm leaving the old one and going to a new one. Well, the old one
+9:12 I did wrong, so if I again tell you the wrong one, that would be like cheating. So I'll say, "Sir, I did that with the knowledge I had then, sir; now I'm adjusting it by another minute, half
+9:20 a second, sir." That's how I'll tell it, as opposed to adjusting by hours and hours (?). Understood? I didn't understand.
+9:28 That's it; I mean, you said earlier, sir, that people used to take sunrise, and to correct that again. Yes. Ah, yes. Ah, after that, next:
+9:37 why does the birth time differ? The recorded time is mostly approximate, approximately, because they record it after the baby is born;
+9:44 they estimate it from the wall clock. When recording, they round up by 5 minutes, 10 minutes. Ah, like this, sometimes 23 (?),
+9:54 25 become 10:30. Ah, the elders' memory at home: "at early dawn", "at lamp-lighting time",
+10:01 "when the buffaloes come home": estimates like this, so to speak, approximately. Which is the moment of birth: when the head appears, or when it has come out fully? Like that, so to speak. So this
+10:09 difference is most common. One shouldn't worry about this difference, because the responsibility to correct it is the astrologer's. Not only
+10:17 that, I mean, like, there are many methods; depending on the different range of time, a different procedure has to be followed. I mean, now, "sometime within one month for me, you look into it yourself,
+10:26 catch it; they said it was this month": ah, people say things like that, right? Understood? "It was Dasara season, sir; ah, by then the Navaratri hadn't
+10:34 started yet; they apparently started only after that": they say it like that, right? When they say it like that, it's very hard, right? There's a procedure for that. Rectification can even take a year.
+10:43 Normally, there are many cases where even rectifying six or seven hours took that long. Then, ah, one ascendant lasts how long? Two hours, right?
+10:53 1 degree = four minutes, four minutes. After that, next: a small error, I mean, as a small difference comes,
+11:02 the ascendant keeps changing in the amsha charts, right? So if we don't rectify, the predictions too
+11:09 change. Since ours is progressions, it's enough for us to correct the ascendant degree up to here, up to one degree. The navamsa sandhi we can handle; that, that's the Bhrigu Chakra
+11:18 Paddhati; there's one called that, and using it too we can do it, so to speak. After that: two people were born at the same moment.
+11:26 On the same day, in the same town, hundreds are born in one ascendant. Okay. Even though their planetary positions, ascendant, everything is the same, their education, lifespan,
+11:33 luck, children, none of them are alike. Just as fingerprints don't match, the moment of birth too
+11:40 is the same. If there's a difference of at least a few liptas, seconds, ah, viliptas, vilipta-seconds, the outcome changes. That matters. That's about the varga
+11:48 chart, the nadi amsha, that it's talking about, so to speak. After that: what is birth time correction? When the recorded time is approximate or doubtful,
+11:57 using mathematics and life events. Ah, so here, the point is, for us mathematics comes first, first. Now, "he built a house", ah, "he got
+12:06 married": all those will keep matching anyway, but first we should rectify mathematically and then do this.
+12:13 That. After that, next: what is the Tatva Siddhanta? We consider the five elements (pancha bhutas) as the five tatvas, right? So
+12:22 so how did the Tatva Siddhanta come about for us? Every [snoring] person, some one... Yeah,
+12:31 tell me. Nothing; it's like it came double, double. It came double.
+12:39 Tatva Siddhanta... the sound is coming from yours. Is the sound coming from mine? I'll mute. Now it's set.
+12:46 Right, right. Phew. So what the Tatva Siddhanta is: the
+12:55 karmic deeds we do, good or bad, whether you watered a plant or pulled out a plant, whatever you did: when what was done gets registered in the registry called karma,
+13:03 these five elements monitor it, so to speak. I mean, air, water, fire, sky, all these are there, right? So all these
+13:10 monitor it; they monitor and update it in God's central database. Ah, what's updated, in the form of planets, for us in the form of karma, they update in the karma registry,
+13:18 so to speak. Okay. So that's why these five elements are the cause, right? So therefore a person is linked to one tatva or another among these five element tatvas,
+13:26 okay. So that's why, without being under the five elements, we, I mean, like, we can't exist beyond them, right? On earth, without the five elements...
+13:35 Like that, so to speak. Similarly, they did this for us in the combination of ascendant, nakshatra and gender, so to speak. Who? Divakar(uni) Subba Rao garu.
+13:43 Rayudu garu published this on his website, and we brought it from there, so to speak. By a lucky chance I also
+13:50 met him. Then next, where this method comes from, where, where from: for that, the same
+13:56 reference document: he published it in 1970, and they brought that, so to speak. There [snoring], it's written here too.
+14:04 His disciple... based on the shlokas of Jataka Palachanda (?), Jnanaratna (?) Divakaruni Venkata Subba Rao garu. In the old
+14:11 methods, the same weekday, the same nakshatra, with a difference of at least 25 minutes: contrary to experience. These texts, ah, two new
+14:19 things it said: ah, what is it? Savya and apasavya, I mean, there are cycles, so to speak, there are time cycles. There's a 180-minute cycle,
+14:27 so to speak, and how to divide it. Here, you know the five elements, right? Akasha (sky), Vayu (air), Tejas, that is fire, so to speak, Jala (water),
+14:36 Prithvi (earth). Then next, for that, ah, the combination is like this, so to speak: tatva. Prithvi
+14:43 tatva's lord is Mercury, Wednesday; in it there's a chance of a male being born. For Jala tatva, these two are the causes, so to speak:
+14:50 the Moon and Venus are the Jala tatva planets, so to speak. Tejo tatva: the Sun and Mars; Tejo tatva, Sunday and Tuesday, a male
+14:57 is born. Jala is female, Vayu... then Jala is female, so to speak, the type. Akasha, Tejo, Prithvi
+15:04 are male, so to speak. They defined it this way, so to speak. Its, its cycle: Akasha tatva is 30 minutes,
+15:12 this is 24, like that. They also define this again as an aroha-avaroha (ascending-descending) cycle. I mean, now there's no need to struggle to learn and remember all this,
+15:20 since we've automated it in the RVA software, you can just use it, so to speak. Just simply, how it is behind the scenes: this is a presentation.
+15:28 There. So it showed the aroha-avaroha. Did they come? Is it not visible to you? Hello, hello.
+15:37 ...from, up to Akasha. Akasha, yes. After that, if it's a male birth, if it's a female birth... again the presentation. So
+15:45 the time, through the Tatva Siddhanta, we can rectify within a range of about three minutes, so to speak.
+15:52 The Antar-tatva Siddhanta: to rectify the time even further there's antar-tatva. Here, what antar-tatva means for us is, now if a male was born in a female tatva, I mean,
+16:00 suppose a male was born in a female tatva: he'll have a soft nature, but the gender is male, right? For that, they fix it with this antar-tatva, so to speak. Ah, even if you don't do it, nothing happens.
+16:09 Then the nadi amsha: it tells how many parts there are in them. Then, then, next, the calculation:
+16:16 ah, it's showing how, how, how the time works, so to speak. I mean, again its... now, I mean, like Vimshottari,
+16:23 in the dasha, just like the dasha-bhukti, the same, exactly the same, likewise in the tatva again. Using the correction table:
+16:33 this, what this is, they made it as a table, right? This table is fixed, so should we use it as it is? If so, it's as if all of us were born under the same condition (?), right?
+16:41 They simply set sunrise at 6, so to speak. So that's why you have to calculate that beforehand and set it. I've made long videos; look in them, it'll be quite enough. Ah, this
+16:50 is just a fun presentation. Then now the basics, so to speak: these are about the nakshatras. Then the signs: what's this? Chara, sthira, dwiswabhava
+16:59 lagnas: based on them, for that ascendant, for that type of ascendant, it shows whether that nakshatra is there or not, so to speak. That's why it showed it like that.
+17:07 Sunrise: suppose in the table it's 26; adding that difference of time, it put 10:44, so to speak. It adjusts like that,
+17:15 so to speak. If we don't do this adjustment, it'll go wrong for us, so. After that, you've seen the table like this, right? In the RVA software,
+17:22 the table: according to that table, depending on the birth time we put in, ah, the gender matched or not, ah, the ascendant matched, the nakshatra matched for that ascendant. We can
+17:31 check it in sequence like that, so to speak. Understood? Horoscope correction at every step. Okay. Revati nakshatra:
+17:37 (?) there shouldn't be a big difference. Two... it took an example. Okay. So it's explaining all that for sunrise,
+17:46 it's explaining the calculation, so to speak. Okay. That too is calculation. Okay. After
+17:53 that, next: in which tatva one was born, which qualities. It's talking about our BTR tool software. Mathematics first, and only then
+18:00 the events. This much happens: within a three-minute range we can find out the arc.
+18:06 That's it, done. BTR: what this is, is a method for rectifying when our time is reasonably accurate. Understood?
+18:15 Okay. Ah, any doubts? [laughs] Didn't understand anything? None? Didn't understand anything?
+18:22 Ah, I mean, now, for example, you open our PDF, sir. Ah, you opened it. In ours, your name comes up.
+18:29 Ah, so now if you come down once. Umm, now here, here, ah, you, here, how many
+18:38 minutes are there, sir, here? Ah, here there are numbers, right: 1712 (?), T1, T2. Yes. T1 means this, the time as per that
+18:48 table. Now, why I put reality (?) is: to identify the time that we, we enter manually here, here, I put this, "Time 2".
+18:57 Okay. So Time 1, Time 1 is the time as per the 6 o'clock table. This, Time 2, is whatever time we are considering.
+19:05 Okay, okay, okay. I mean, okay, T1 is what you got by doing plus or minus for sunrise? No, T1 is, as it is, by default,
+19:14 the time set from 6 o'clock, 6 (?)... like that, that's all. Okay.
+19:20 Okay. So now for us, this, how did they divide this, sir? I didn't understand that, sir. I mean,
+19:26 now, ah, you said T1, T2, right? Yes. Ah, now in that, for movable (?), dual, this
+19:34 nakshatra came, came... how did they decide that nakshatra comes? When I asked Rayudu garu this same question, he said one thing, just one thing. What did he say?
+19:43 "This was given by my guru. Okay, I'm giving it to you. Use the card (?); don't ask questions again," he said.
+19:49 Okay, okay. He gave the whole table. I mean, that table, there's Divakaruni Subba Rao garu, right? It's the table he gave.
+19:57 Understood? So how they decided that... this, though, we already have; it's in the classics themselves: these
+20:04 cycles, right? This cycle, which one: now Akasha tatva, the five elements. Just as they calculate a hora in a day, calculating the five elements
+20:13 in a way that signifies the time, it's already there, so to speak. Okay. To that, these people, for chara, sthira, dwiswabhava lagnas, "such-and-such nakshatra in such-and-such ascendant, such-and-such
+20:21 gender has a chance of being born": they took this from Nadi texts somewhere and wrote this table.
+20:28 Okay, okay. I mean, now in movable, fixed, dual... okay, let's set fixed and dual aside. If we take movable,
+20:34 for this time, I mean, T1, I didn't understand, sir. T1 again has a three; what's that there? 03 minutes (?), this.
+20:42 Aha, oh, okay, okay. I mean, 12:03, that is, midnight. For that, here, after this sunrise LMT is adjusted, that T
+20:52 became this much. T2 is what we use now, what we enter; here, we entered it, right? Okay, okay. Ah, fine. If we set our T2 aside, so T1:
+20:59 this movable, fixed, dual, they gave in an Excel sheet.
+21:02 Yes, they gave it, that's all; they gave it as it is. Okay, okay, okay, okay, okay. I... Are we calculating that too in any way? No, that's all; just that difference is here,
+21:10 right: local mean time and sunrise. Ah, okay, okay. That's okay. If you want to look more patiently at how we calculated this, here a
+21:18 calculation procedure: we've written how we did it, in detail. Aha.
+21:24 Okay sir, adjust... okay, okay, I mean, okay. So on top of what they gave, you adjusted it? No, I didn't adjust anything. Yeah, yeah, yeah... I'm using it as it is.
+21:32 Aha. Did they also give L2 (?), T1, T2? Ah, T1 they gave, sir. Okay. T2 is, for you,
+21:40 to show the time entered here, here; I put T2, I put it for my reference, that's all. Aha, okay, okay. Every time we do minus or plus in that
+21:48 If I do minus and adjust 10 minutes here like that, it gets set to this time. Now, for example, if you randomly go here and want to adjust to 2:30,
+21:55 you'd have to put 2:45; so that you don't struggle with that. Aha, okay, okay, understood. Okay, okay. Understood? Aha, okay. So these people did each one: a
+22:06 table already exists, so to speak, made through the Pancha Bhuta Siddhanta. What's this, sir: Sunday, Tuesday, Wednesday,
+22:13 Monday, Friday? Is that what you said earlier, the five elements? Yes, the five elements; he is the lord of that weekday, so to speak. For example, suppose he was born at about five, after (?) sunrise, so to speak.
+22:21 Now, for example, suppose you took this time. Which weekday is it? Sunday. But sunrise hasn't happened, so he was born on Saturday; so in this Saturday,
+22:29 in the five elements, in this particular ascendant, in this nakshatra, whichever tatva is there, to match that tatva. Okay, okay. So now Saturday, female, Vayu
+22:38 is there; and continuously, until the next male, Akasha, comes, it's female, that's it, right? As long as that cycle lasts, that's it. As long as it's male, it's male.
+22:46 Male: if that ascendant is running, a male is born; according to that ascendant, a female is born; if that ascendant is running, it syncs there, so to speak.
+22:54 Okay, so this aside... yeah, sorry sir. No problem. (?) This M, F, D-V (?): do we need to take it, need to take it?
+23:02 Ah, this M means I've put "movable sign Vinoda (?)", "fixed sign Vinoda (?)". In some ranges of time, when this doesn't quite match, we calculate this a bit
+23:10 and... So what this is: at 4:30 AM there's like a zone, so to speak, in this table, in the original table. So how does the conflict happen?
+23:17 Wanting to avoid the conflict, I did some calculation or other. So around 1:30 in the afternoon, like this, at some, some zones, that difference
+23:26 comes. When that difference comes, if you look at this second one here, it gets set, so to speak.
+23:31 Okay, I mean, which one can we follow? Follow this one; follow the 90 minutes one. So rarely, when the 1:30 afternoon zone comes, once in a rare while you'll have to follow this.
+23:41 Okay. For us, what I did for that is: how this should be followed... I found mistakes in this. I mean, not that I did something big, but what I did,
+23:48 based on the data I have, based on what I did, I set this up. So when our boy was delivered, I asked our doctor;
+23:56 when she said "ask for whatever you want", I said, "Get me some 2000 dates of birth, madam", and she got them for me. I've told this many times. So I have all those dates of birth. Ah,
+24:04 putting in those dates of birth and checking. And on our website there's a lot, some 4 million data points; we can put that in and check. Like that, whatever is needed [snoring], we can put it in and automate it, so to speak. Now, how
+24:13 accurate this table seems... umm, that, and, ah, now for us, whether the gender matches
+24:22 or doesn't match, whether the gender matches or matches, it doesn't matter; that's my observation. Okay. The gender also keeps matching, because
+24:29 there's the antar-tatva again, right? So the gender can be matched somehow; you can adjust 10 seconds this way or that and match it. What's there in gender?
+24:37 Okay, okay, okay, okay. Observe: this is tatva, and again there's antar-tatva, right? If this is the dasha, there's the bhukti, right? You can put it into that and do it, so to speak.
+24:45 Umm, the star is important, the star is important, the ascendant is important. Just a second. And, ah, now, now,
+24:54 for example, let's take some time. Take the first one: from 23:51, it's three minutes to the next one, right? Okay? Yes.
+25:02 They're writing three minutes. Umm, now, now, from 23:51 to within 23:54,
+25:10 yes. Here, now, from 51, it started from here: 51, from 51 minutes 01 seconds up to within 54. If it's in that, here you take this,
+25:19 you have to take this, take the one called "EC" (?). What's that, 50 (?)? That's it, sir. Now zero... 12, midnight 12
+25:27 ...from there to within 12-something (?), you have to take it. Aha, okay, okay. That's the ending time? I mean, this is the ending time, not the starting time? Correct. Okay, okay. This is the ending time, I mean, like in our
+25:36 calendar, the way nakshatras are listed: this is the ending time, not the starting time. Okay. Now, ah, now, for example,
+25:43 let's take the first one, sir. Between these two there are three minutes, right? Now when we enter it, sometimes you're also putting seconds. That,
+25:51 that, how are you putting it in some places? That's this antar-tatva: it calculates it automatically and does it, right? We did it here, right, we did it, right? Here: antar-tatva, tatva; the antar-tatva too
+25:59 it calculates, adjusts those seconds and does it, based on the gender we give. Okay. Those three minutes: within those three minutes too, again, that gender,
+26:08 to adjust for it, it catches those seconds.
+26:11 Okay, okay, okay, okay. First the star, done to three minutes, and within that, the gender again. Yes, that's the adjustment for gender.
+26:20 Aha, okay. The table, did they give the table? Or is the whole table ours, yours? I was thinking so. Ayyo, not that much, sir; I don't have that much talent. There seems to be a link; open it if you can.
+26:34 I sent it. Okay.
+26:44 Here's his article. This is the article as it is; ah, you can happily read it at leisure, nothing else to do.
+26:52 What he said is in the conclusion. Actually I saw it yesterday: if you go up there, there's a section called Conclusion. It's in there, the "don't ask me again" part.
+26:59 Yes, yes, he wrote it really funnily. "I have been using this method of rectification of birth time;
+27:06 I cannot clarify any doubts in this context since my guru is no more available. Of course, in my opinion, the past events of the individual
+27:14 should be checked with respect to the horoscope along with this method of birth time rectification. Birth time is to be rectified judicious(ly)."
+27:23 I mean, he said do it carefully. Ah, "It is up, up to the readers to use this method intelligently and satisfy
+27:32 themselves. I have done further research in the, in the matter and revised the birth time rectification table." He said he had revised it,
+27:39 understood? "The revised table is also given at the end," he said. Readers also... a Muslim boy also did something,
+27:47 saying that, they pasted that table too, so to speak. He, I mean, when I met him, what he told me was that table, this one table, so to speak. Below this they put another table,
+27:55 right, the revised table. Aha, okay, okay. Like that; that's the story.
+28:02 You can do it too; what's there? Here they split the time into 90, 90 minutes; according to that time... here he started at 6 o'clock, and going along with that time, they made a table.
+28:12 So, so that it sets like this, he set all those 90 cycles here. Ah, from 4:30 he created an adjustment calculation, that's all, so to speak. In this table,
+28:21 okay. This is one of the methods. Okay, there are many like this. Here I had it do deep research, so to speak; let's see what it says.
+28:40 It hasn't even loaded yet, sir. Is that it? 5 (?)... it still hasn't loaded. You have to import it afterwards.
+28:48 Aha, after this is done you have to import it. Okay, fine, then let's do it like this. Okay, that's the story.
+28:59 So that's about birth time. Another method: now, for example, now, now, I told you the Kalidasa method, right?
+29:08 Once, how to use this, the whole thing, this too completely: which, which to use, how to use which. This? This clock icon? Ah,
+29:16 ah, now there's 3001 garu. Okay. Now it's this, right? Sorry, sorry, suppose it's not this.
+29:25 It's Pulivendula, right? 02, ah, he said 02. What is he saying? Morning 10:10
+29:34 let's assume he said, for example. Okay? So it wrote 9:55, sir. 9:55, apparently. You saw his original birth time, right?
+29:41 So for 9:55 we hit Run Scan. Male, right? So what does he need? For us, for him, for Aries
+29:47 ascendant he needs a Venus nakshatra. For us, for Aries ascendant, a Venus nakshatra matched in the second table, so it put a tick there.
+29:54 But in the first table it matches right here, look. So Aries ascendant, the nakshatra for a chara lagna, so that's it. Now look, sir, two
+30:04 came up as matching, like that. Okay. Now you're choosing this, right? Put it like this; put up the time chart. For Bangalore,
+30:12 or put it for Hyderabad, for now. Now I'm looking at it; what I mean is, look, how many degrees is the ascendant? 26 degrees.
+30:21 Yes. How many degrees is the Moon? He's at about 5 degrees. These ascendant degrees and Moon degrees also match, look. His
+30:28 ascendant degrees are 29 degrees, apparently. I mean, if we set that, it changes. Did we get 27 degrees? Ah, the ascendant degrees here,
+30:37 do they match with the ascendant degrees? How is that, sir? That's the actual magic. The magic works if our karma is good.
+30:47 Okay, okay. Then next there's the Moon: it has come in a perfect kona to that ascendant, meaning he's in a wonderful time,
+30:54 we can just say that, so to speak. Both are in kona, right, from the ascendant and from the Moon: the transit ascendant and Moon. He is enjoying the
+31:02 time, that's what it means. His purva punya (past-life merit) has been activated.
+31:06 How at all, sir? Are you saying it didn't match at all? No, how at all did this astrology... how did the maharishis write it at all? How does it
+31:14 match? We put up the time chart and this; how do the connections come at all? Yes, connections are coming. So now look, now, now, the ruling
+31:22 planets are there, right? Co-rulers of ascendant, co-rulers of the... take this. Ah, if you take the co-rulers of the ascendant, see who all came for you; they'll be here,
+31:30 right? For us, Moon... sorry, not here. Ah, Moon co-rulers: Jupiter, Ketu, Mars, Mercury. Note these four down.
+31:40 Jupiter, Ketu, Mars, Mercury. What weekday is today? Sunday, so to speak. Hmm, let's write it down here, let's write it somewhere.
+31:47 Let's write it here. Ayyayyo, let's write it right here.
+31:54 Jupiter, ah, Jupiter, Ketu, Mars, Mercury.
+32:01 Yeah, this is the ascendant co-ruler, right? This... where did you say that, sir? Move over once. Actually, I mean, how did you say this? The second one
+32:09 you took: the Moon co-ruler. That's the Moon co-ruler. Co-ruler means the ones related to it.
+32:16 Okay, for the Moon, these. For the ascendant, what came? These: Venus, ... (?)
+32:25 Who is today's day lord? Sun, Sun. Now these, for him, will be here, so to speak.
+32:32 They show up in all the dasha-bhuktis. For him, the Mars dasha is running now, the Saturn bhukti is running.
+32:45 What's this? Mars in the star of Venus. Did Mars and Venus come? Yes. Mars in the star of Venus. Ah, then Saturn in the star of
+32:54 Mercury. Did Mercury come? He came. Then the ascendant star lord, the Sun: did he come? The ascendant star lord, the Sun, has come.
+33:02 Moon in the sign of the Sun: did he come? Then Moon in the star of Venus: did Venus come? Yes. Understood? They come like that. So now
+33:11 these, these you can plot, so to speak. There is a concept called the motion chart. Okay.
+33:19 We have a motion chart already; it's been there for a long time, since early on (?). 3001, 02 (?),
+33:27 that gentleman's motion chart. We have 9:45, right? 9:47, ah, 9:40, right? Take it from 9:30. Okay. From 9:30
+33:37 to within 10 we want to find his, for example. What, the birth time? When the birth time is. So the ruling planets came here, right?
+33:45 I'm telling another method. Oh, you're telling another method. I'm telling another method, so to speak. Now, for us, now, his sign, ah, Leo,
+33:54 doesn't change for us, right? Aha, it doesn't change, because it stays. First, always, the Moon has to be
+34:00 corrected, so to speak. Okay. Sun, Sun: in the Sun's sign, a Ketu nakshatra and a Venus nakshatra,
+34:08 both came, so to speak. Okay. We're taking the Venus nakshatra, so to speak. Why are we taking it? Ketu also came.
+34:15 Ketu also came, but Venus is a sub lord. Aha, okay, okay. Venus is a sub lord; take Venus as the star lord now.
+34:23 Hmm. So, what this means is, after this, so to speak, after this. I mean, for him it's all Venus, Venus, right? By choosing that, the work
+34:31 has reduced for us. Umm, otherwise we'd have to choose every single one. Then next we have to fix the ascendant. What's the ascendant now?
+34:41 We know it now, right? Now, from where should we search? From here itself; I mean, now we have to search from 9:43 to within 10, so to speak.
+34:49 Oho, okay, okay. First if we fix the Moon, if we fix the Moon, then Mars... is the ascendant fixed? Yes. Mars; then who's here? Venus.
+34:58 is there. How many times will we take Venus? Let's take the Sun, understood? Venus is already taken three times. How many times? However much of a sub lord he is, still, the Sun
+35:06 let's take. Okay. After that, then, inside the Sun, whom should we put as the sub lord? Okay, now from 9:45 we
+35:15 can't put the Sun in the Sun, right? He's used up, right? Then we have the Moon as an option, and Mars. So we can't put Mars, right, because
+35:23 we've already used Mars, right? Rahu: did Rahu come? He didn't.
+35:29 So in the Sun let's put the Moon. Now let's put the Moon, or else let's put Mars. Wherever we put whichever,
+35:36 it has to match in our Nadi Tatva Siddhanta, right? Yes. So now, combining this and that, did it get fixed? Umm, did the two come to one place?
+35:45 Yes. Like that, so to speak. Ruling planets: what's this? It's Kalidasa's method itself, ah, the ruling planet concept. I mean, now, sir, based on the time chart
+35:54 you're telling? Ah, based on the time chart we put up. Now, when we put it up wanting to do a correction, that this is the right birth time, we made a half-hour range and with the ruling
+36:02 planets too we confirmed it. Ah, apart from this, any time you phoned me, or messaged me about something important, sir, called me, I'll
+36:10 show you another time stamp if you want. You must have done it to me lots of times, right? There'll be messages you sent eagerly, right? Let's put that time stamp; look, for you,
+36:18 ah, is it interesting? How is that, sir? Okay, sir. Okay. Really, you think we're making some joke,
+36:26 you're thinking? Really. Aha, ruling planets are crazy, sir. Actually, now what he's saying is,
+36:33 some recent message he sent: "Sir, I got 80% accuracy. Okay. When you're a bit free, I need a validation discussion. Not urgent, whenever you are free,"
+36:41 he said. Okay, this is important, right, in his view? It struck me right away, sir. I mean, it struck me. Okay. So now his eager time,
+36:51 this, this, when did he say it? So when's the time? The 25th, yesterday itself, right? Yesterday, sir.
+36:59 Yesterday itself. So yesterday, the time came out as 2:09; I put 8 (?).
+37:06 I put Hyderabad. So what came for us? The ruling planets. Now look: co-rulers of the ascendant,
+37:15 I mean the Moon, so to speak, and another, the day, so to speak. Just an example
+37:25 I'm giving. After that, next:
+37:38 your dasha-bhukti. There's that gentleman, right, one gentleman; his name is A. V. Sundaram garu. He apparently looked at Tantra Nadi. Mantra Nadi,
+37:48 Tantra Nadi: there are three kinds of Nadi texts; I told you once before too. We know the book reading in our Yamaleela movie,
+37:56 right? The book falls from above, on the head; he opens the book and keeps reading. Yes. Like that, the same way, as he was reading, his
+38:03 nakshatra, the running dasha, all of that apparently came up. So now look: for you, the Mars dasha, Mars
+38:12 dasha, did they all come? Ah, the Mars dasha, sir. Ah, did Mars come? Did the Saturn bhukti come?
+38:20 Did Mercury, the antara, come? I mean, you're in full swing until August, so to speak, all this momentum. Ah, after that, the momentum after that, we'll
+38:27 see later. On this matter you'll work until August. You've got a bonus prediction, from your time chart. Understood?
+38:36 [laughs]
+38:37 What, will I reach 100% by August? By August we... no, not like that, let's leave it.
+38:44 Okay, okay. Ah, so, wanting to settle something: this message, this dasha-bhukti provokes it; it just told us that, did you see?
+38:52 Yes sir, everything is perfect. So now look at the degrees of the ascendant, the degrees of the Moon, at the message time. Ah,
+39:00 so these are the ending degrees, right? These are also ending degrees, so to speak; an orb of about four or five degrees. Okay.
+39:07 This Venus star lasts up to 26°, right? 26°40'. So it means close, close, so to speak. Okay, now next, these ruling
+39:16 planets again, again, the ruling planets again. Now, for you, we already fixed it, right, the Sun and all that, we fixed it, right?
+39:24 Yes. The Sun came, then Venus came. Here, Venus came again as the sub lord, did you see? Sub, sub lord Venus, Venus. All that is
+39:33 fixed. Then Mars came. In Mars, the Sun. Okay, the Sun: since we already took him here, we didn't take him here.
+39:41 That's the option we have, so to speak. Okay. I mean, nothing came in this, the ruling planets, understood? In this the ruling planets didn't
+39:50 come. Like that, many times, reading multiple times of messages like this so that it comes out, I made a long-range BTR tool.
+39:58 Oh. In this, ah, in that, what it is: it's on another laptop; if you want me to show you, I'll show it. Its
+40:06 idea is, ah, you, like this, multiple times, your message
+40:14 history is there, right? In your whole message history there'll be time stamps, right? Yes, yes. Ah, I'll generate all those time stamps,
+40:23 okay. I'll generate everything: what location I was at when you messaged. Ah, having done that, like this, the ascendant and Moon, ascendant, day lord, co-
+40:31 rulers, I'll bring all of them, analyse all of them, and create zones here. Every 30, 30 minutes there's a
+40:37 zone, right, through this? Okay. 30, 30 minutes. Ah, now for this Venus star to come, it takes the same time again; again it takes another 30 minutes,
+40:45 so to speak. Look, where is it for you here? Here, look here. Here, for example, you saw the Moon star, right? Again to the Moon star, it's this far.
+40:52 For the Moon star to come with a chara lagna, ah, 27 minutes. Yeah, so it's around 25 to 27 minutes.
+40:59 So for this time, these time zones, every, ah, ascendant co-rulers, reality (?), I mean, if we take this time, writing down who comes for us,
+41:08 I compare it with these ruling planets: which zone suits this best. Now, who is the lord for that 30 minutes?
+41:16 Where do you fix it? Yes, this 30... that's it, sir. Now if we put it for these 30 minutes, here, here one ascendant comes; here another ascendant nakshatra,
+41:23 it changes, right, every 30, 30 minutes? Yes. So I write down everything that changes, I'm telling you: the ascendant's, the Moon's, the ascendant's, the Moon's,
+41:32 the Moon's, I write them down. Using these: there's this ruling planet motion chart, right? There's the motion chart, right? The ruling planet motion chart: they're in this, right? For that particular
+41:39 time, for what we fixed, I write it down like this, multiple times, multiple zones, beforehand.
+41:45 Having written that down, I take all these conversation time charts like this, and taking them, whichever zone matches the most,
+41:53 based on your messages, I finalize it. Aha, okay, okay, okay, okay. Taking only one time chart and correcting
+42:01 it is what astrologers generally do; they don't take that many, understood? But me, I'm a bit of a timid one, a coward, so I take
+42:08 more. I accumulate all of them and finalize why I should take this one, and why I shouldn't take another zone.
+42:15 I mean, if they don't have a birth time, or if it's "this day", with a two or three hour difference, or otherwise that range is large. Yes, as you
+42:24 said, suppose there are four ascendants, five ascendants: then, taking five or six months, slowly like this, your conversations, I mean, when your emotion
+42:32 comes up: ah, "mamidi kottindi" or "nene mamidi kottanu" (?), there'll be something like that of yours, right? Based on those, so to speak, the conversations,
+42:39 when you felt something, only when you felt it. If you didn't feel it, then that shouldn't be taken.
+42:44 Yes. Just the ruling planets: as they repeat, as they repeat, that repetitive planet, yes. If this one comes, then Mars and Venus
+42:52 come; if this one comes, Saturn comes. Like that we can catch them, so to speak. Like that, catching the strongest planets, we can also catch the dasha-bhuktis,
+43:00 catching the dasha-bhuktis and stars: why are they coming? Are they coming because of the dasha-bhuktis, or is his ascendant star lord really the Sun, or Venus? Like this we can finalize it.
+43:13 Based on which came more times, based on which came most often, we can fix its priority order correctly. Sometimes how it is for you: Virgo ascendant, then in Leo ascendant,
+43:22 both have a Sun nakshatra. The Sun comes there, he comes here. Well, the Sun and Mercury keep coming; they keep coming together, so to speak. Then when they come, will you fix Virgo
+43:29 ascendant, or will you fix this one? Here's another offer for you: in Scorpio ascendant there's a Saturn nakshatra; in Capricorn
+43:38 ascendant too there's a Saturn nakshatra; in Aquarius ascendant too there's a Mars nakshatra, right? In Capricorn a Mars nakshatra, in Scorpio a Saturn nakshatra. So then will you put Scorpio,
+43:46 or will you put Capricorn, Aquarius? No: in Capricorn and Aquarius the Dhanishta nakshatra came. When for both the ascendant star lord and the sign lord are the same,
+43:53 which of Capricorn and Aquarius will you put? Likewise, Aquarius ascendant and Pisces ascendant have a Jupiter nakshatra point; this is a split pada (bhinna pada), right?
+44:01 So therefore, then, here, here, a Saturn sign with a Jupiter nakshatra; there a Jupiter sign with a Saturn nakshatra. They're close to each other, so to speak.
+44:08 It keeps turning up within a 30-minute range. So then which will you fix? Ah, so sometimes the Moon star keeps conflicting. Then which
+44:17 will you fix? I'll show you separately on my laptop, not on the Mac but on Windows, how many I've done. I can't show it in the video, but personally
+44:26 I'll show you. How do you do all that, sir? It's sandhi time, right, just as you said? Yes, that's why there's the priority order, so to speak. Like this, we, which one, how: the one that came as sub lord
+44:34 should be taken as first priority. Now, since you've understood KP, if I take ruling planets you'll understand. If you didn't understand KP, all this would have been a headache, like scratching your head. Ah, okay.
+44:44 That's why KP first; that's why I taught KP first and am teaching BTR afterwards. 3023 garu, is your time up?
+44:52 You said two hours, right? It hasn't even been half an hour. Okay, is that it? No, no, sir, I'm listening. Okay. Is it interesting? Is this too
+45:00 boring? No, no. This, I mean, all these videos are already covered, sir. So, okay, sir. Then that's it, it's done, sir. That's all, sir. Just, that's
+45:08 it, if there are any more doubts. One more thing: you also told one in KP, right, in the video? Is there another one? There's another one: there's another, gender-based rectification method. Ah,
+45:16 yes, that too is a lifting from the internet. I mean, lifting, copying I mean, copying; it's all copying, sir.
+45:24 In astrology nothing is one's own; it's all copied. Yeah, whatever seems good, we copy it. Inspiration, for us, inspiration,
+45:32 inspiration, inspiration, sir. Crazy (?), again, that's it, that's it. All credits to the rishi.
+45:39 That's why no name to me. Umm, and
+45:46 now, in BTR, sometimes when Virgo (?) ascendants come up, how do we correct that, sir?
+45:53 Like this: putting up the ruling planets, putting the ascendant degrees and Moon degrees, if not once then putting them multiple times, and again afterwards in event verification
+46:00 too it'll get caught, right? Okay, you don't have time, sir. Two: you have a sandhi lagna; tell events for both and see. Only one will suit you well. If both matched,
+46:08 then you'll have more work. Aha. Again, with the ruling planets, slowly, again taking some time, a month or two, slowly, events, I mean day-to-day activity,
+46:17 like that. It's not a diary, it's emotion: "I saw a sparrow and felt happy".
+46:22 That's emotion, that's all, understood? What you feel, like that.
+46:30 Okay. Now, generally, which sandhi lagnas are complex, sir? You said that then. I showed you now, right: the ones that come in Capricorn and Aquarius
+46:38 are complex. Then in Virgo, here, for us, both have the same nakshatra. Then on top of that, there are split padas: ah, Jupiter, Mars,
+46:48 Sun: when those three nakshatras fall, automatically... Sometimes the birth nakshatra: now, suppose he was born in a Saturn nakshatra, sir,
+46:55 the native; suppose he was born in Sagittarius, a Jupiter sign, in a Jupiter ascendant. Will you take Sagittarius ascendant, or will you take Aquarius ascendant,
+47:02 or will you take Capricorn? Some are saying Capricorn, sir; some are saying Scorpio; some are saying Sagittarius.
+47:08 [laughs]
+47:09 Okay. The highest I've done is about nine months, for one gentleman; I'll show you that too. Nine months. I think they also use this one, right? The question,
+47:17 asking that... Ah, good point, sir, you reminded me nicely. I have one, sir; I already have,
+47:26 based on the ascendant degree, one... this was written by the same Subba Rao garu,
+47:39 characteristics, traits, in a way that's told based on the degrees of the ascendant.
+47:47 Using that too you can do it. Now for you, Aries ascendant; now let's see what he says. Now his degrees: the 28th degree, so to speak, the ascendant. Okay. The 28th degree:
+47:56 he has to agree, so to speak; by our reckoning, it's 28.
+48:02 "One who does not tolerate enemies, cruel-minded." Seems it fits you well, sir [laughs]. "Multi-talented, one who has humility."
+48:11 Ah, this, sir, this, sir: you said, you said 27. You, 27, ah, some minutes, apparently. It doesn't matter; it'll be the same, so to speak.
+48:19 47, ah, sorry, it's 47, right? Why did we come to 27? Ah, no, sir: 27.28, so 28, right? This. Okay.
+48:26 Ah, that's the ascendant's degree, so to speak. Now look, the 22nd degree too will fit you, because Mars is there. Aha, this too suits you: "imaginative, much
+48:34 travelled, far-sighted, capable, humiliated (?)". Did they match? Ah, far-sightedness, sure, I have that, sir; no evil thoughts.
+48:43 But it's dooralochana (foresight), sir, not duralochana (evil thinking); here it's as it is. Okay. You've told it based on this too, sir, that
+48:51 When doing the ascendant degrees, ah, you can use this too as support. Like this, if it said "fool" here, many people have said "yes, that's me"
+48:58 too; there are people who said that, so to speak. So, as it is. Okay, okay. So with your ascendant degrees, every
+49:06 planet you have, you can also check it with the lordships, so to speak. You can also catch what kind of results they're giving. Now there's Mercury:
+49:13 ah, he's in the 11th. So based on Mercury being in the 7th degree of Aquarius, based on the result he gives, now we can judge these two combinations,
+49:21 so to speak. So [snoring] now, like this, like this, there's "imaginative", imagination, right? This has a link here, the 7th point. Ah, if we merge the two: "one who attracts
+49:30 people". What that means is, you try to impress, understood? Combined with your imagination, understood?
+49:38 So therefore it means that imagination, travel, presentation, all these you can do well, so to speak. Yes sir, travel, definitely, a lot.
+49:46 Yes. Like that, how the Mercury-Mars combination works; if it were retro, suppose, you could reverse it and tell. Okay.
+49:54 Understood? If exceptions don't come... it seems there are exceptions in it, right? Ah, there are, sir. Otherwise we can tell it in a different way,
+50:02 so to speak. You can try like that. Just some, like this, combining these three, some, on the birth time, ah,
+50:09 an effort, pulling it along like that. Really, birth time is one thing each, sir: retrograde is one, birth time is one. All such things we have are
+50:18 plus points. Birth time is really super for me, sir, because if we put that, that wrong, however much we
+50:27 say, however many things we say... Yes, exactly, it won't match. That, this mathematics, we can't tell by feeling, so to speak, that's all.
+50:36 Now, mine, normally: in this software it's also important that you put the ayanamsa, right?
+50:44 The ayanamsa too, the ayanamsa too, so to speak. Ah, now you've put KP New; you all said so. Okay. Actually nothing went wrong anywhere; it's perfect, sir.
+50:52 Yes. For me, they had 10, 9:55 written down when I was born, and I, for my whole life, for 29 years,
+51:00 I, ah, sorry, 39, nearly, I've been looking at everything thinking it's Taurus ascendant. Okay, okay. Aha.
+51:07 Okay: "it's Taurus ascendant, right? It's Taurus ascendant, right?" So, that. So in some places the Moon is in a Ketu nakshatra, so to speak. I mean,
+51:15 yes, yes. Ah, there's a nakshatra sandhi, so, ah, if you look in the Raman method, put Raman... why, it's the same, the same; even if you put Lahiri, the same comes.
+51:22 Ah, that. So then, when the ascendant and Moon nakshatra themselves change, then however much we tell from the horoscope, how will it match?
+51:31 So, how important the ascendant is. Yeah.
+51:42 That's it. Birth time: the credit goes to all the elders, all the elders.
+51:51 Yes. So how did you find it? The class is over, sir. As for the class, if you ask any more questions, questions...
+51:58 The ruling planets are actually shocking, sir. Ah, the ruling planets come... As true as the fact that we were born, the ruling planets at our birth
+52:07 should show it every time, right? I mean, based on this, ours, this much, it gets confirmed again, sir. It's actually very crazy, sir.
+52:15 Yes. Every time I imagine a heroine, her planetary position, the same one comes, so to speak, understood? So, okay, for this heroine
+52:23 we can note that this star is connected. Whenever that topic comes up, if we put it up, then all those ruling planets match, so to speak.
+52:31 Generally this, these feel really good to me, sir. I mean, normally, when we talk like this, ah, Vedic feels like it's all
+52:38 written in a book, it feels like that; KP, though, is like an unknown secret door, all these ruling planets
+52:46 Yes. How the ruling [snoring] planets came about, Krishnamurti garu didn't say anywhere, so to speak. I mean, what I realized, after reading multiple books, like this,
+52:53 I realized it; that's it, so to speak. This, that's what feels very crazy, so to speak. All this feels like magic.
+53:01 Like magic, yes, exactly, it feels just like magic. All of it works automatically for us, if you are in the right...
+53:07 It mostly works. Even if something of ours doesn't work, to make it work we've kept all the other doors, right: the Nadi Tatva Siddhanta, all that emotion, all those
+53:16 ruling planets. Now, where many people go wrong here is: now, why shouldn't we take Ketu instead of this Venus? Ketu also appeared, right?
+53:25 Yes, yes, we can take Ketu, right? But, ah, if we take that, then this won't match, right? So it is a filter for us, understood? The Nadi Tatva
+53:33 Siddhanta filters for us: "No, no, dear, you check once more," it says, and gives us a reminder. So therefore we go back onto the right track and, instead of a wrong one, fix the right birth time.
+53:44 In many research calls too I've fixed it many times, right? You've seen it, right? Yes, yes. In every one, almost every one, very challengingly, in little
+53:52 time, I mean within a short time, we have to fix between two ascendants; things like that come up. Then, combining everything, we estimate
+54:00 it. That's why, for some people, when a lagna sandhi comes, actually, ah,
+54:08 they feel very irritated, sir. Okay. What to say?
+54:14 [clears throat]
+54:14 It's not that... Why is nobody talking? 2952 garu, how did you find the class? Unless it's played once more,
+54:20 you'll say you won't understand? Ah, that's it, sir. Only half, half of it went in for me. I'll watch it again in the recording.
+54:28 Yeah, yeah. Actually,
+54:35 no words (?).
+54:38 [laughs]
+54:39 How at all, sir? How did they at all... how do the planets at all... I mean, we, actually we are nothing, really.
+54:46 Yes. These ruling planets, all these being visible means it's like we're seeing God every day. You, I mean, yesterday Vinod garu said...
+54:55 I mean, it might have seemed simple to you: the prediction you gave me, so to speak, using ruling planets and the KP time chart.
+55:03 One week before, you said, "Until the last minute you'll keep saying I won't go, I won't go, I won't go, and then you'll go." Literally, yesterday's morning flight:
+55:10 even until an hour before leaving for the flight, there was no situation for me to go, even though I had a ticket. Hmm.
+55:17 Still, I went. So that's the level these ruling planets and predictions are at; minutely, yes, they work.
+55:26 So we can't offer that as a service; please, nobody ask. Sir, can this be done in KP too, completely in KP too, sir, the birth time coming out like this?
+55:34 Ah, here, there's the motion chart, right? You have to choose this; ah, you have to keep choosing these like this. Ah, I already explained it in class,
+55:41 but there's my Windows machine; I'll show you from it. As soon as this, this is over... how many I've done, there are a lot, so to speak. Actually, if you type BTR, actually
+55:49 hundreds and hundreds come up on the local machine: the private consultations I did; we did a lot of rectifications, so to speak. For us, what's available to use regularly,
+55:57 about that I know a bit. So I asked my guru to test me, so to speak. What I said was, "Sir, you must test me; you must give me charts, sir.
+56:07 Only if you give me them will I do it well and come back to you, sir; otherwise I'll test you too, sir," I said, and pestered him,
+56:14 so to speak. That got my sir annoyed; well, that's another matter. But, if we're telling others, then we need to be very
+56:22 accurate, and saying the problem is ours, from there we did a lot more exploring, so to speak, like a frog getting out of the well. What all
+56:31 is there altogether! Actually on the internet there are lots of articles, lots of all that, so to speak. Like this, there's also something called the BCP method.
+56:39 With this too we can, for such-and-such event, like this: which navamsa ascendant fits, for which ascendant your planetary position... Now, for example,
+56:48 for him, you said the 39th year, right? Who is the lord of this 39th year? He, with the 5th lord,
+56:56 is together in the 11th. So the 39th year is a good year for him, understood? The 38th year
+57:03 is a good year. Okay. Now if we take it like this, for us... I mean, how did you say it, sir? I mean, 39 means, means...
+57:10 Ah, did you say one about Mercury? That's it, the same, just like that, so to speak. Okay. Does this go back?
+57:21 Here, now it's 37, right? So, okay, it's not changing it. It should change. Let's tell it this.
+57:29 Let's get it fixed. So 37: now let's come to 37. Wait, this is 37, right? So
+57:36 from 37, I mean from 2024, ah, your level and progress is different, understood? Because, how to say,
+57:44 here's your Mars, on the ascendant, right? Yes. This Mars is in the star of the 10th (?). Okay, okay. So this is great. That's why Aries
+57:52 ascendant: confirmation again that it's Aries ascendant, understood? The same method can be applied in the navamsa too, so to speak, again to rectify the navamsa:
+57:59 the BCP method. After that, next, the year before: the year before 37 is the 36th year, right? In this 36th year the native
+58:08 got loaded with responsibilities; lots of irritations and annoyances came, understood? Everything: paying off loans and such, if anything was pending, solving it,
+58:16 feeling "what is this unnecessary tension": all these happened, so to speak. I started the house then.
+58:22 Ah, so this. Then, the year before that: why did he start? Before that, things worked out a bit, a bit, understood? Because the year before, 22 (?), was good, because
+58:31 that's the 11th house. After that, 21 is also fine, not bad, so to speak. Okay, okay. Parivartana yoga
+58:39 follows, so 21 is also good. 20, ah, 20 is also fine, but look at 19: it operated in the 8th house. There, Saturn
+58:47 and Mercury came; you had to get through (?) only with some twists and turns, so to speak, understood? Yes sir, I went to the US then; the projects there got a bit big,
+58:56 So like that, like that, this BCP method here in the D1, and then now this same one we, here in the D9 too, they apply the BCP method,
+59:03 so to speak. The same BCP method: now for this Sagittarius ascendant, the 1st house is how much; going year by year, so
+59:12 in this 9th house, there, whatever house we just saw, that house again, the same: if this is 1, then again the 13th year
+59:20 comes. Like that, like that: what does 2019 become? Which house does it become? What's the combination there? What's the planet there? Like this, like a dispositor theory,
+59:27 they use it and keep predicting. We don't do all that, but I'm telling you: it can be corrected like that too. I mean, even if we know a lot, what actually works...
+59:35 Once, once: did you put up this D9, sir? Ah, I put it, sir. Now, for him, in the 39th year, the 8th house is operating, we
+59:43 thought, right? It operated there; here too, here too it operates. Here, the 39th year: what comes for us in the navamsa?
+59:50 Same, same, that's it. Now, now the 8th house... now it's not 39, right? That 39 means here it's the same 3rd house, right? Now there
+59:58 too, look at the 3rd house in the navamsa. Sorry, the 29th year: which one was it, earlier, where the 8th operates? That's 2019, right?
+1:00:06 Ah, in 2019 which year came? Ah, in 2019, look at the 8th house (?) in the navamsa. The 32nd year.
+1:00:13 The 32nd year. Ah [clears throat], in 2019, in the navam(sa), ah, look at the 8th house in the navamsa: the 8th lord is in the 9th. So is that trouble or not?
+1:00:21 Did it match here too? In the D9, the 8th lord being in the 9th isn't good at all, right?
+1:00:30 Yeah, here too there's trouble. There's trouble in both, so he'll definitely have trouble. Taking that one: the plot, a bit of litigation happened, and again it
+1:00:38 was sold, some six months. Okay, but here now he's saying it's a plot and all that, right? I mean, the 4th house should operate, right?
+1:00:46 Oh my, I'm not looking at all that now, so to speak. Actually, I'm just telling you that something like this exists. All this, if you want, type "Bhrigu Chakra Paddhati"
+1:00:53 and read whatever information comes up. I'm not practicing it; I'm just telling you that something like this exists, that's all.
+1:01:01 Just an introduction to BCP, that's all. Even if you put it like that, he's following the 4th, right sir? The Sun and all that, you can relate them, sir. All these: "use
+1:01:09 intuition", it says. As soon as it says "use intuition", my fuses blow, so to speak. Ah [laughs]. So we don't have that, right? That, that's the problem.
+1:01:18 Okay, okay, tell me. Ah, I have two or three more doubts. Ah, tell me, tell me.
+1:01:25 Here you've put "Upagraha", sir. What is that, sir? Yeah, that too is a topic like this, right sir? Upagrahas are related to the Sun, the Sun, right? If in the Sun's nakshatra
+1:01:34 it is, like that, nine, yeah, various kinds of upagrahas exist, you know that, right? When you can't give a prediction, they said to take the upagrahas and predict, right, in the classics?
+1:01:42 Ah, correct, but in that there's only Gulika, Mandi, and something else, sir. There are many upagrahas, right? Ah, yes, yes, there are.
+1:01:50 We've calculated all of them and put them here, that's all. Aha, okay, okay, calculation, okay. That's one, sir; we just calculated and put it there. If it's useful to you, use it. Karakas too
+1:01:58 we've calculated. What are karakas, sir? I mean, the planet with the highest degree is the Atmakaraka.
+1:02:06 Atmakaraka, Amatyakaraka, Darakaraka. Did you consider Rahu and Ketu, sir? You didn't, right, in this?
+1:02:14 Aha, their controver(sy)... this is a big controversy, a controversy. Well, when Rahu and Ketu have equal degrees,
+1:02:22 how do they consider them at all, sir? When they start with degrees, how will they consider? Rahu and Ketu will be at equal degrees; when that's so, how will they start? Tell me. That's
+1:02:31 not the logic, right? Now, sir, well, Saturn, Uranus... Saturn, sir, Uranus, Neptune, Pluto,
+1:02:38 they don't take those, sir? They don't. They did it taking only the seven planets, right? We don't know Jaimini either, sir. We're weak in that.
+1:02:47 Argala, did you show any argalas in this, sir? Bhavat bhavam? Ah, argala: this, this too is a Jaimini concept.
+1:02:55 Okay. If you have any ideas, I'll build a page for you. Anyone at all, tell me.
+1:03:03 Tell me what your ideas are. Tell me what your input is and what output should come; we will build it. For that, we've also put it here on our website.
+1:03:12 You imagine it; we'll slowly build your imagination. That's tools for us. Yeah, tools: if something like this works, we'll put it up
+1:03:20 on the website. Sir, for me, coming to this class, "arey, Vignana (?)", whatever, saying that,
+1:03:28 I'm learning what I don't know, sir, actually. Okay, okay. Today the target is to lift me up (?).
+1:03:35 Sir, cinema (?)... for me, there are so many concepts; there's actually this much, this much knowledge. Yes.
+1:03:43 There's a lot. Whatever is a plus, we should grab all the pluses and go. There will be a lot more to learn, but time... our lifetime won't be enough either, so to speak.
+1:03:52 That's impossible. That's it: looking at some of these, it gets very demotivating, sir. We don't know anything; how much more will we learn? Actually, life is very short.
+1:04:00 Yes, that's it, that's it. In one of them, Guruvu garu said, "your whole life, what you need to know, you won't know;
+1:04:07 there's no end to astrology; you have to keep learning". That's it, that's it. So without ending it, ending it,
+1:04:13 ah, keeping whatever amount we need, we should mainly learn what we need, sir. For learning that much, our life may not be enough; that's why.
+1:04:21 So the forest is vast, but finding a guru gives us the chance to go in one direction.
+1:04:28 But definitely, that's a good, good one. Otherwise, now, you learned for 10 years and it didn't work out, right?
+1:04:36 Nothing happened, sir. That's why I got confused and quit, sir. Compared to that, it worked out in one year, right? Perfect. Ah sir, it's been super, sir; it worked out.
+1:04:44 Perfect, precisely. Now this one year, let's nicely bring all the charts, as many charts as there are. Ah, if you don't have charts,
+1:04:51 we'll keep going with celebrity charts. We still have two topics: the compatibility topic and the muhurtha topic.
+1:04:59 As far as I know, that'll be a waste of time; I mean, I won't teach that either, sir [laughs]. Ah, those two are very important; money
+1:05:07 comes in if there are clients; you have to tell carefully. That, sir: to read a horoscope, you have to sit them down for three or four hours and tell "this happened, that happened". For (?)...
+1:05:16 I mean, "son, here, do it at this time", you have to tell. That's the main thing, sir, it's very important. In that, all the basic classical rules
+1:05:23 I'd like to teach, and also my customizations. So at every moment too, in however little space too, you
+1:05:31 will find chances to set a muhurtham, so to speak.
+1:05:34 What are the classics... "I have to go open a bank account, will it be good?" Something small, for small things, understood? Aha, okay, okay, even for small things [clears throat].
+1:05:43 For small things there's no space; we can create space [laughs]. Yes, that's some film dialogue.
+1:05:49 [clears throat]
+1:05:49 Even if it's not there, we can create it, we can; we can do it within what exists; we perform within what exists.
+1:05:59 One more thing, sir, one more doubt. Are the doubts on BTR over? Ah, BTR, as for BTR, the doubts are over, sir. Ah, did you like the animations? Was the presentation good?
+1:06:08 The presentation was finely chiselled, sir, like this. Okay. Ah, the colour combinations, did you specify them? Amma, we have a design system; it has to be done within that design system; don't do more or less, that's it.
+1:06:17 Aha, okay, okay. Yes [snoring], let's leave it.
+1:06:22 One more thing, sir: the other day we were watching an old video of yours, in the morning, sir, the old research calls. Then I got a doubt: you, sometimes,
+1:06:31 in some research calls, I mean... What, here in BTR there are no doubts? BTR, BTR, there are no doubts in that?
+1:06:39 Okay. Does nobody else have any doubts on BTR either? Sir, they won't come today, but they'll come, they'll come again. Okay, fine, fine. So what's the next class, then?
+1:06:48 Next week is Sunday, so next week again they'll get raised a bit. On Saturday, shall we discuss BTR again, or shall we discuss some other topic?
+1:06:57 In these, I mean, I can't think of what to discuss, sir, because you gave us the machine, and Guruvu garu, he gave the table.
+1:07:04 That's it: we just click and use it. I mean, if we take some charts and do BTR, we'll get it, we'll understand. I mean,
+1:07:11 we did it, right? Now with this clock symbol it comes for us. Apart from that, if we try with ruling planets,
+1:07:19 Yeah, yeah, you can do it with ruling planets, sir. Okay, okay. That, on our own, for that, like that. For me, like this,
+1:07:26 like a machine, like a watch on the wrist: as soon as I tap like this, my emotion gets recorded. I want to make that, for BTR,
+1:07:34 understood? Just, as soon as you tap like this, ah, inside it you can show a rating, you can show the reason, just like a voice command.
+1:07:41 If you give it to ChatGPT, it stores it and keeps sending us the data, so to speak. As it keeps sending, over time, in six
+1:07:48 months or in one year, wonderfully, his birth time gets automated: he rectifies his own by himself. No need to ask us at all.
+1:07:57 I want to automate it like that. IoT, IoT, Internet of Things. With what exists, there'll already be some app, right, that they use? There's the Apple Watch or something, right?
+1:08:06 A mobile app; we can do it in a mobile app too, right? We can make a small, what do you call it, a web app; small, small apps
+1:08:13 we make, and with that he just taps; as soon as he taps, red, green, yellow show up. Whatever his emotion, his feeling is, just
+1:08:21 click and leave it; if he wants to say something, say it in a voice message, that's all. Umm.
+1:08:28 Then, you must have done BTR for some chart, right? You... that, the one I did, I'll show you; it's on the Windows machine, I'll show you. In this class
+1:08:36 I can't show it. For example, like this, someone gave a half-an-hour range; I've already done it, sir. You watch these videos; I've already made BTR videos.
+1:08:44 They're already in this; if you type BTR, they'll come up. In those I do the same thing, showing you examples too. Okay, suppose you typed BTR; what I
+1:08:52 did, again the same, the same effort; what's to be done? There are 10 examples, 10 examples. Yes, this is very, very good, sir, this video. I followed this
+1:09:01 and rectified my mother's, so to speak, long back. But now it has become very easy, mind you. Ah, now look,
+1:09:08 inside this, an example: "as per hospital mentioned, 1:26 (?); it could be between 1:50 to 1:50 (?)".
+1:09:17 Understood? So the range is one hour, so to speak. So this native also gave some events, so to speak. Now, based on what that native gave, we used the ruling planets motion,
+1:09:26 how we selected the sign, the sub: ah, the same as what I just told you, so to speak, the whole example.
+1:09:35 Which zones came, and from those zones what did we take? Again, next, another chart, another
+1:09:43 situation: like that we gave 10 examples, so to speak, all in one, did you see? Okay sir. You can happily watch it. These are on my local machine
+1:09:52 too; I'll show you. Is that all then? Sir, you mentioned these nashta jatakas, right? Well,
+1:10:00 for them, roughly: now, people in the old days didn't use to write it down, right sir? If we wanted to find it, is it possible to find it?
+1:10:08 See, it's like you doing a big research project. Actually, after all, what will you tell after finding it: that's the question, right? For that, if you take a prashna, it's done, right?
+1:10:17 Aha, understood? What question would they have? If you take a prashna for that question, it's done. Now, a 90-year-old man asks; what will he ask? "When is my granddaughter's wedding?"
+1:10:25 he asks. Isn't their chart there? Theirs is there, right? If they look at it, it's done, right? Or he asks "how will my health be?" If he goes to the hospital,
+1:10:33 it's done, right? He asks how many days he has left: we don't tell that, right? We don't tell that. Well said [laughs].
+1:10:42 That. So what there would be is the question, so to speak. Depending on the question, depending on the requirement. Or else, "I'm 90 years old; I now want to
+1:10:50 invest 10,000 crores," he says: yes, definitely we will work on it. Compared with the investment they make, what they give us
+1:10:57 is no big deal, so let's achieve whatever it is. Then, the requirement, the demand: based on that, based on that, the procedure
+1:11:06 we choose, and move forward; we'll catch that this is the birth time.
+1:11:14 Hmm. Nothing else. That's it, sir, this.
+1:11:22 Yeah. If the questions are over, say ta-ta, bye-bye. Questions: this, you said in some videos, sir, looking at progressions, suddenly something like "you'll have
+1:11:31 interest in studies", or "you'll study well", or "you've become intelligent"; you said that,
+1:11:38 sir, you, I mean, in some videos. There's some focal planet; there, an aspect falls with that focal planet, so to speak. I mean, now you have Mars in the ascendant; ah,
+1:11:46 suppose a good aspect formed with Mars: will it definitely give significantly or not? Whatever the aspect is in life (?), but when there's a significant planet,
+1:11:55 it gives significantly, right? Do you have any chart, or are you just asking the question, sir? Ah, I didn't bring a chart, sir. That, on my
+1:12:03 chart, tell me. What's there? It's not like that, right? Your question now: ah, ah, for you now an aspect came with Mars, sir. Now, in which year did it come?
+1:12:11 Look here: in 2020 the aspect came. Is it an excellent aspect or not? 10th house sextile. After 2019, from 2020, 10th
+1:12:19 house sextile Mars: I mean, in the ascendant, the ascendant lord, forming Pancha Mahapurusha yoga for us, Ruchaka Mahapurusha yoga, and it goes excellently. Is it great or not?
+1:12:28 Ah, great, sir. When it's great, should your life go up some five times compared to before, or will it go down? It should go up, sir, because then,
+1:12:35 exactly at that time, I left full-time and came completely into freelancing. Ah, you shouldn't take it as the full-time job being lost; that thanks to freelancing, four times more
+1:12:42 you'll earn, is what you should say. Okay, okay, got it, got it. So for us, like this, the significant planet we have, significant,
+1:12:50 this coming is important, significant. Ah, for someone an accident happens; there's such an aspect too, understood? "Ayyo, from here on you'll realize
+1:12:58 things", or else "what should have happened in a big way happened in a small way". Again there are the dasha-bhuktis, again, understood? Ah, what dasha-bhukti came? Mercury came.
+1:13:06 Mercury is connected to the... again to Mars? Yes. Again, did that Mahapurusha get activated? Then definitely, even if one half goes, the other half at least
+1:13:14 should twist and turn and lift you up, or not? It should lift, sir. Correct, exactly at that time, exactly, it started from 2018 itself; exactly at that time to the US
+1:13:23 I went. You quitting full-time is also a sudden event, sir. It's not sudden at all, sir; I mean, they had already squeezed you, sir, before that. Look,
+1:13:32 Venus square Saturn happened, understood? They raised the frustration, understood? It means he took the decision that "all this isn't for me". Before that,
+1:13:40 look at what happened: the aspect, Mercury, the 3rd and 6th lord, right? So he gives suffering, right?
+1:13:47 Yes sir. I mean, what it was: I was with one company; I'd gone on an L1, and it was real torture, so to speak, the manager.
+1:13:54 Like that, you have to form the story based on what happened before. Hmm, okay, okay. "Why this? None of this seems like it'll work out for me,"
+1:14:01 saying that, I changed company, so to speak. I mean, I came over to a different H1. I came from L1 to H1, because L1 means you're employer-dependent (?), right? If the employers say sit,
+1:14:09 if they say sit, you have to sit; if they say stand, you have to stand. Okay, okay. So H1 means if we don't like the employer, we can change, so to speak. Okay, nice.
+1:14:15 So that's why. A small doubt that comes here, sir. Yes. Sir, in BTR, sir, now we, now normally, now, half an hour like that, there
+1:14:23 won't be any, sir. Now the dates of birth that come are mostly correct, right? I mean, should we take about 10 minutes back, sir? Is there also a chance of taking it forward?
+1:14:32 I mean, it depends, sir. Now, ah, if my grandfather, an astrologer, stood there and had it written, he'd have it written as soon as the head came out, right?
+1:14:40 Understood? He wouldn't keep quiet at all. So the first breath happens after that. For such people, and now for US-born people too, all of them, it keeps going forward by two or three minutes
+1:14:48 when we adjust the birth time. If it's not like that, sir, if they wrote it slowly, if someone wrote it later, then it goes back by five minutes, 10 minutes. Okay, okay. The nurse wrote it, the doctor
+1:14:57 wrote it: I mean, they write it after it's over, after it's over, right, generally? No, sir, my mother saw it: exactly 3:14 was showing on the clock, apparently. I mean, now,
+1:15:06 while the delivery is happening, why would your mother concentrate that much, tell me? The birth time, slowly, minutes later; the breath too came (?).
+1:15:13 I mean, in BTR do we almost always take it back, sir? Front, I mean forward, we go less? We do go forward, sir: if it's about five minutes we go, but if it's 15 minutes we can't go, right?
+1:15:22 Ah, back, it can come up to about 10 minutes; ah, back, it can come up to 10 minutes. If it has to come even more, then depending on the circumstances, look again and
+1:15:30 do it. There are the ruling planets, right? Again, at that point, again, you have to pull out the ruling planets: the weapon.
+1:15:35 [laughs]
+1:15:35 It's not that: the magic inside, you have to pull out that magic one. Magic, that. So you said nine months earlier, right, for one
+1:15:43 person: for him, for him, why did it take that much time, sir? The ruling planet... I'll show that, sir, I'll show that. He sometimes wouldn't message even when told.
+1:15:52 So it isn't done just by paying money, right? For birth time rectification, one has to message too, right? [laughs]
+1:16:02 Sir, actually, when should the birth time be noted, sir? You're saying each one follows something different, right? Look: whatever the doctor tells you, note that down.
+1:16:11 No problem. That's the astrologer's problem, not the mother's or father's problem. Okay.
+1:16:17 Okay. We need to have a job too, right sir?
+1:16:21 [laughs]
+1:16:22 Okay. Yes. So, was it good? Did you like it? A new topic, a new
+1:16:32 topic? Not the topic, but actually it was mind-blowing. Garu got stuck (?); they were struck with wonder and astonishment, the ruling planets.
+1:16:40 Even after being struck with wonder, they might still say it's boring. Looks like you're targeting 3023 garu
+1:16:48 today. That's it, that's it. I'm listening, I'm listening. Tell about yourself (?). For these two or three months, maybe it's better if I stay silent.
+1:16:58 What's that, sir? It's only when you talk that it's a bit of fun, right? Only if I talk do you get a chance to have a go at me again, right?
+1:17:05 Emotional damage. We don't target (?)... it's not aimed at anyone; just...
+1:17:12 It isn't, right? One doubt I get is: now, for anyone, we predict that the next two or three months or the next one year is going to be like this, right?
+1:17:20 They'll be careful. Yes. However careful one is, what's going to happen will happen, right sir? We can't control that at all. Yes. Astrology is no use for that, right sir?
+1:17:29 It's no use for that. And we, okay, "it'll be like this", okay. Now we're learning; it's all fine, but how do we use
+1:17:36 it, tell me? That's it, sir: we'll play the same animation again if you want, understood? A road full of potholes means we go slowly.
+1:17:44 Ah, go slowly; what's the hurry? Do you have to run, or not? Actually, the tension is that in that bad time itself, the negative person inside us comes out,
+1:17:53 the real one comes out. Then you get learning, learning chances, so to speak. You get a chance to learn again from mistakes. Again, afterwards, to perform
+1:18:02 you get a chance, once the good time comes. In the bad time we learn well, madam, no problem. Bad time teaches a lot.
+1:18:09 We noticed one more thing too, sir; I noticed it. What it is: like, generally it felt to me that for us, whether it's bad time or good
+1:18:18 time, again the screenplay: bad, I mean good, good screenplay. Ah, if a good screenplay falls into place, again
+1:18:26 it gets experienced differently: that's one. Next, for us, because of actually knowing this whole subject too, the decision you take,
+1:18:33 I mean, you have some stability, mental stability, change (?). Ah, since there's that blessing, you get a bit of exemption, knowing all that; that's what it feels like too.
+1:18:43 What is astrology? Today: time sense. Like common sense, astrology is a time sense.
+1:18:52 Garu, will you put up my chart once? "I'll put up the chart," you said, right? You give the chart but don't ask any question, right? There'll be questions in it. Meanwhile, your
+1:19:00 question I'll ask; you keep putting up the chart. Tell me, tell me. You, you said "bad time", right?
+1:19:08 Vinu garu (?). Bad ti... bad time. Okay. How the bad time is for you: okay,
+1:19:16 "the sun is beating down on you, so shade will come soon; you have to wait": you say it like that, right? So, some situation, how
+1:19:24 will it be? "Sir, for 10 years I've had only bad time" is there by default, or "sir, for 20 years, my whole life, it's been that time only",
+1:19:31 that question too comes. Chowdary garu, tell me (?): in such a case, what should be seen as the shade? I mean, what is it, how should we see it?
+1:19:40 Here: 25 years, 20 years, it's the Venus dasha, sir. For bad time the maximum is the Venus dasha, 20: the biggest dasha among the dashas is 20 years, right sir? 20
+1:19:49 years, beyond that... Suppose they said there's been 20 years of bad time; then what will we say? We have to tell based on the chart, understood?
+1:19:56 There's a big difference between really having a bad time and thinking that you have one. So we have to understand what that is, right?
+1:20:04 And one more thing, sir: many people, when it's good time, say "good time has come" and sit at home, right? If they don't do anything, they say "it didn't happen for me". Like this, things don't work for them, right sir? All of it, a lot,
+1:20:12 analogies we covered long ago in the intro itself, so to speak. Yes: if we, we work, the planets work for us, they work. For one who doesn't work, they don't obstruct anything;
+1:20:20 they obstruct the one who works. At most, for one who doesn't work, apart from spoiling his health, what else can they do, tell me? Poor fellow, he himself has decided to do nothing; for them
+1:20:28 too there's no work, right? Yes, sir. Vinod garu, 0303, sir. Yes, sir. 03, not this one.
+1:20:37 03, male; 03, male. Okay, sir. Yes, this. Ah, will you go into the chart, sir, from earlier,
+1:20:44 the BCP chart, sir? BCP, yes, yes. This time you have to tell it yourself. In it, in it, some are empty; what's that? If it's empty, take the sign lord.
+1:20:53 Where they're empty, should we take the sign lord, or else take that house's star lord? Aha, no, no. Now, the 27th year:
+1:21:02 now it's 26, right? The 27th year... it's the 26th year. 20... in the 26th year, who's here? Ketu is there. This
+1:21:11 Ketu, who is aspecting him? The one who is the 5th lord is aspecting. That's a good thing, right? Yes. Understood? 6 and 10 are operating.
+1:21:19 Look at 7: 27. Then where is the 7th lord? With the 5th lord. So next year it's as good as marriage.
+1:21:26 Life is over.
+1:21:28 [laughs]
+1:21:31 For this 26 degrees (?), we shouldn't look at that star lord, right? You shouldn't look at all that, sir. Here, BCP means
+1:21:38 the signs, the lords: who is aspecting the lords, whom they're with, that's all, only that much. Now, how did you predict marriage here, sir?
+1:21:45 The 7th lord is together with the 5th lord; what else will he give but marriage, tell me? 5-7: for a love marriage to happen. Love marriage, maybe, right? The 5th lord...
+1:21:52 Whether love or arranged marriage (?), sir, one or the other, understood? It'll happen respectably, whatever it is, next year. Now, is there already a chance
+1:22:01 there? There, there, did you see Rahu? Rahu again is in a Jupiter nakshatra; I mean, you have to take Rahu, combining him with Jupiter and Saturn,
+1:22:09 you have to put it. Is that it? Send him off; do it somehow (?). Where are you looking? Actually, why... he's in a Jupiter nakshatra?
+1:22:18 Ahaha, I looked at the nakshatras here too. It's not like that, sir. Now Saturn: you should take only Saturn. Who is with Saturn, who aspected Saturn, that's all. All that
+1:22:27 Saturn... (?) they're diverting you off the track; be careful with these people [laughs]. Look, now this goes to 27 and starts,
+1:22:34 sir. At 27 it'll be done. Yes, from 27 to 28 this same one works.
+1:22:39 Again, ask about 28 (?). 28 means, again now, not Mercury, sir; then
+1:22:47 it's the lord of Pisces, so to speak. Again, the lord of Pisces, Jupiter: whom is he with? He's with Saturn. That will also be good: happily married.
+1:22:54 That too will be good, so to speak. Okay. Should we say it like that? Why didn't we consider that he's the 8th lord? The 8th lord is fine, right? The kona lord
+1:23:03 is in the 10th itself; he's good, right? With the 7th lord, the... lord (?), once, sir. Then... oh my, I don't know BCP, sir; please don't involve me and make me
+1:23:11 fail [laughs]. No, sir, listen once: the 8th lord Jupiter is together with Saturn, the 7th lord, right?
+1:23:18 I mean, a 7 and 8 combination in the 10th is something not good, right? Okay, what shall we do with him?
+1:23:26 It's not about doing anything to him, sir; I mean, the doubt is not that. Vinod garu, now, show (?) Saturn in the 10th... That's why, knowing you'd ask doubts like this, I
+1:23:34 am not following that. I'm only taking the chart, progression and dasha and telling nicely. Why should I have all these problems, tell me?
+1:23:41 Okay, Vinod garu, this [clears throat], tell me once: now in the 10th, Jupiter is the strong one, right? Should we look at it like that? Here, all that isn't there, right sir? All those are Meena
+1:23:49 Nadi principles, right? I mean, now, when going into the 10th, which planet is strong is something to be told; that's not in this. In BCP nothing like that is defined,
+1:23:56 right? In the Bhrigu Chakra Paddhati nothing like that is defined.
+1:24:00 Okay. It was exactly when I turned 25 that I came abroad. I mean, ah, the 12th lord: ah, there's 25, did you see? Yes. Ah, the 12th lord is in the 5th,
+1:24:08 and the 11th lord and 2nd lord are aspecting it, so money increases unexpectedly; we should say all that, right? All these, 5 and 11 (?) operated, so, ah,
+1:24:16 a lover too will be found, and that abroad; I think we can say all that. Thank you, thank you. Yes, all of it happened, all of it happened. I mean,
+1:24:25 he's saying he wants to marry, sir. That's it, sir: Mars and Venus are very close, right? Again, Venus in the star of
+1:24:33 Mars, with the Sun associated. If one more had joined, the matter would have changed, but he isn't there, so a bit... Sir, now he's admitted it, sir; you said it and he admitted it: love marriage, I mean,
+1:24:42 he admitted. That's not it, sir: the lad just missed Jara dosha [laughs]. Sir, what's this, sir, cursing me, scaring me [laughs].
+1:24:50 This is very good, sir: neatly 25, 26, 27, my life really turned. I mean, 25, I saw this...
+1:24:58 Okay. That, I mean, no, sir: after 36, is there nothing else, Vinod garu?
+1:25:06 When 36 comes, sir, we'll see about the later part then; come then, that's all. But it's good, sir, BCP too; I mean, easily...
+1:25:15 Do you want me to set up a course for that too? Okay, I'll set up such a course after I learn it.
+1:25:23 Without struggling so much, to analyse a chart easily, easily, sir. Here, there's a prompt here; copy it and go.
+1:25:30 Oh, no ChatGPT for us, sir. Okay, sir: you want it easy, you want it accurate, and you don't want to remember anything at all,
+1:25:39 and don't use ChatGPT (?) either. It's being recorded. Oh, super, then it'll come on YouTube, right? Okay. That, I could actually tell him more, sir,
+1:25:48 but Guruvu garu actually stopped it; never mind. So, how did you find it? The conclusion about BTR. Ah,
+1:25:55 so, do you want BTR next week? If you want it, comment that you want BTR next week too, and we'll do it next week. If you want prashna next week,
+1:26:03 comment "prashna" and we'll do it. Don't forget to like the video, and follow. Can we also comment "BCP", sir? Can we comment "BCP", garu (?)
+1:26:11 Yes, sir. Don't comment, I don't know it, right? [laughs] Why would you comment about something I don't know, tell me? Vinod garu, as part of the subject,
+1:26:18 I'm asking: yesterday you apparently said something about navamsa? Yes, a bit. That, that wasn't taught as part of the subject, sir. The kids, all the kids will learn it.
+1:26:27 Nothing was taught as part of the subject. We already know it, sir. Why do you need that? Yes, sir. That, under "advanced transits", some
+1:26:34 secrets we told; since they're secrets, we're not telling them outside. I mean, now, shouldn't we enter into that secret? What it is: for those who came to the class,
+1:26:43 we tell some things without recording, so to speak. We stopped the recording and told it as part of those things, that's all. Okay, okay, sir.
+1:26:51 Now some people are leaving after one and a half hours, right? After they leave, let's discuss it. Hey, we already know it, sir; I came yesterday and listened to all of it.
+1:26:59 Is it the same topic every day? Today I'll tell a different topic, sir. Once the recording is over, we'll tell you a different topic today, like that. That's why, if you want it, attending daily is compulsory. Door (?)
+1:27:08 garu, I've attended all of them; won't you give me this small discount, tell me? Poor me, yesterday was the first time (?), right sir? On Saturdays I'm very busy;
+1:27:15 I've been very busy. Okay, sir. So let's finish this class. So next week, do you want BTR or KP,
+1:27:23 or shall we do a messy chart without the mess? Tell me what, and we'll do it accordingly. Namaste everyone.
