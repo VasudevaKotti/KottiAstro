@@ -1,5 +1,9 @@
 # Kotti Astro — Neuro-Symbolic AI Platform Architecture
 
+
+
+**Live Platform:** [www.kottiastro.com](https://www.kottiastro.com) · **Platforms:** Web Application (PWA) & Native Mobile Apps (iOS App Store & Google Play)
+
 **Kotti Astro** is a production-grade **Neuro-Symbolic / Hybrid AI Platform** that combines an **LLM Semantic Planner & Narrator** with a **Deterministic Temporal Computation Engine (`LPRC`)** to deliver explainable, hallucination-free personalized temporal analytics across 9 languages.
 
 > **Architectural Doctrine:** *Language models interpret intent, plan queries, and narrate human context; deterministic code computes every date, weight, score, and temporal boundary.*
